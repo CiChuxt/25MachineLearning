@@ -1,0 +1,2 @@
+Method,Trustworthiness@10,2D label purity@10,Silhouette (labels),Global distance Spearman ρ,Runtime (s)
+UMAP,0.9423468834688347,0.841,0.43198296427726746,0.3714409556667699,9.672658081000009

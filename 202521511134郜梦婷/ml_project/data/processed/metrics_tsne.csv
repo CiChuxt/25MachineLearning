@@ -1,0 +1,2 @@
+Method,Trustworthiness@10,2D label purity@10,Silhouette (labels),Global distance Spearman ρ,Runtime (s)
+t-SNE,0.9293333333333333,0.786,0.1985408067703247,0.42819957205122494,455.200078547

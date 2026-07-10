@@ -1,0 +1,53 @@
+{
+  "dataset": {
+    "base": "sklearn.datasets.load_digits (UCI Optical Recognition of Handwritten Digits)",
+    "n_samples": 200,
+    "classes": 10,
+    "samples_per_class": 20,
+    "original_dimensions": 64,
+    "derived_dimensions": 784,
+    "preprocessing": "divide pixels by 16; cubic interpolate 8x8 to 28x28; flatten; StandardScaler during fitting"
+  },
+  "random_state": 42,
+  "PCA": {
+    "n_components": 2,
+    "svd_solver": "full"
+  },
+  "MDA": {
+    "implementation": "LinearDiscriminantAnalysis",
+    "solver": "svd",
+    "n_components": 2,
+    "supervised": true
+  },
+  "KPCA": {
+    "kernel": "rbf",
+    "gamma": "1/784",
+    "n_components": 2,
+    "eigen_solver": "arpack"
+  },
+  "Isomap": {
+    "n_neighbors": 12,
+    "n_components": 2,
+    "eigen_solver": "arpack"
+  },
+  "t-SNE": {
+    "pre_PCA_components": 50,
+    "perplexity": 30,
+    "learning_rate": "auto",
+    "max_iter": 750,
+    "init": "pca",
+    "method": "barnes_hut",
+    "angle": 0.5
+  },
+  "UMAP": {
+    "n_neighbors": 15,
+    "min_dist": 0.1,
+    "n_components": 2,
+    "metric": "euclidean"
+  },
+  "metrics": {
+    "trustworthiness_neighbors": 10,
+    "label_purity_neighbors": 10,
+    "global_distance_pairs": 12000
+  }
+}

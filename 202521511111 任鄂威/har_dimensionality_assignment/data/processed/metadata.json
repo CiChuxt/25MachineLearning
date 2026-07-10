@@ -1,0 +1,20 @@
+{
+  "train_rows": 7352,
+  "test_rows": 2947,
+  "total_rows": 10299,
+  "feature_count": 561,
+  "label_count": 6,
+  "constant_columns": [],
+  "activity_labels": [
+    "WALKING",
+    "WALKING_UPSTAIRS",
+    "WALKING_DOWNSTAIRS",
+    "SITTING",
+    "STANDING",
+    "LAYING"
+  ],
+  "standardization": {
+    "fit_on": "official train split",
+    "constant_column_count": 0
+  }
+}

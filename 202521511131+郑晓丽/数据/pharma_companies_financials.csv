@@ -1,0 +1,490 @@
+year,company_name,ticker,country_iso3,segment,revenue_usd_bn,operating_margin_pct,operating_income_usd_bn,rd_spend_usd_bn,pipeline_size_est
+2010,Johnson & Johnson,JNJ,USA,diversified_pharma,62.17,18.9,11.74,7.46,74
+2011,Johnson & Johnson,JNJ,USA,diversified_pharma,64.74,24.8,16.07,7.77,75
+2012,Johnson & Johnson,JNJ,USA,diversified_pharma,61.3,18.1,11.09,7.36,74
+2013,Johnson & Johnson,JNJ,USA,diversified_pharma,66.96,21.1,14.1,8.03,76
+2014,Johnson & Johnson,JNJ,USA,diversified_pharma,68.37,19.4,13.29,8.2,76
+2015,Johnson & Johnson,JNJ,USA,diversified_pharma,71.97,24.3,17.51,8.64,78
+2016,Johnson & Johnson,JNJ,USA,diversified_pharma,74.08,25.4,18.8,8.89,78
+2017,Johnson & Johnson,JNJ,USA,diversified_pharma,78.87,19.4,15.32,9.46,80
+2018,Johnson & Johnson,JNJ,USA,diversified_pharma,82.51,19.1,15.78,9.9,81
+2019,Johnson & Johnson,JNJ,USA,diversified_pharma,84.29,21.9,18.42,10.12,81
+2020,Johnson & Johnson,JNJ,USA,diversified_pharma,82.14,20.0,16.39,9.86,81
+2021,Johnson & Johnson,JNJ,USA,diversified_pharma,92.07,21.5,19.83,11.05,83
+2022,Johnson & Johnson,JNJ,USA,diversified_pharma,93.69,20.9,19.62,11.24,84
+2023,Johnson & Johnson,JNJ,USA,diversified_pharma,86.57,23.1,19.99,10.39,82
+2024,Johnson & Johnson,JNJ,USA,diversified_pharma,89.91,23.3,20.94,10.79,83
+2025,Johnson & Johnson,JNJ,USA,diversified_pharma,98.0,20.8,20.36,11.76,85
+2026,Johnson & Johnson,JNJ,USA,diversified_pharma,93.55,19.6,18.3,11.23,84
+2010,Pfizer,PFE,USA,big_pharma,69.06,31.4,21.68,12.43,115
+2011,Pfizer,PFE,USA,big_pharma,63.8,25.5,16.26,11.48,112
+2012,Pfizer,PFE,USA,big_pharma,58.77,30.0,17.6,10.58,110
+2013,Pfizer,PFE,USA,big_pharma,57.73,29.6,17.11,10.39,109
+2014,Pfizer,PFE,USA,big_pharma,51.64,28.7,14.82,9.29,105
+2015,Pfizer,PFE,USA,big_pharma,49.07,28.7,14.06,8.83,104
+2016,Pfizer,PFE,USA,big_pharma,51.8,28.7,14.85,9.32,106
+2017,Pfizer,PFE,USA,big_pharma,53.1,28.2,14.98,9.56,106
+2018,Pfizer,PFE,USA,big_pharma,54.07,29.9,16.16,9.73,107
+2019,Pfizer,PFE,USA,big_pharma,45.71,27.0,12.36,8.23,102
+2020,Pfizer,PFE,USA,big_pharma,41.31,26.1,10.78,7.44,99
+2021,Pfizer,PFE,USA,big_pharma,80.63,39.5,31.84,14.51,121
+2022,Pfizer,PFE,USA,big_pharma,97.73,37.9,37.04,17.59,128
+2023,Pfizer,PFE,USA,big_pharma,55.62,14.0,7.78,10.01,108
+2024,Pfizer,PFE,USA,big_pharma,63.91,16.8,10.71,11.5,112
+2025,Pfizer,PFE,USA,big_pharma,65.69,17.4,11.42,11.82,113
+2026,Pfizer,PFE,USA,big_pharma,64.32,13.6,8.76,11.58,113
+2010,Roche,ROG,CHE,big_pharma,52.84,27.4,14.49,9.51,106
+2011,Roche,ROG,CHE,big_pharma,49.34,24.6,12.14,8.88,104
+2012,Roche,ROG,CHE,big_pharma,49.63,29.5,14.64,8.93,104
+2013,Roche,ROG,CHE,big_pharma,51.0,30.1,15.34,9.18,105
+2014,Roche,ROG,CHE,big_pharma,49.9,28.5,14.21,8.98,104
+2015,Roche,ROG,CHE,big_pharma,51.25,27.1,13.88,9.23,105
+2016,Roche,ROG,CHE,big_pharma,53.19,26.0,13.84,9.57,106
+2017,Roche,ROG,CHE,big_pharma,54.04,26.9,14.51,9.73,107
+2018,Roche,ROG,CHE,big_pharma,54.8,29.5,16.14,9.86,107
+2019,Roche,ROG,CHE,big_pharma,58.62,28.0,16.44,10.55,110
+2020,Roche,ROG,CHE,big_pharma,63.0,29.3,18.48,11.34,112
+2021,Roche,ROG,CHE,big_pharma,66.72,27.7,18.48,12.01,114
+2022,Roche,ROG,CHE,big_pharma,67.83,27.8,18.83,12.21,114
+2023,Roche,ROG,CHE,big_pharma,62.36,23.7,14.75,11.23,112
+2024,Roche,ROG,CHE,big_pharma,62.47,25.0,15.62,11.24,112
+2025,Roche,ROG,CHE,big_pharma,68.31,25.3,17.27,12.3,115
+2026,Roche,ROG,CHE,big_pharma,69.21,31.9,22.08,12.46,115
+2010,Novartis,NVS,CHE,big_pharma,50.06,30.2,15.13,9.01,104
+2011,Novartis,NVS,CHE,big_pharma,48.97,27.4,13.41,8.81,104
+2012,Novartis,NVS,CHE,big_pharma,48.71,27.0,13.14,8.77,104
+2013,Novartis,NVS,CHE,big_pharma,51.15,22.8,11.67,9.21,105
+2014,Novartis,NVS,CHE,big_pharma,50.29,28.7,14.44,9.05,105
+2015,Novartis,NVS,CHE,big_pharma,48.53,23.7,11.48,8.73,103
+2016,Novartis,NVS,CHE,big_pharma,50.34,26.4,13.3,9.06,105
+2017,Novartis,NVS,CHE,big_pharma,51.42,28.1,14.43,9.26,105
+2018,Novartis,NVS,CHE,big_pharma,54.45,27.3,14.86,9.8,107
+2019,Novartis,NVS,CHE,big_pharma,48.78,28.5,13.92,8.78,104
+2020,Novartis,NVS,CHE,big_pharma,49.02,32.1,15.73,8.82,104
+2021,Novartis,NVS,CHE,big_pharma,50.86,29.1,14.78,9.15,105
+2022,Novartis,NVS,CHE,big_pharma,52.77,24.4,12.89,9.5,106
+2023,Novartis,NVS,CHE,big_pharma,46.5,25.2,11.73,8.37,102
+2024,Novartis,NVS,CHE,big_pharma,49.72,23.9,11.87,8.95,104
+2025,Novartis,NVS,CHE,big_pharma,53.15,27.3,14.53,9.57,106
+2026,Novartis,NVS,CHE,big_pharma,51.67,25.0,12.89,9.3,105
+2010,Merck,MRK,USA,big_pharma,46.33,30.5,14.14,8.34,102
+2011,Merck,MRK,USA,big_pharma,47.37,36.7,17.41,8.53,103
+2012,Merck,MRK,USA,big_pharma,43.88,25.0,10.98,7.9,100
+2013,Merck,MRK,USA,big_pharma,39.45,28.8,11.36,7.1,97
+2014,Merck,MRK,USA,big_pharma,39.8,26.8,10.65,7.16,97
+2015,Merck,MRK,USA,big_pharma,38.78,27.6,10.69,6.98,97
+2016,Merck,MRK,USA,big_pharma,41.75,28.5,11.89,7.51,99
+2017,Merck,MRK,USA,big_pharma,41.17,24.9,10.25,7.41,98
+2018,Merck,MRK,USA,big_pharma,40.23,26.5,10.68,7.24,98
+2019,Merck,MRK,USA,big_pharma,45.03,33.3,15.0,8.1,101
+2020,Merck,MRK,USA,big_pharma,48.09,30.9,14.88,8.66,103
+2021,Merck,MRK,USA,big_pharma,52.8,24.4,12.91,9.5,106
+2022,Merck,MRK,USA,big_pharma,57.61,25.8,14.88,10.37,109
+2023,Merck,MRK,USA,big_pharma,64.06,25.5,16.36,11.53,113
+2024,Merck,MRK,USA,big_pharma,65.84,25.3,16.65,11.85,113
+2025,Merck,MRK,USA,big_pharma,69.0,29.2,20.12,12.42,115
+2026,Merck,MRK,USA,big_pharma,69.67,27.9,19.42,12.54,115
+2013,AbbVie,ABBV,USA,big_pharma,18.43,29.3,5.41,3.32,77
+2014,AbbVie,ABBV,USA,big_pharma,20.57,24.3,5.0,3.7,80
+2015,AbbVie,ABBV,USA,big_pharma,22.04,28.5,6.28,3.97,82
+2016,AbbVie,ABBV,USA,big_pharma,27.47,28.5,7.82,4.94,87
+2017,AbbVie,ABBV,USA,big_pharma,29.4,28.9,8.48,5.29,89
+2018,AbbVie,ABBV,USA,big_pharma,34.11,28.7,9.78,6.14,93
+2019,AbbVie,ABBV,USA,big_pharma,38.82,31.3,12.16,6.99,97
+2020,AbbVie,ABBV,USA,big_pharma,46.39,32.6,15.13,8.35,102
+2021,AbbVie,ABBV,USA,big_pharma,52.19,24.3,12.7,9.39,106
+2022,AbbVie,ABBV,USA,big_pharma,55.67,33.0,18.34,10.02,108
+2023,AbbVie,ABBV,USA,big_pharma,57.18,27.5,15.7,10.29,109
+2024,AbbVie,ABBV,USA,big_pharma,55.66,32.4,18.02,10.02,108
+2025,AbbVie,ABBV,USA,big_pharma,56.25,25.3,14.24,10.13,108
+2026,AbbVie,ABBV,USA,big_pharma,61.17,26.8,16.4,11.01,111
+2010,Sanofi,SAN,FRA,big_pharma,32.4,27.5,8.91,5.83,92
+2011,Sanofi,SAN,FRA,big_pharma,33.68,32.2,10.85,6.06,93
+2012,Sanofi,SAN,FRA,big_pharma,34.37,29.9,10.29,6.19,93
+2013,Sanofi,SAN,FRA,big_pharma,33.12,27.9,9.22,5.96,92
+2014,Sanofi,SAN,FRA,big_pharma,35.26,24.3,8.58,6.35,94
+2015,Sanofi,SAN,FRA,big_pharma,36.14,27.0,9.76,6.5,95
+2016,Sanofi,SAN,FRA,big_pharma,37.45,24.0,9.0,6.74,96
+2017,Sanofi,SAN,FRA,big_pharma,35.8,26.5,9.5,6.44,94
+2018,Sanofi,SAN,FRA,big_pharma,34.76,31.0,10.78,6.26,94
+2019,Sanofi,SAN,FRA,big_pharma,36.13,32.0,11.57,6.5,95
+2020,Sanofi,SAN,FRA,big_pharma,35.83,25.9,9.29,6.45,94
+2021,Sanofi,SAN,FRA,big_pharma,39.19,28.7,11.26,7.05,97
+2022,Sanofi,SAN,FRA,big_pharma,43.13,24.7,10.67,7.76,100
+2023,Sanofi,SAN,FRA,big_pharma,43.22,28.7,12.4,7.78,100
+2024,Sanofi,SAN,FRA,big_pharma,44.22,33.6,14.87,7.96,101
+2025,Sanofi,SAN,FRA,big_pharma,41.43,27.1,11.24,7.46,99
+2026,Sanofi,SAN,FRA,big_pharma,42.11,26.2,11.04,7.58,99
+2010,GSK,GSK,GBR,big_pharma,28.67,31.6,9.06,5.16,88
+2011,GSK,GSK,GBR,big_pharma,26.91,26.0,7.01,4.84,87
+2012,GSK,GSK,GBR,big_pharma,24.94,27.5,6.86,4.49,85
+2013,GSK,GSK,GBR,big_pharma,24.89,26.4,6.57,4.48,85
+2014,GSK,GSK,GBR,big_pharma,24.16,27.7,6.7,4.35,84
+2015,GSK,GSK,GBR,big_pharma,22.67,23.6,5.35,4.08,82
+2016,GSK,GSK,GBR,big_pharma,27.93,24.1,6.74,5.03,88
+2017,GSK,GSK,GBR,big_pharma,27.58,33.5,9.24,4.96,87
+2018,GSK,GSK,GBR,big_pharma,33.6,24.5,8.23,6.05,93
+2019,GSK,GSK,GBR,big_pharma,32.09,29.0,9.32,5.78,91
+2020,GSK,GSK,GBR,big_pharma,35.92,25.0,8.99,6.46,94
+2021,GSK,GSK,GBR,big_pharma,31.47,30.3,9.54,5.66,91
+2022,GSK,GSK,GBR,big_pharma,29.68,26.9,7.98,5.34,89
+2023,GSK,GSK,GBR,big_pharma,30.18,23.9,7.21,5.43,90
+2024,GSK,GSK,GBR,big_pharma,31.18,27.2,8.48,5.61,91
+2025,GSK,GSK,GBR,big_pharma,32.68,26.3,8.61,5.88,92
+2026,GSK,GSK,GBR,big_pharma,33.98,31.0,10.55,6.12,93
+2010,AstraZeneca,AZN,GBR,big_pharma,33.46,29.1,9.72,6.02,92
+2011,AstraZeneca,AZN,GBR,big_pharma,31.63,28.0,8.86,5.69,91
+2012,AstraZeneca,AZN,GBR,big_pharma,29.22,28.9,8.46,5.26,89
+2013,AstraZeneca,AZN,GBR,big_pharma,28.06,34.3,9.62,5.05,88
+2014,AstraZeneca,AZN,GBR,big_pharma,27.7,29.2,8.08,4.99,87
+2015,AstraZeneca,AZN,GBR,big_pharma,24.14,24.7,5.95,4.35,84
+2016,AstraZeneca,AZN,GBR,big_pharma,24.7,28.8,7.11,4.45,84
+2017,AstraZeneca,AZN,GBR,big_pharma,23.3,22.8,5.3,4.19,83
+2018,AstraZeneca,AZN,GBR,big_pharma,22.72,29.4,6.67,4.09,82
+2019,AstraZeneca,AZN,GBR,big_pharma,23.55,26.6,6.26,4.24,83
+2020,AstraZeneca,AZN,GBR,big_pharma,26.81,28.2,7.55,4.83,87
+2021,AstraZeneca,AZN,GBR,big_pharma,35.19,27.7,9.74,6.33,94
+2022,AstraZeneca,AZN,GBR,big_pharma,44.07,28.5,12.54,7.93,101
+2023,AstraZeneca,AZN,GBR,big_pharma,47.87,20.3,9.72,8.62,103
+2024,AstraZeneca,AZN,GBR,big_pharma,53.72,28.5,15.33,9.67,107
+2025,AstraZeneca,AZN,GBR,big_pharma,58.57,26.9,15.75,10.54,110
+2026,AstraZeneca,AZN,GBR,big_pharma,58.82,29.0,17.05,10.59,110
+2010,Bristol-Myers Squibb,BMY,USA,big_pharma,20.54,23.4,4.81,3.7,80
+2011,Bristol-Myers Squibb,BMY,USA,big_pharma,19.42,27.0,5.25,3.5,78
+2012,Bristol-Myers Squibb,BMY,USA,big_pharma,18.31,24.8,4.55,3.3,77
+2013,Bristol-Myers Squibb,BMY,USA,big_pharma,17.58,31.9,5.61,3.16,76
+2014,Bristol-Myers Squibb,BMY,USA,big_pharma,17.48,33.2,5.8,3.15,76
+2015,Bristol-Myers Squibb,BMY,USA,big_pharma,17.2,29.3,5.04,3.1,76
+2016,Bristol-Myers Squibb,BMY,USA,big_pharma,19.6,29.3,5.75,3.53,79
+2017,Bristol-Myers Squibb,BMY,USA,big_pharma,21.12,27.1,5.73,3.8,81
+2018,Bristol-Myers Squibb,BMY,USA,big_pharma,22.65,25.9,5.87,4.08,82
+2019,Bristol-Myers Squibb,BMY,USA,big_pharma,33.53,24.5,8.2,6.04,93
+2020,Bristol-Myers Squibb,BMY,USA,big_pharma,43.51,27.4,11.93,7.83,100
+2021,Bristol-Myers Squibb,BMY,USA,big_pharma,45.94,30.3,13.9,8.27,102
+2022,Bristol-Myers Squibb,BMY,USA,big_pharma,48.79,30.2,14.73,8.78,104
+2023,Bristol-Myers Squibb,BMY,USA,big_pharma,42.93,27.8,11.93,7.73,100
+2024,Bristol-Myers Squibb,BMY,USA,big_pharma,46.63,26.4,12.33,8.39,102
+2025,Bristol-Myers Squibb,BMY,USA,big_pharma,51.43,29.9,15.38,9.26,105
+2026,Bristol-Myers Squibb,BMY,USA,big_pharma,48.96,25.0,12.22,8.81,104
+2010,Eli Lilly,LLY,USA,big_pharma,23.12,24.4,5.63,4.16,83
+2011,Eli Lilly,LLY,USA,big_pharma,22.01,28.9,6.37,3.96,82
+2012,Eli Lilly,LLY,USA,big_pharma,22.59,29.8,6.74,4.07,82
+2013,Eli Lilly,LLY,USA,big_pharma,19.77,28.9,5.72,3.56,79
+2014,Eli Lilly,LLY,USA,big_pharma,20.58,29.2,6.02,3.71,80
+2015,Eli Lilly,LLY,USA,big_pharma,20.89,21.8,4.56,3.76,80
+2016,Eli Lilly,LLY,USA,big_pharma,21.09,29.8,6.28,3.8,80
+2017,Eli Lilly,LLY,USA,big_pharma,21.97,32.4,7.12,3.95,81
+2018,Eli Lilly,LLY,USA,big_pharma,24.87,30.5,7.6,4.48,85
+2019,Eli Lilly,LLY,USA,big_pharma,24.13,30.4,7.35,4.34,84
+2020,Eli Lilly,LLY,USA,big_pharma,25.3,28.7,7.26,4.55,85
+2021,Eli Lilly,LLY,USA,big_pharma,26.69,28.8,7.69,4.8,86
+2022,Eli Lilly,LLY,USA,big_pharma,27.77,27.6,7.65,5.0,87
+2023,Eli Lilly,LLY,USA,big_pharma,33.94,33.2,11.25,6.11,93
+2024,Eli Lilly,LLY,USA,big_pharma,46.37,28.8,13.37,8.35,102
+2025,Eli Lilly,LLY,USA,big_pharma,59.78,36.4,21.78,10.76,110
+2026,Eli Lilly,LLY,USA,big_pharma,73.35,29.5,21.66,13.2,117
+2010,Novo Nordisk,NVO,DNK,big_pharma,11.77,30.5,3.59,2.12,67
+2011,Novo Nordisk,NVO,DNK,big_pharma,12.56,32.0,4.02,2.26,69
+2012,Novo Nordisk,NVO,DNK,big_pharma,13.77,30.5,4.2,2.48,71
+2013,Novo Nordisk,NVO,DNK,big_pharma,14.52,35.0,5.08,2.61,72
+2014,Novo Nordisk,NVO,DNK,big_pharma,15.05,22.0,3.31,2.71,73
+2015,Novo Nordisk,NVO,DNK,big_pharma,16.79,26.6,4.47,3.02,75
+2016,Novo Nordisk,NVO,DNK,big_pharma,16.39,31.9,5.23,2.95,75
+2017,Novo Nordisk,NVO,DNK,big_pharma,15.88,24.2,3.85,2.86,74
+2018,Novo Nordisk,NVO,DNK,big_pharma,16.2,25.6,4.15,2.92,74
+2019,Novo Nordisk,NVO,DNK,big_pharma,18.54,29.6,5.48,3.34,77
+2020,Novo Nordisk,NVO,DNK,big_pharma,19.76,23.8,4.7,3.56,79
+2021,Novo Nordisk,NVO,DNK,big_pharma,21.04,28.2,5.93,3.79,80
+2022,Novo Nordisk,NVO,DNK,big_pharma,25.14,39.4,9.9,4.53,85
+2023,Novo Nordisk,NVO,DNK,big_pharma,34.42,38.4,13.22,6.2,93
+2024,Novo Nordisk,NVO,DNK,big_pharma,43.07,38.7,16.66,7.75,100
+2025,Novo Nordisk,NVO,DNK,big_pharma,49.33,35.9,17.7,8.88,104
+2026,Novo Nordisk,NVO,DNK,big_pharma,54.7,38.6,21.11,9.85,107
+2010,Bayer,BAYN,DEU,diversified_pharma,48.68,20.8,10.14,5.84,69
+2011,Bayer,BAYN,DEU,diversified_pharma,49.08,21.2,10.41,5.89,69
+2012,Bayer,BAYN,DEU,diversified_pharma,48.97,24.5,11.99,5.88,69
+2013,Bayer,BAYN,DEU,diversified_pharma,47.06,18.1,8.52,5.65,68
+2014,Bayer,BAYN,DEU,diversified_pharma,48.57,15.0,7.29,5.83,69
+2015,Bayer,BAYN,DEU,diversified_pharma,50.56,24.2,12.26,6.07,70
+2016,Bayer,BAYN,DEU,diversified_pharma,49.14,22.6,11.1,5.9,69
+2017,Bayer,BAYN,DEU,diversified_pharma,49.11,26.0,12.76,5.89,69
+2018,Bayer,BAYN,DEU,diversified_pharma,45.41,14.1,6.38,5.45,67
+2019,Bayer,BAYN,DEU,diversified_pharma,47.38,7.5,3.55,5.69,68
+2020,Bayer,BAYN,DEU,diversified_pharma,48.13,5.6,2.68,5.78,69
+2021,Bayer,BAYN,DEU,diversified_pharma,49.85,8.9,4.45,5.98,69
+2022,Bayer,BAYN,DEU,diversified_pharma,54.7,15.2,8.29,6.56,71
+2023,Bayer,BAYN,DEU,diversified_pharma,48.54,11.2,5.43,5.83,69
+2024,Bayer,BAYN,DEU,diversified_pharma,46.14,11.4,5.27,5.54,68
+2025,Bayer,BAYN,DEU,diversified_pharma,48.11,4.5,2.17,5.77,69
+2026,Bayer,BAYN,DEU,diversified_pharma,50.38,8.2,4.12,6.05,70
+2010,Boehringer Ingelheim,BI,DEU,big_pharma,17.22,24.8,4.27,3.1,76
+2011,Boehringer Ingelheim,BI,DEU,big_pharma,17.0,29.3,4.98,3.06,75
+2012,Boehringer Ingelheim,BI,DEU,big_pharma,17.08,29.0,4.95,3.07,76
+2013,Boehringer Ingelheim,BI,DEU,big_pharma,17.21,32.0,5.5,3.1,76
+2014,Boehringer Ingelheim,BI,DEU,big_pharma,16.69,23.6,3.93,3.0,75
+2015,Boehringer Ingelheim,BI,DEU,big_pharma,17.24,27.0,4.66,3.1,76
+2016,Boehringer Ingelheim,BI,DEU,big_pharma,19.06,29.2,5.56,3.43,78
+2017,Boehringer Ingelheim,BI,DEU,big_pharma,20.09,29.0,5.83,3.62,79
+2018,Boehringer Ingelheim,BI,DEU,big_pharma,23.22,34.2,7.95,4.18,83
+2019,Boehringer Ingelheim,BI,DEU,big_pharma,22.3,28.5,6.35,4.01,82
+2020,Boehringer Ingelheim,BI,DEU,big_pharma,23.34,25.5,5.94,4.2,83
+2021,Boehringer Ingelheim,BI,DEU,big_pharma,24.7,27.9,6.9,4.45,84
+2022,Boehringer Ingelheim,BI,DEU,big_pharma,26.55,25.5,6.77,4.78,86
+2023,Boehringer Ingelheim,BI,DEU,big_pharma,25.55,21.8,5.57,4.6,85
+2024,Boehringer Ingelheim,BI,DEU,big_pharma,27.37,26.6,7.29,4.93,87
+2025,Boehringer Ingelheim,BI,DEU,big_pharma,29.89,33.8,10.1,5.38,89
+2026,Boehringer Ingelheim,BI,DEU,big_pharma,33.08,25.1,8.31,5.95,92
+2010,Takeda,4502,JPN,big_pharma,18.19,26.8,4.87,3.27,77
+2011,Takeda,4502,JPN,big_pharma,17.45,28.6,4.98,3.14,76
+2012,Takeda,4502,JPN,big_pharma,17.52,27.0,4.73,3.15,76
+2013,Takeda,4502,JPN,big_pharma,17.34,24.6,4.26,3.12,76
+2014,Takeda,4502,JPN,big_pharma,16.4,35.8,5.87,2.95,75
+2015,Takeda,4502,JPN,big_pharma,16.11,32.3,5.2,2.9,74
+2016,Takeda,4502,JPN,big_pharma,16.38,29.7,4.87,2.95,75
+2017,Takeda,4502,JPN,big_pharma,16.64,27.5,4.57,2.99,75
+2018,Takeda,4502,JPN,big_pharma,16.61,29.3,4.86,2.99,75
+2019,Takeda,4502,JPN,big_pharma,23.15,30.0,6.94,4.17,83
+2020,Takeda,4502,JPN,big_pharma,31.51,29.1,9.17,5.67,91
+2021,Takeda,4502,JPN,big_pharma,30.24,29.4,8.88,5.44,90
+2022,Takeda,4502,JPN,big_pharma,30.22,30.8,9.31,5.44,90
+2023,Takeda,4502,JPN,big_pharma,28.21,27.0,7.61,5.08,88
+2024,Takeda,4502,JPN,big_pharma,28.35,23.5,6.67,5.1,88
+2025,Takeda,4502,JPN,big_pharma,32.35,30.7,9.93,5.82,92
+2026,Takeda,4502,JPN,big_pharma,31.32,23.5,7.36,5.64,91
+2010,Amgen,AMGN,USA,biotech,13.82,30.4,4.2,3.45,19
+2011,Amgen,AMGN,USA,biotech,17.66,33.3,5.88,4.41,21
+2012,Amgen,AMGN,USA,biotech,17.44,33.4,5.83,4.36,21
+2013,Amgen,AMGN,USA,biotech,18.19,31.1,5.66,4.55,21
+2014,Amgen,AMGN,USA,biotech,20.44,31.7,6.49,5.11,22
+2015,Amgen,AMGN,USA,biotech,22.22,33.0,7.34,5.56,22
+2016,Amgen,AMGN,USA,biotech,22.82,29.9,6.83,5.7,23
+2017,Amgen,AMGN,USA,biotech,23.66,36.9,8.73,5.92,23
+2018,Amgen,AMGN,USA,biotech,23.02,29.3,6.75,5.76,23
+2019,Amgen,AMGN,USA,biotech,25.55,31.4,8.03,6.39,23
+2020,Amgen,AMGN,USA,biotech,26.49,30.7,8.13,6.62,24
+2021,Amgen,AMGN,USA,biotech,27.0,32.4,8.75,6.75,24
+2022,Amgen,AMGN,USA,biotech,26.5,36.7,9.73,6.63,24
+2023,Amgen,AMGN,USA,biotech,27.9,29.2,8.14,6.97,24
+2024,Amgen,AMGN,USA,biotech,32.95,33.4,10.99,8.24,25
+2025,Amgen,AMGN,USA,biotech,34.06,33.9,11.55,8.52,25
+2026,Amgen,AMGN,USA,biotech,37.39,35.4,13.25,9.35,26
+2010,Gilead Sciences,GILD,USA,biotech,7.35,29.6,2.18,1.84,16
+2011,Gilead Sciences,GILD,USA,biotech,12.21,29.5,3.6,3.05,19
+2012,Gilead Sciences,GILD,USA,biotech,17.91,31.5,5.64,4.48,21
+2013,Gilead Sciences,GILD,USA,biotech,22.55,31.5,7.11,5.64,22
+2014,Gilead Sciences,GILD,USA,biotech,27.83,29.0,8.06,6.96,24
+2015,Gilead Sciences,GILD,USA,biotech,33.3,34.0,11.32,8.32,25
+2016,Gilead Sciences,GILD,USA,biotech,29.44,33.7,9.91,7.36,24
+2017,Gilead Sciences,GILD,USA,biotech,25.83,38.1,9.84,6.46,23
+2018,Gilead Sciences,GILD,USA,biotech,22.04,31.1,6.85,5.51,22
+2019,Gilead Sciences,GILD,USA,biotech,22.88,28.9,6.61,5.72,23
+2020,Gilead Sciences,GILD,USA,biotech,23.79,29.3,6.98,5.95,23
+2021,Gilead Sciences,GILD,USA,biotech,25.94,33.0,8.56,6.49,23
+2022,Gilead Sciences,GILD,USA,biotech,27.34,29.7,8.12,6.84,24
+2023,Gilead Sciences,GILD,USA,biotech,27.84,34.2,9.53,6.96,24
+2024,Gilead Sciences,GILD,USA,biotech,28.56,30.0,8.58,7.14,24
+2025,Gilead Sciences,GILD,USA,biotech,30.35,32.6,9.88,7.59,25
+2026,Gilead Sciences,GILD,USA,biotech,29.68,31.8,9.44,7.42,24
+2012,Vertex Pharmaceuticals,VRTX,USA,biotech,1.51,29.3,0.44,0.38,10
+2013,Vertex Pharmaceuticals,VRTX,USA,biotech,1.34,27.6,0.37,0.34,9
+2014,Vertex Pharmaceuticals,VRTX,USA,biotech,1.21,35.7,0.43,0.3,9
+2015,Vertex Pharmaceuticals,VRTX,USA,biotech,0.99,33.1,0.33,0.25,8
+2016,Vertex Pharmaceuticals,VRTX,USA,biotech,1.55,28.5,0.44,0.39,10
+2017,Vertex Pharmaceuticals,VRTX,USA,biotech,2.31,28.8,0.67,0.58,11
+2018,Vertex Pharmaceuticals,VRTX,USA,biotech,3.06,38.0,1.16,0.77,12
+2019,Vertex Pharmaceuticals,VRTX,USA,biotech,4.44,29.5,1.31,1.11,14
+2020,Vertex Pharmaceuticals,VRTX,USA,biotech,6.24,36.8,2.3,1.56,15
+2021,Vertex Pharmaceuticals,VRTX,USA,biotech,7.28,32.7,2.38,1.82,16
+2022,Vertex Pharmaceuticals,VRTX,USA,biotech,9.4,27.0,2.54,2.35,17
+2023,Vertex Pharmaceuticals,VRTX,USA,biotech,9.53,30.7,2.93,2.38,17
+2024,Vertex Pharmaceuticals,VRTX,USA,biotech,10.83,34.4,3.73,2.71,18
+2025,Vertex Pharmaceuticals,VRTX,USA,biotech,12.34,26.7,3.29,3.08,19
+2026,Vertex Pharmaceuticals,VRTX,USA,biotech,13.71,30.3,4.15,3.43,19
+2010,Regeneron,REGN,USA,biotech,0.48,30.1,0.14,0.12,7
+2011,Regeneron,REGN,USA,biotech,1.17,33.6,0.39,0.29,9
+2012,Regeneron,REGN,USA,biotech,1.96,33.3,0.65,0.49,11
+2013,Regeneron,REGN,USA,biotech,2.51,33.6,0.84,0.63,11
+2014,Regeneron,REGN,USA,biotech,3.27,32.7,1.07,0.82,12
+2015,Regeneron,REGN,USA,biotech,3.93,33.3,1.31,0.98,13
+2016,Regeneron,REGN,USA,biotech,4.85,28.2,1.36,1.21,14
+2017,Regeneron,REGN,USA,biotech,5.96,32.7,1.95,1.49,15
+2018,Regeneron,REGN,USA,biotech,6.58,36.4,2.39,1.64,15
+2019,Regeneron,REGN,USA,biotech,7.5,32.1,2.41,1.88,16
+2020,Regeneron,REGN,USA,biotech,8.57,30.1,2.58,2.14,17
+2021,Regeneron,REGN,USA,biotech,10.5,30.4,3.19,2.62,18
+2022,Regeneron,REGN,USA,biotech,12.05,36.1,4.35,3.01,19
+2023,Regeneron,REGN,USA,biotech,12.7,24.8,3.14,3.17,19
+2024,Regeneron,REGN,USA,biotech,14.9,39.6,5.91,3.73,20
+2025,Regeneron,REGN,USA,biotech,14.92,26.2,3.91,3.73,20
+2026,Regeneron,REGN,USA,biotech,15.85,31.1,4.94,3.96,20
+2018,Moderna,MRNA,USA,biotech,0.14,28.7,0.04,0.03,4
+2019,Moderna,MRNA,USA,biotech,0.06,33.6,0.02,0.02,3
+2020,Moderna,MRNA,USA,biotech,0.76,34.1,0.26,0.19,8
+2021,Moderna,MRNA,USA,biotech,19.68,45.5,8.96,4.92,22
+2022,Moderna,MRNA,USA,biotech,19.11,44.6,8.52,4.78,21
+2023,Moderna,MRNA,USA,biotech,6.93,-10.2,-0.71,1.73,16
+2024,Moderna,MRNA,USA,biotech,3.42,-6.2,-0.21,0.85,13
+2025,Moderna,MRNA,USA,biotech,4.44,-5.5,-0.25,1.11,14
+2026,Moderna,MRNA,USA,biotech,5.26,-8.3,-0.44,1.31,14
+2018,BioNTech,BNTX,DEU,biotech,0.13,33.0,0.04,0.03,4
+2019,BioNTech,BNTX,DEU,biotech,0.13,32.5,0.04,0.03,4
+2020,BioNTech,BNTX,DEU,biotech,0.57,31.0,0.18,0.14,7
+2021,BioNTech,BNTX,DEU,biotech,17.96,44.9,8.07,4.49,21
+2022,BioNTech,BNTX,DEU,biotech,16.84,44.0,7.4,4.21,21
+2023,BioNTech,BNTX,DEU,biotech,3.79,-10.1,-0.38,0.95,13
+2024,BioNTech,BNTX,DEU,biotech,2.76,-3.6,-0.1,0.69,12
+2025,BioNTech,BNTX,DEU,biotech,3.4,-12.7,-0.43,0.85,13
+2026,BioNTech,BNTX,DEU,biotech,4.1,-4.2,-0.17,1.02,13
+2010,Biogen,BIIB,USA,biotech,4.6,28.0,1.29,1.15,14
+2011,Biogen,BIIB,USA,biotech,6.07,33.0,2.01,1.52,15
+2012,Biogen,BIIB,USA,biotech,7.67,33.3,2.55,1.92,16
+2013,Biogen,BIIB,USA,biotech,8.46,31.5,2.66,2.11,17
+2014,Biogen,BIIB,USA,biotech,9.82,33.9,3.33,2.45,17
+2015,Biogen,BIIB,USA,biotech,11.21,30.4,3.41,2.8,18
+2016,Biogen,BIIB,USA,biotech,11.55,30.6,3.53,2.89,18
+2017,Biogen,BIIB,USA,biotech,12.9,36.5,4.71,3.23,19
+2018,Biogen,BIIB,USA,biotech,13.32,30.7,4.09,3.33,19
+2019,Biogen,BIIB,USA,biotech,13.58,31.3,4.24,3.39,19
+2020,Biogen,BIIB,USA,biotech,13.79,25.2,3.48,3.45,19
+2021,Biogen,BIIB,USA,biotech,11.51,29.7,3.41,2.88,18
+2022,Biogen,BIIB,USA,biotech,9.51,29.1,2.77,2.38,17
+2023,Biogen,BIIB,USA,biotech,9.53,31.4,2.99,2.38,17
+2024,Biogen,BIIB,USA,biotech,10.03,31.3,3.14,2.51,17
+2025,Biogen,BIIB,USA,biotech,9.79,31.8,3.12,2.45,17
+2026,Biogen,BIIB,USA,biotech,10.84,29.1,3.15,2.71,18
+2010,Teva,TEVA,ISR,generics,15.67,13.7,2.14,0.94,24
+2011,Teva,TEVA,ISR,generics,16.71,13.9,2.33,1.0,25
+2012,Teva,TEVA,ISR,generics,17.53,14.1,2.47,1.05,25
+2013,Teva,TEVA,ISR,generics,17.7,12.0,2.12,1.06,25
+2014,Teva,TEVA,ISR,generics,18.86,8.4,1.58,1.13,26
+2015,Teva,TEVA,ISR,generics,18.8,14.1,2.64,1.13,26
+2016,Teva,TEVA,ISR,generics,19.23,8.9,1.72,1.15,26
+2017,Teva,TEVA,ISR,generics,19.11,11.4,2.18,1.15,26
+2018,Teva,TEVA,ISR,generics,17.65,3.5,0.62,1.06,25
+2019,Teva,TEVA,ISR,generics,17.31,12.4,2.14,1.04,25
+2020,Teva,TEVA,ISR,generics,16.84,10.3,1.74,1.01,25
+2021,Teva,TEVA,ISR,generics,15.27,4.6,0.71,0.92,24
+2022,Teva,TEVA,ISR,generics,15.1,8.2,1.23,0.91,24
+2023,Teva,TEVA,ISR,generics,16.06,7.4,1.19,0.96,24
+2024,Teva,TEVA,ISR,generics,16.64,8.5,1.41,1.0,25
+2025,Teva,TEVA,ISR,generics,17.4,10.4,1.81,1.04,25
+2026,Teva,TEVA,ISR,generics,16.67,1.3,0.21,1.0,25
+2010,Sun Pharma,SUNPHARMA,IND,generics,1.55,15.6,0.24,0.09,12
+2011,Sun Pharma,SUNPHARMA,IND,generics,1.98,6.4,0.13,0.12,13
+2012,Sun Pharma,SUNPHARMA,IND,generics,2.59,14.8,0.38,0.16,14
+2013,Sun Pharma,SUNPHARMA,IND,generics,3.29,13.5,0.45,0.2,15
+2014,Sun Pharma,SUNPHARMA,IND,generics,3.62,9.3,0.34,0.22,15
+2015,Sun Pharma,SUNPHARMA,IND,generics,4.2,11.1,0.47,0.25,16
+2016,Sun Pharma,SUNPHARMA,IND,generics,4.01,18.1,0.73,0.24,16
+2017,Sun Pharma,SUNPHARMA,IND,generics,4.29,15.4,0.66,0.26,16
+2018,Sun Pharma,SUNPHARMA,IND,generics,3.89,14.6,0.57,0.23,16
+2019,Sun Pharma,SUNPHARMA,IND,generics,4.33,13.3,0.58,0.26,16
+2020,Sun Pharma,SUNPHARMA,IND,generics,4.67,13.9,0.65,0.28,17
+2021,Sun Pharma,SUNPHARMA,IND,generics,5.06,13.9,0.7,0.3,17
+2022,Sun Pharma,SUNPHARMA,IND,generics,5.46,6.6,0.36,0.33,17
+2023,Sun Pharma,SUNPHARMA,IND,generics,5.81,10.3,0.6,0.35,18
+2024,Sun Pharma,SUNPHARMA,IND,generics,6.35,17.0,1.08,0.38,18
+2025,Sun Pharma,SUNPHARMA,IND,generics,7.69,16.1,1.24,0.46,19
+2026,Sun Pharma,SUNPHARMA,IND,generics,8.06,16.1,1.29,0.48,20
+2010,Hengrui Medicine,600276,CHN,big_pharma,0.55,28.6,0.16,0.1,27
+2011,Hengrui Medicine,600276,CHN,big_pharma,0.68,29.2,0.2,0.12,28
+2012,Hengrui Medicine,600276,CHN,big_pharma,0.85,24.1,0.21,0.15,30
+2013,Hengrui Medicine,600276,CHN,big_pharma,1.0,27.8,0.28,0.18,32
+2014,Hengrui Medicine,600276,CHN,big_pharma,1.21,30.7,0.37,0.22,34
+2015,Hengrui Medicine,600276,CHN,big_pharma,1.3,28.7,0.37,0.23,35
+2016,Hengrui Medicine,600276,CHN,big_pharma,1.7,27.4,0.47,0.31,38
+2017,Hengrui Medicine,600276,CHN,big_pharma,2.03,27.5,0.56,0.37,40
+2018,Hengrui Medicine,600276,CHN,big_pharma,2.44,24.2,0.59,0.44,42
+2019,Hengrui Medicine,600276,CHN,big_pharma,3.3,29.2,0.96,0.59,46
+2020,Hengrui Medicine,600276,CHN,big_pharma,3.79,27.6,1.05,0.68,48
+2021,Hengrui Medicine,600276,CHN,big_pharma,3.61,31.2,1.12,0.65,47
+2022,Hengrui Medicine,600276,CHN,big_pharma,3.09,28.1,0.87,0.56,45
+2023,Hengrui Medicine,600276,CHN,big_pharma,3.02,24.7,0.75,0.54,45
+2024,Hengrui Medicine,600276,CHN,big_pharma,3.44,29.1,1.0,0.62,46
+2025,Hengrui Medicine,600276,CHN,big_pharma,4.11,31.3,1.29,0.74,49
+2026,Hengrui Medicine,600276,CHN,big_pharma,4.48,24.3,1.09,0.81,50
+2010,Daiichi Sankyo,4568,JPN,big_pharma,9.41,28.7,2.7,1.69,63
+2011,Daiichi Sankyo,4568,JPN,big_pharma,9.18,26.3,2.41,1.65,63
+2012,Daiichi Sankyo,4568,JPN,big_pharma,9.05,26.5,2.4,1.63,62
+2013,Daiichi Sankyo,4568,JPN,big_pharma,8.56,28.9,2.48,1.54,61
+2014,Daiichi Sankyo,4568,JPN,big_pharma,8.36,28.7,2.4,1.5,61
+2015,Daiichi Sankyo,4568,JPN,big_pharma,8.27,24.6,2.03,1.49,61
+2016,Daiichi Sankyo,4568,JPN,big_pharma,8.18,32.3,2.64,1.47,60
+2017,Daiichi Sankyo,4568,JPN,big_pharma,8.11,21.7,1.76,1.46,60
+2018,Daiichi Sankyo,4568,JPN,big_pharma,8.04,28.1,2.26,1.45,60
+2019,Daiichi Sankyo,4568,JPN,big_pharma,8.91,27.6,2.46,1.6,62
+2020,Daiichi Sankyo,4568,JPN,big_pharma,9.65,20.0,1.93,1.74,64
+2021,Daiichi Sankyo,4568,JPN,big_pharma,10.32,32.7,3.37,1.86,65
+2022,Daiichi Sankyo,4568,JPN,big_pharma,10.73,26.9,2.88,1.93,66
+2023,Daiichi Sankyo,4568,JPN,big_pharma,12.22,25.3,3.09,2.2,68
+2024,Daiichi Sankyo,4568,JPN,big_pharma,13.67,32.3,4.41,2.46,71
+2025,Daiichi Sankyo,4568,JPN,big_pharma,16.8,27.0,4.53,3.02,75
+2026,Daiichi Sankyo,4568,JPN,big_pharma,19.06,28.1,5.36,3.43,78
+2010,Medtronic,MDT,USA,medical_devices,16.65,19.7,3.28,1.33,12
+2011,Medtronic,MDT,USA,medical_devices,18.47,21.1,3.9,1.48,12
+2012,Medtronic,MDT,USA,medical_devices,23.1,22.6,5.21,1.85,13
+2013,Medtronic,MDT,USA,medical_devices,23.1,22.9,5.29,1.85,13
+2014,Medtronic,MDT,USA,medical_devices,25.92,18.5,4.8,2.07,14
+2015,Medtronic,MDT,USA,medical_devices,29.6,20.1,5.95,2.37,14
+2016,Medtronic,MDT,USA,medical_devices,29.34,20.0,5.88,2.35,14
+2017,Medtronic,MDT,USA,medical_devices,29.7,21.3,6.32,2.38,14
+2018,Medtronic,MDT,USA,medical_devices,28.02,22.0,6.17,2.24,14
+2019,Medtronic,MDT,USA,medical_devices,28.45,15.7,4.46,2.28,14
+2020,Medtronic,MDT,USA,medical_devices,28.85,20.3,5.84,2.31,14
+2021,Medtronic,MDT,USA,medical_devices,29.68,22.5,6.68,2.37,14
+2022,Medtronic,MDT,USA,medical_devices,30.45,18.8,5.72,2.44,15
+2023,Medtronic,MDT,USA,medical_devices,30.66,19.9,6.09,2.45,15
+2024,Medtronic,MDT,USA,medical_devices,32.67,17.0,5.55,2.61,15
+2025,Medtronic,MDT,USA,medical_devices,34.44,20.2,6.95,2.76,15
+2026,Medtronic,MDT,USA,medical_devices,33.07,14.1,4.67,2.65,15
+2010,Abbott Laboratories,ABT,USA,diversified_pharma,35.19,21.3,7.51,4.22,62
+2011,Abbott Laboratories,ABT,USA,diversified_pharma,32.14,21.9,7.04,3.86,61
+2012,Abbott Laboratories,ABT,USA,diversified_pharma,29.48,24.8,7.32,3.54,59
+2013,Abbott Laboratories,ABT,USA,diversified_pharma,25.46,18.5,4.71,3.05,57
+2014,Abbott Laboratories,ABT,USA,diversified_pharma,22.61,22.9,5.17,2.71,55
+2015,Abbott Laboratories,ABT,USA,diversified_pharma,21.18,20.7,4.38,2.54,54
+2016,Abbott Laboratories,ABT,USA,diversified_pharma,22.08,16.9,3.73,2.65,54
+2017,Abbott Laboratories,ABT,USA,diversified_pharma,26.53,20.3,5.39,3.18,57
+2018,Abbott Laboratories,ABT,USA,diversified_pharma,30.23,22.1,6.69,3.63,60
+2019,Abbott Laboratories,ABT,USA,diversified_pharma,32.3,25.1,8.12,3.88,61
+2020,Abbott Laboratories,ABT,USA,diversified_pharma,33.91,19.4,6.58,4.07,62
+2021,Abbott Laboratories,ABT,USA,diversified_pharma,39.72,17.4,6.91,4.77,65
+2022,Abbott Laboratories,ABT,USA,diversified_pharma,44.21,22.3,9.86,5.31,67
+2023,Abbott Laboratories,ABT,USA,diversified_pharma,39.92,26.8,10.69,4.79,65
+2024,Abbott Laboratories,ABT,USA,diversified_pharma,41.13,28.2,11.59,4.94,65
+2025,Abbott Laboratories,ABT,USA,diversified_pharma,43.16,18.2,7.84,5.18,66
+2026,Abbott Laboratories,ABT,USA,diversified_pharma,45.09,18.8,8.46,5.41,67
+2010,Stryker,SYK,USA,medical_devices,7.14,21.2,1.51,0.57,9
+2011,Stryker,SYK,USA,medical_devices,7.95,18.1,1.44,0.64,10
+2012,Stryker,SYK,USA,medical_devices,8.59,23.5,2.02,0.69,10
+2013,Stryker,SYK,USA,medical_devices,9.25,21.6,2.0,0.74,10
+2014,Stryker,SYK,USA,medical_devices,9.77,14.4,1.4,0.78,10
+2015,Stryker,SYK,USA,medical_devices,9.81,17.4,1.71,0.78,10
+2016,Stryker,SYK,USA,medical_devices,11.17,18.3,2.04,0.89,11
+2017,Stryker,SYK,USA,medical_devices,12.31,25.6,3.16,0.98,11
+2018,Stryker,SYK,USA,medical_devices,13.53,21.2,2.87,1.08,11
+2019,Stryker,SYK,USA,medical_devices,13.9,20.2,2.81,1.11,11
+2020,Stryker,SYK,USA,medical_devices,14.4,21.3,3.07,1.15,12
+2021,Stryker,SYK,USA,medical_devices,16.98,24.9,4.24,1.36,12
+2022,Stryker,SYK,USA,medical_devices,18.57,21.8,4.04,1.49,12
+2023,Stryker,SYK,USA,medical_devices,19.8,19.7,3.91,1.58,13
+2024,Stryker,SYK,USA,medical_devices,23.25,22.6,5.25,1.86,13
+2025,Stryker,SYK,USA,medical_devices,24.45,22.7,5.54,1.96,14
+2026,Stryker,SYK,USA,medical_devices,26.39,23.6,6.23,2.11,14
+2010,Danaher,DHR,USA,diagnostics,13.32,20.9,2.79,1.33,7
+2011,Danaher,DHR,USA,diagnostics,14.83,13.2,1.96,1.48,8
+2012,Danaher,DHR,USA,diagnostics,16.35,11.1,1.81,1.63,8
+2013,Danaher,DHR,USA,diagnostics,16.75,23.4,3.91,1.68,8
+2014,Danaher,DHR,USA,diagnostics,19.4,18.5,3.59,1.94,8
+2015,Danaher,DHR,USA,diagnostics,20.16,26.1,5.27,2.02,8
+2016,Danaher,DHR,USA,diagnostics,20.07,28.7,5.77,2.01,8
+2017,Danaher,DHR,USA,diagnostics,20.13,23.2,4.68,2.01,8
+2018,Danaher,DHR,USA,diagnostics,20.89,22.4,4.68,2.09,8
+2019,Danaher,DHR,USA,diagnostics,20.47,21.7,4.44,2.05,8
+2020,Danaher,DHR,USA,diagnostics,22.28,17.9,3.99,2.23,9
+2021,Danaher,DHR,USA,diagnostics,26.69,19.8,5.28,2.67,9
+2022,Danaher,DHR,USA,diagnostics,32.39,22.1,7.16,3.24,10
+2023,Danaher,DHR,USA,diagnostics,23.7,21.7,5.14,2.37,9
+2024,Danaher,DHR,USA,diagnostics,24.16,23.9,5.76,2.42,9
+2025,Danaher,DHR,USA,diagnostics,25.23,18.9,4.76,2.52,9
+2026,Danaher,DHR,USA,diagnostics,28.94,20.8,6.01,2.89,9

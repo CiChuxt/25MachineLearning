@@ -1,0 +1,723 @@
+approval_id,approval_date,year,drug_name,sponsor_company,drug_type,therapy_area,peak_sales_usd_bn_est,is_blockbuster,is_mega_blockbuster,description,is_real_headline
+APP0062,2010-01-27,2010,Zolile-pril,Ionis,small_mol,neurology,2.09,1,0,FDA approval — neurology small_mol,0
+APP0056,2010-02-13,2010,Ilemyr-zumab,Acadia,small_mol,neurology,0.28,0,0,FDA approval — neurology small_mol,0
+APP0047,2010-03-09,2010,Lircor-tide,BioMarin,small_mol,gastrointestinal,0.42,0,0,FDA approval — gastrointestinal small_mol,0
+APP0063,2010-03-12,2010,Urbxan-tinib,GSK,biologic,oncology,0.02,0,0,FDA approval — oncology biologic,0
+APP0049,2010-04-04,2010,Ravxan-tide,Mirum,biologic,oncology,0.44,0,0,FDA approval — oncology biologic,0
+APP0059,2010-04-06,2010,Yarqul-nib,Reata,small_mol,oncology,2.96,1,0,FDA approval — oncology small_mol,0
+APP0001,2010-04-29,2010,Provenge,Dendreon,biologic,oncology,0.4,0,0,First therapeutic cancer vaccine,1
+APP0057,2010-05-12,2010,Durxyl-stat,Madrigal,biologic,oncology,0.2,0,0,FDA approval — oncology biologic,0
+APP0055,2010-05-25,2010,Tevesp-rab,Alnylam,biologic,respiratory,0.15,0,0,FDA approval — respiratory biologic,0
+APP0053,2010-06-19,2010,Quldur-lozide,Travere,small_mol,oncology,0.08,0,0,FDA approval — oncology small_mol,0
+APP0058,2010-06-22,2010,Benmyr-lozide,Acadia,small_mol,rare_disease,0.15,0,0,FDA approval — rare_disease small_mol,0
+APP0061,2010-07-05,2010,Solxyl-lozide,GSK,biologic,cardiovascular,0.31,0,0,FDA approval — cardiovascular biologic,0
+APP0065,2010-07-24,2010,Abresp-mab,GSK,small_mol,oncology,0.5,0,0,FDA approval — oncology small_mol,0
+APP0046,2010-08-02,2010,Zoltev-cept,Horizon,cell_therapy,neurology,0.13,0,0,FDA approval — neurology cell_therapy,0
+APP0048,2010-08-14,2010,Javmyr-pril,Sarepta,small_mol,psychiatry,0.11,0,0,FDA approval — psychiatry small_mol,0
+APP0045,2010-08-17,2010,Durzol-tinib,Lilly,gene_therapy,neurology,0.84,0,0,FDA approval — neurology gene_therapy,0
+APP0051,2010-10-04,2010,Espola-tide,Karuna,biologic,oncology,0.68,0,0,FDA approval — oncology biologic,0
+APP0050,2010-10-06,2010,Ravwer-tide,Takeda,vaccine,rare_disease,0.25,0,0,FDA approval — rare_disease vaccine,0
+APP0003,2010-10-15,2010,Botox Chronic Migraine,Allergan,biologic,neurology,3.0,1,0,Migraine indication,1
+APP0002,2010-10-19,2010,Pradaxa,Boehringer Ingelheim,small_mol,cardiovascular,4.5,1,0,First new oral anticoagulant in 50 years,1
+APP0052,2010-10-26,2010,Javnev-stat,Alnylam,small_mol,immunology,1.89,1,0,FDA approval — immunology small_mol,0
+APP0054,2010-11-24,2010,Qulvor-cel,AbbVie,small_mol,oncology,0.06,0,0,FDA approval — oncology small_mol,0
+APP0060,2010-12-04,2010,Ravsol-tinib,Jazz Pharma,small_mol,rare_disease,0.02,0,0,FDA approval — rare_disease small_mol,0
+APP0064,2010-12-12,2010,Nevgar-vir,Incyte,biologic,oncology,0.14,0,0,FDA approval — oncology biologic,0
+APP0075,2011-01-06,2011,Xanvor-sertib,Regeneron,biologic,psychiatry,3.52,1,0,FDA approval — psychiatry biologic,0
+APP0070,2011-01-11,2011,Myrdur-fenib,Incyte,small_mol,ophthalmology,0.27,0,0,FDA approval — ophthalmology small_mol,0
+APP0072,2011-01-16,2011,Xylyar-cept,Sarepta,biologic,immunology,0.12,0,0,FDA approval — immunology biologic,0
+APP0067,2011-01-24,2011,Benola-rab,Alnylam,small_mol,rare_disease,0.17,0,0,FDA approval — rare_disease small_mol,0
+APP0079,2011-01-26,2011,Quldur-tinib,BMS,small_mol,oncology,0.03,0,0,FDA approval — oncology small_mol,0
+APP0092,2011-02-03,2011,Zolxan-pril,Novo Nordisk,small_mol,rare_disease,0.04,0,0,FDA approval — rare_disease small_mol,0
+APP0095,2011-02-11,2011,Olamyr-vir,Bayer,small_mol,immunology,0.01,0,0,FDA approval — immunology small_mol,0
+APP0066,2011-02-12,2011,Vorxyl-vir,Karuna,small_mol,rare_disease,0.19,0,0,FDA approval — rare_disease small_mol,0
+APP0089,2011-02-24,2011,Urbxan-fenib,Lilly,small_mol,neurology,0.02,0,0,FDA approval — neurology small_mol,0
+APP0004,2011-03-25,2011,Yervoy,BMS,biologic,oncology,1.5,1,0,First checkpoint inhibitor (CTLA-4),1
+APP0091,2011-03-27,2011,Prepre-stat,Takeda,vaccine,dermatology,0.25,0,0,FDA approval — dermatology vaccine,0
+APP0085,2011-04-18,2011,Kimile-vir,Merck,small_mol,immunology,5.11,1,1,FDA approval — immunology small_mol,0
+APP0082,2011-04-27,2011,Coresp-vir,BMS,small_mol,cardiovascular,0.62,0,0,FDA approval — cardiovascular small_mol,0
+APP0078,2011-05-10,2011,Qulvor-fenib,Takeda,small_mol,oncology,0.09,0,0,FDA approval — oncology small_mol,0
+APP0073,2011-05-14,2011,Vorcor-stat,Ionis,small_mol,oncology,0.06,0,0,FDA approval — oncology small_mol,0
+APP0084,2011-05-26,2011,Myrkim-pril,AstraZeneca,small_mol,respiratory,3.42,1,0,FDA approval — respiratory small_mol,0
+APP0081,2011-06-26,2011,Zolola-sertib,Vertex,biologic,immunology,0.03,0,0,FDA approval — immunology biologic,0
+APP0005,2011-07-01,2011,Xarelto,Bayer/J&J,small_mol,cardiovascular,7.0,1,1,Oral anticoagulant,1
+APP0086,2011-07-20,2011,Tevola-tinib,Gilead,small_mol,cardiovascular,0.18,0,0,FDA approval — cardiovascular small_mol,0
+APP0069,2011-08-06,2011,Durabr-tinib,Sanofi,small_mol,metabolic,1.4,1,0,FDA approval — metabolic small_mol,0
+APP0068,2011-08-07,2011,Myrlir-cel,Mirum,small_mol,metabolic,0.01,0,0,FDA approval — metabolic small_mol,0
+APP0094,2011-09-24,2011,Solqul-tide,AbbVie,small_mol,oncology,0.06,0,0,FDA approval — oncology small_mol,0
+APP0074,2011-10-08,2011,Ravkim-mab,Novo Nordisk,small_mol,neurology,0.7,0,0,FDA approval — neurology small_mol,0
+APP0077,2011-11-03,2011,Cordur-tide,Merck,small_mol,oncology,0.07,0,0,FDA approval — oncology small_mol,0
+APP0076,2011-11-26,2011,Durxyl-cel,BMS,small_mol,oncology,0.04,0,0,FDA approval — oncology small_mol,0
+APP0083,2011-12-03,2011,Lirvor-cept,Amgen,biologic,rare_disease,1.46,1,0,FDA approval — rare_disease biologic,0
+APP0093,2011-12-10,2011,Vorsol-tide,Jazz Pharma,small_mol,cardiovascular,0.46,0,0,FDA approval — cardiovascular small_mol,0
+APP0090,2011-12-11,2011,Urbesp-zumab,AbbVie,small_mol,immunology,0.01,0,0,FDA approval — immunology small_mol,0
+APP0088,2011-12-16,2011,Prejav-rab,Reata,small_mol,oncology,0.15,0,0,FDA approval — oncology small_mol,0
+APP0080,2011-12-21,2011,Abrabr-tide,Sarepta,small_mol,rare_disease,0.57,0,0,FDA approval — rare_disease small_mol,0
+APP0087,2011-12-26,2011,Yarben-fenib,Novo Nordisk,biologic,immunology,0.11,0,0,FDA approval — immunology biologic,0
+APP0071,2011-12-27,2011,Ravgar-rab,BMS,small_mol,psychiatry,0.14,0,0,FDA approval — psychiatry small_mol,0
+APP0113,2012-01-13,2012,Vortev-rab,Vertex,small_mol,psychiatry,0.18,0,0,FDA approval — psychiatry small_mol,0
+APP0007,2012-01-31,2012,Kalydeco,Vertex,small_mol,rare_disease,1.5,1,0,First CFTR modulator for cystic fibrosis,1
+APP0110,2012-02-12,2012,Yarvor-nib,Amgen,biologic,oncology,0.04,0,0,FDA approval — oncology biologic,0
+APP0107,2012-02-16,2012,Espwer-cept,Karuna,small_mol,respiratory,0.1,0,0,FDA approval — respiratory small_mol,0
+APP0134,2012-02-27,2012,Garben-rab,Ionis,small_mol,cardiovascular,0.03,0,0,FDA approval — cardiovascular small_mol,0
+APP0097,2012-03-03,2012,Lirkim-mab,BioMarin,vaccine,infectious,0.48,0,0,FDA approval — infectious vaccine,0
+APP0121,2012-03-05,2012,Tevdur-tide,Takeda,small_mol,neurology,8.13,1,1,FDA approval — neurology small_mol,0
+APP0133,2012-03-06,2012,Wertev-tide,Gilead,small_mol,oncology,0.16,0,0,FDA approval — oncology small_mol,0
+APP0132,2012-03-06,2012,Kimcor-stat,Roche,biologic,neurology,0.01,0,0,FDA approval — neurology biologic,0
+APP0098,2012-03-15,2012,Solola-fenib,Novartis,gene_therapy,ophthalmology,1.16,1,0,FDA approval — ophthalmology gene_therapy,0
+APP0120,2012-03-22,2012,Vorjav-stat,AbbVie,biologic,metabolic,0.07,0,0,FDA approval — metabolic biologic,0
+APP0118,2012-03-24,2012,Javvor-vir,Gilead,biologic,metabolic,0.02,0,0,FDA approval — metabolic biologic,0
+APP0101,2012-04-09,2012,Bencor-tide,Incyte,small_mol,oncology,2.1,1,0,FDA approval — oncology small_mol,0
+APP0104,2012-04-10,2012,Urbdur-fenib,Lilly,small_mol,cardiovascular,0.04,0,0,FDA approval — cardiovascular small_mol,0
+APP0099,2012-05-02,2012,Abryar-vir,GSK,biologic,respiratory,6.98,1,1,FDA approval — respiratory biologic,0
+APP0122,2012-05-04,2012,Espabr-fenib,Takeda,small_mol,neurology,0.33,0,0,FDA approval — neurology small_mol,0
+APP0119,2012-05-08,2012,Sollir-sertib,Vertex,small_mol,oncology,0.12,0,0,FDA approval — oncology small_mol,0
+APP0123,2012-05-14,2012,Qulvor-fenib,Alkermes,vaccine,infectious,0.15,0,0,FDA approval — infectious vaccine,0
+APP0103,2012-05-15,2012,Nevwer-stat,Karuna,gene_therapy,psychiatry,0.13,0,0,FDA approval — psychiatry gene_therapy,0
+APP0130,2012-05-27,2012,Garqul-rab,Amgen,small_mol,oncology,0.15,0,0,FDA approval — oncology small_mol,0
+APP0125,2012-06-16,2012,Espabr-tinib,Amgen,biologic,immunology,0.86,0,0,FDA approval — immunology biologic,0
+APP0096,2012-07-06,2012,Lirlir-lozide,Incyte,small_mol,oncology,0.47,0,0,FDA approval — oncology small_mol,0
+APP0116,2012-07-06,2012,Qulesp-fenib,Sanofi,small_mol,metabolic,0.01,0,0,FDA approval — metabolic small_mol,0
+APP0131,2012-07-11,2012,Prexan-mab,Lilly,small_mol,rare_disease,0.01,0,0,FDA approval — rare_disease small_mol,0
+APP0124,2012-07-22,2012,Myrnev-pril,Lilly,small_mol,neurology,0.68,0,0,FDA approval — neurology small_mol,0
+APP0102,2012-07-23,2012,Corile-zumab,Acadia,biologic,dermatology,0.43,0,0,FDA approval — dermatology biologic,0
+APP0111,2012-08-14,2012,Zolnev-sertib,AstraZeneca,small_mol,neurology,0.02,0,0,FDA approval — neurology small_mol,0
+APP0108,2012-08-24,2012,Espqul-lozide,BMS,small_mol,gastrointestinal,1.34,1,0,FDA approval — gastrointestinal small_mol,0
+APP0106,2012-08-26,2012,Corcor-vir,Sanofi,small_mol,dermatology,0.09,0,0,FDA approval — dermatology small_mol,0
+APP0127,2012-08-26,2012,Durtev-mab,Novartis,biologic,oncology,0.01,0,0,FDA approval — oncology biologic,0
+APP0128,2012-08-26,2012,Duresp-tinib,Mirum,biologic,cardiovascular,0.89,0,0,FDA approval — cardiovascular biologic,0
+APP0117,2012-09-08,2012,Durjav-sertib,GSK,gene_therapy,oncology,0.5,0,0,FDA approval — oncology gene_therapy,0
+APP0100,2012-09-15,2012,Myrdur-lozide,Vertex,biologic,respiratory,1.16,1,0,FDA approval — respiratory biologic,0
+APP0126,2012-10-27,2012,Lirvor-cept,Roche,vaccine,psychiatry,0.18,0,0,FDA approval — psychiatry vaccine,0
+APP0109,2012-11-11,2012,Javdur-tide,Novo Nordisk,small_mol,rare_disease,0.31,0,0,FDA approval — rare_disease small_mol,0
+APP0114,2012-11-12,2012,Javurb-tide,Horizon,vaccine,infectious,0.42,0,0,FDA approval — infectious vaccine,0
+APP0105,2012-11-17,2012,Zolkim-sertib,GSK,small_mol,oncology,0.66,0,0,FDA approval — oncology small_mol,0
+APP0129,2012-12-08,2012,Vorzol-tide,Travere,small_mol,respiratory,0.04,0,0,FDA approval — respiratory small_mol,0
+APP0112,2012-12-12,2012,Qulpre-lozide,Amgen,biologic,oncology,0.38,0,0,FDA approval — oncology biologic,0
+APP0115,2012-12-26,2012,Nevnev-pril,BioMarin,small_mol,cardiovascular,0.02,0,0,FDA approval — cardiovascular small_mol,0
+APP0006,2012-12-28,2012,Eliquis,BMS/Pfizer,small_mol,cardiovascular,18.0,1,1,"Best-selling drug 2024, blockbuster anticoagulant",1
+APP0160,2013-01-21,2013,Yaryar-sertib,Mirum,small_mol,neurology,0.02,0,0,FDA approval — neurology small_mol,0
+APP0153,2013-02-02,2013,Urblir-fenib,Merck,biologic,oncology,0.24,0,0,FDA approval — oncology biologic,0
+APP0157,2013-02-08,2013,Qulcor-cept,GSK,small_mol,immunology,13.22,1,1,FDA approval — immunology small_mol,0
+APP0140,2013-02-20,2013,Tevdur-rab,Bayer,vaccine,neurology,0.55,0,0,FDA approval — neurology vaccine,0
+APP0136,2013-03-25,2013,Garxyl-lozide,Roche,small_mol,rare_disease,0.26,0,0,FDA approval — rare_disease small_mol,0
+APP0154,2013-04-18,2013,Javabr-vir,Amgen,biologic,neurology,0.02,0,0,FDA approval — neurology biologic,0
+APP0146,2013-04-18,2013,Solqul-sertib,Takeda,small_mol,rare_disease,0.08,0,0,FDA approval — rare_disease small_mol,0
+APP0148,2013-05-21,2013,Xanola-sertib,Karuna,vaccine,oncology,0.02,0,0,FDA approval — oncology vaccine,0
+APP0150,2013-05-21,2013,Ravxyl-fenib,Merck,small_mol,immunology,1.41,1,0,FDA approval — immunology small_mol,0
+APP0149,2013-05-22,2013,Yarben-cept,Sanofi,small_mol,oncology,0.09,0,0,FDA approval — oncology small_mol,0
+APP0143,2013-05-22,2013,Zoljav-cept,Incyte,biologic,dermatology,0.03,0,0,FDA approval — dermatology biologic,0
+APP0147,2013-06-02,2013,Kimwer-mab,Regeneron,vaccine,oncology,1.07,1,0,FDA approval — oncology vaccine,0
+APP0159,2013-06-03,2013,Espmyr-zumab,Karuna,small_mol,oncology,0.13,0,0,FDA approval — oncology small_mol,0
+APP0155,2013-06-22,2013,Weryar-tide,Vertex,small_mol,oncology,0.02,0,0,FDA approval — oncology small_mol,0
+APP0138,2013-06-22,2013,Werola-mab,Jazz Pharma,cell_therapy,oncology,3.91,1,0,FDA approval — oncology cell_therapy,0
+APP0137,2013-07-11,2013,Xylurb-cept,AstraZeneca,biologic,oncology,0.63,0,0,FDA approval — oncology biologic,0
+APP0141,2013-08-08,2013,Nevwer-stat,Amgen,small_mol,oncology,1.83,1,0,FDA approval — oncology small_mol,0
+APP0145,2013-08-11,2013,Urbesp-cept,AstraZeneca,vaccine,dermatology,0.01,0,0,FDA approval — dermatology vaccine,0
+APP0144,2013-08-13,2013,Wernev-rab,Novo Nordisk,small_mol,ophthalmology,0.37,0,0,FDA approval — ophthalmology small_mol,0
+APP0161,2013-08-17,2013,Nevjav-sertib,Amgen,small_mol,metabolic,0.04,0,0,FDA approval — metabolic small_mol,0
+APP0156,2013-08-24,2013,Esprav-fenib,Gilead,biologic,oncology,0.06,0,0,FDA approval — oncology biologic,0
+APP0152,2013-10-09,2013,Corabr-lozide,Novartis,small_mol,oncology,0.07,0,0,FDA approval — oncology small_mol,0
+APP0142,2013-10-22,2013,Ravurb-vir,Horizon,small_mol,respiratory,0.15,0,0,FDA approval — respiratory small_mol,0
+APP0012,2013-11-13,2013,Imbruvica,AbbVie/J&J,small_mol,oncology,9.8,1,1,BTK inhibitor for CLL,1
+APP0151,2013-11-22,2013,Zolrav-fenib,AstraZeneca,biologic,oncology,0.28,0,0,FDA approval — oncology biologic,0
+APP0139,2013-11-24,2013,Corcor-lozide,Acadia,biologic,oncology,0.37,0,0,FDA approval — oncology biologic,0
+APP0135,2013-12-03,2013,Myrdur-rab,AbbVie,small_mol,neurology,0.56,0,0,FDA approval — neurology small_mol,0
+APP0158,2013-12-04,2013,Abrabr-pril,Acadia,biologic,infectious,0.03,0,0,FDA approval — infectious biologic,0
+APP0008,2013-12-06,2013,Sovaldi,Gilead,small_mol,infectious,12.4,1,1,"Hepatitis C cure, $84K controversy",1
+APP0177,2014-01-03,2014,Abrpre-pril,Novartis,biologic,neurology,0.08,0,0,FDA approval — neurology biologic,0
+APP0195,2014-01-03,2014,Zolxan-sertib,Bayer,cell_therapy,cardiovascular,0.28,0,0,FDA approval — cardiovascular cell_therapy,0
+APP0169,2014-01-16,2014,Tevlir-tide,Amgen,biologic,neurology,0.04,0,0,FDA approval — neurology biologic,0
+APP0186,2014-01-23,2014,Yardur-nib,Vertex,biologic,neurology,0.13,0,0,FDA approval — neurology biologic,0
+APP0178,2014-02-12,2014,Espola-mab,Sarepta,biologic,oncology,0.66,0,0,FDA approval — oncology biologic,0
+APP0201,2014-02-20,2014,Durvor-sertib,J&J,gene_therapy,metabolic,0.44,0,0,FDA approval — metabolic gene_therapy,0
+APP0199,2014-02-24,2014,Javpre-sertib,Sarepta,small_mol,immunology,0.89,0,0,FDA approval — immunology small_mol,0
+APP0171,2014-03-01,2014,Garxyl-mab,Reata,small_mol,oncology,0.75,0,0,FDA approval — oncology small_mol,0
+APP0197,2014-03-06,2014,Espmyr-vir,Lilly,small_mol,oncology,0.1,0,0,FDA approval — oncology small_mol,0
+APP0180,2014-03-15,2014,Qulqul-zumab,Travere,biologic,oncology,0.07,0,0,FDA approval — oncology biologic,0
+APP0165,2014-03-25,2014,Zoltev-tide,BioMarin,biologic,neurology,0.01,0,0,FDA approval — neurology biologic,0
+APP0168,2014-03-27,2014,Garqul-zumab,Travere,cell_therapy,ophthalmology,0.03,0,0,FDA approval — ophthalmology cell_therapy,0
+APP0189,2014-04-11,2014,Garjav-stat,BMS,small_mol,infectious,0.54,0,0,FDA approval — infectious small_mol,0
+APP0179,2014-04-25,2014,Zolesp-lozide,Mirum,small_mol,gastrointestinal,0.49,0,0,FDA approval — gastrointestinal small_mol,0
+APP0176,2014-05-01,2014,Urbesp-tide,Acadia,biologic,neurology,0.01,0,0,FDA approval — neurology biologic,0
+APP0173,2014-05-02,2014,Durjav-zumab,J&J,cell_therapy,rare_disease,0.76,0,0,FDA approval — rare_disease cell_therapy,0
+APP0166,2014-05-07,2014,Zoljav-cept,Alnylam,biologic,oncology,0.53,0,0,FDA approval — oncology biologic,0
+APP0187,2014-05-24,2014,Solola-tide,Novartis,small_mol,neurology,0.53,0,0,FDA approval — neurology small_mol,0
+APP0188,2014-06-04,2014,Garsol-cept,AstraZeneca,small_mol,neurology,0.27,0,0,FDA approval — neurology small_mol,0
+APP0200,2014-07-04,2014,Voresp-cept,GSK,biologic,oncology,0.09,0,0,FDA approval — oncology biologic,0
+APP0170,2014-07-04,2014,Espzol-zumab,Merck,vaccine,oncology,0.24,0,0,FDA approval — oncology vaccine,0
+APP0181,2014-07-05,2014,Wertev-sertib,Incyte,small_mol,metabolic,1.7,1,0,FDA approval — metabolic small_mol,0
+APP0175,2014-07-09,2014,Abrnev-tide,Gilead,small_mol,neurology,2.89,1,0,FDA approval — neurology small_mol,0
+APP0182,2014-07-09,2014,Durtev-pril,Bayer,biologic,dermatology,0.01,0,0,FDA approval — dermatology biologic,0
+APP0194,2014-07-09,2014,Corurb-sertib,Pfizer,gene_therapy,neurology,0.3,0,0,FDA approval — neurology gene_therapy,0
+APP0162,2014-07-13,2014,Esppre-mab,AbbVie,small_mol,dermatology,0.01,0,0,FDA approval — dermatology small_mol,0
+APP0198,2014-07-19,2014,Solrav-stat,GSK,small_mol,oncology,0.06,0,0,FDA approval — oncology small_mol,0
+APP0163,2014-08-12,2014,Preben-lozide,Novartis,biologic,metabolic,0.17,0,0,FDA approval — metabolic biologic,0
+APP0184,2014-08-17,2014,Zolmyr-nib,Acadia,small_mol,respiratory,0.11,0,0,FDA approval — respiratory small_mol,0
+APP0183,2014-08-26,2014,Kimurb-cel,Acadia,small_mol,metabolic,0.03,0,0,FDA approval — metabolic small_mol,0
+APP0010,2014-09-04,2014,Keytruda,Merck,biologic,oncology,30.0,1,1,"PD-1 inhibitor, world's top-selling drug 2024",1
+APP0174,2014-09-05,2014,Prewer-sertib,Incyte,biologic,oncology,0.03,0,0,FDA approval — oncology biologic,0
+APP0185,2014-09-19,2014,Tevnev-stat,Gilead,small_mol,oncology,0.35,0,0,FDA approval — oncology small_mol,0
+APP0167,2014-09-24,2014,Voryar-pril,Amgen,small_mol,respiratory,0.75,0,0,FDA approval — respiratory small_mol,0
+APP0196,2014-09-24,2014,Kimxan-lozide,Cytokinetics,small_mol,neurology,0.09,0,0,FDA approval — neurology small_mol,0
+APP0202,2014-10-05,2014,Garyar-nib,Acadia,small_mol,immunology,0.12,0,0,FDA approval — immunology small_mol,0
+APP0009,2014-10-10,2014,Harvoni,Gilead,small_mol,infectious,19.1,1,1,"HCV combination, peak $19B sales",1
+APP0190,2014-10-22,2014,Xyltev-stat,Roche,small_mol,cardiovascular,0.32,0,0,FDA approval — cardiovascular small_mol,0
+APP0192,2014-11-08,2014,Zolkim-pril,Travere,biologic,rare_disease,0.1,0,0,FDA approval — rare_disease biologic,0
+APP0191,2014-11-12,2014,Xylgar-rab,Horizon,biologic,oncology,1.27,1,0,FDA approval — oncology biologic,0
+APP0164,2014-12-05,2014,Lircor-cel,Horizon,small_mol,immunology,0.26,0,0,FDA approval — immunology small_mol,0
+APP0193,2014-12-15,2014,Xylben-tinib,Incyte,small_mol,oncology,0.03,0,0,FDA approval — oncology small_mol,0
+APP0172,2014-12-16,2014,Qulrav-pril,J&J,biologic,oncology,0.73,0,0,FDA approval — oncology biologic,0
+APP0011,2014-12-22,2014,Opdivo,BMS,biologic,oncology,12.0,1,1,"PD-1 inhibitor, blockbuster",1
+APP0214,2015-01-02,2015,Bengar-fenib,BioMarin,small_mol,neurology,0.03,0,0,FDA approval — neurology small_mol,0
+APP0232,2015-01-11,2015,Espcor-zumab,Horizon,small_mol,oncology,6.65,1,1,FDA approval — oncology small_mol,0
+APP0222,2015-01-11,2015,Xanjav-mab,Roche,gene_therapy,immunology,0.49,0,0,FDA approval — immunology gene_therapy,0
+APP0237,2015-01-14,2015,Abrben-fenib,Travere,small_mol,ophthalmology,2.62,1,0,FDA approval — ophthalmology small_mol,0
+APP0247,2015-01-19,2015,Solmyr-tide,Reata,biologic,infectious,0.01,0,0,FDA approval — infectious biologic,0
+APP0013,2015-01-21,2015,Cosentyx,Novartis,biologic,immunology,5.0,1,1,IL-17 inhibitor for psoriasis,1
+APP0231,2015-02-08,2015,Xanyar-nib,Novo Nordisk,biologic,oncology,0.47,0,0,FDA approval — oncology biologic,0
+APP0238,2015-02-18,2015,Kimgar-pril,Merck,small_mol,infectious,0.14,0,0,FDA approval — infectious small_mol,0
+APP0213,2015-02-26,2015,Abrdur-tinib,Jazz Pharma,biologic,oncology,0.04,0,0,FDA approval — oncology biologic,0
+APP0221,2015-03-06,2015,Javzol-rab,AstraZeneca,biologic,oncology,0.08,0,0,FDA approval — oncology biologic,0
+APP0245,2015-03-15,2015,Olawer-fenib,Bayer,small_mol,neurology,0.05,0,0,FDA approval — neurology small_mol,0
+APP0234,2015-03-24,2015,Durnev-tide,GSK,biologic,cardiovascular,1.74,1,0,FDA approval — cardiovascular biologic,0
+APP0215,2015-04-06,2015,Myrsol-nib,Alkermes,biologic,oncology,0.09,0,0,FDA approval — oncology biologic,0
+APP0230,2015-04-17,2015,Kimurb-stat,AbbVie,gene_therapy,psychiatry,0.16,0,0,FDA approval — psychiatry gene_therapy,0
+APP0229,2015-04-21,2015,Javpre-pril,Merck,small_mol,neurology,0.41,0,0,FDA approval — neurology small_mol,0
+APP0241,2015-04-21,2015,Abrjav-rab,Ionis,small_mol,ophthalmology,3.2,1,0,FDA approval — ophthalmology small_mol,0
+APP0243,2015-05-15,2015,Xanesp-cel,Alkermes,biologic,immunology,0.03,0,0,FDA approval — immunology biologic,0
+APP0205,2015-05-26,2015,Urbtev-tinib,Pfizer,small_mol,neurology,0.32,0,0,FDA approval — neurology small_mol,0
+APP0209,2015-06-08,2015,Garxan-pril,Incyte,small_mol,cardiovascular,0.33,0,0,FDA approval — cardiovascular small_mol,0
+APP0239,2015-06-09,2015,Coresp-cept,Pfizer,small_mol,oncology,0.01,0,0,FDA approval — oncology small_mol,0
+APP0226,2015-06-12,2015,Espnev-fenib,Horizon,small_mol,oncology,0.03,0,0,FDA approval — oncology small_mol,0
+APP0233,2015-06-14,2015,Corben-tide,Horizon,small_mol,immunology,0.51,0,0,FDA approval — immunology small_mol,0
+APP0206,2015-06-25,2015,Ilenev-nib,Karuna,biologic,neurology,0.05,0,0,FDA approval — neurology biologic,0
+APP0240,2015-07-04,2015,Corben-mab,AbbVie,biologic,infectious,0.21,0,0,FDA approval — infectious biologic,0
+APP0244,2015-07-16,2015,Solnev-pril,Madrigal,small_mol,oncology,0.04,0,0,FDA approval — oncology small_mol,0
+APP0212,2015-07-23,2015,Vorile-cel,AstraZeneca,small_mol,oncology,2.15,1,0,FDA approval — oncology small_mol,0
+APP0015,2015-07-24,2015,Praluent,Sanofi/Regeneron,biologic,cardiovascular,0.4,0,0,PCSK9 inhibitor,1
+APP0218,2015-07-25,2015,Xylben-stat,Lilly,biologic,oncology,0.11,0,0,FDA approval — oncology biologic,0
+APP0228,2015-08-09,2015,Xylzol-lozide,Takeda,biologic,oncology,1.82,1,0,FDA approval — oncology biologic,0
+APP0211,2015-08-16,2015,Zolnev-lozide,Amgen,biologic,cardiovascular,0.11,0,0,FDA approval — cardiovascular biologic,0
+APP0219,2015-08-18,2015,Werwer-tide,Sarepta,gene_therapy,oncology,0.18,0,0,FDA approval — oncology gene_therapy,0
+APP0225,2015-08-23,2015,Esptev-cept,Amgen,small_mol,rare_disease,11.41,1,1,FDA approval — rare_disease small_mol,0
+APP0217,2015-08-26,2015,Myrile-vir,Amgen,small_mol,gastrointestinal,0.13,0,0,FDA approval — gastrointestinal small_mol,0
+APP0014,2015-08-27,2015,Repatha,Amgen,biologic,cardiovascular,1.4,1,0,PCSK9 inhibitor,1
+APP0223,2015-09-12,2015,Benxyl-nib,Pfizer,gene_therapy,infectious,0.05,0,0,FDA approval — infectious gene_therapy,0
+APP0227,2015-09-21,2015,Solesp-tide,Incyte,small_mol,oncology,0.02,0,0,FDA approval — oncology small_mol,0
+APP0224,2015-09-21,2015,Qulmyr-rab,Madrigal,biologic,neurology,0.06,0,0,FDA approval — neurology biologic,0
+APP0216,2015-09-27,2015,Yarxan-nib,Gilead,vaccine,neurology,2.11,1,0,FDA approval — neurology vaccine,0
+APP0246,2015-10-04,2015,Xanben-nib,Roche,biologic,oncology,0.01,0,0,FDA approval — oncology biologic,0
+APP0203,2015-10-07,2015,Durlir-stat,AstraZeneca,small_mol,oncology,0.21,0,0,FDA approval — oncology small_mol,0
+APP0210,2015-10-09,2015,Nevurb-stat,Sanofi,small_mol,neurology,0.32,0,0,FDA approval — neurology small_mol,0
+APP0208,2015-10-17,2015,Lirrav-pril,Bayer,small_mol,rare_disease,0.55,0,0,FDA approval — rare_disease small_mol,0
+APP0236,2015-11-02,2015,Lirxan-sertib,Gilead,small_mol,rare_disease,0.09,0,0,FDA approval — rare_disease small_mol,0
+APP0242,2015-11-10,2015,Garnev-nib,Travere,biologic,oncology,0.06,0,0,FDA approval — oncology biologic,0
+APP0235,2015-12-08,2015,Vorile-mab,Mirum,small_mol,metabolic,0.09,0,0,FDA approval — metabolic small_mol,0
+APP0220,2015-12-10,2015,Kimrav-stat,BMS,small_mol,immunology,0.24,0,0,FDA approval — immunology small_mol,0
+APP0204,2015-12-10,2015,Esppre-lozide,AstraZeneca,small_mol,oncology,0.3,0,0,FDA approval — oncology small_mol,0
+APP0207,2015-12-27,2015,Xyltev-rab,Incyte,small_mol,rare_disease,0.13,0,0,FDA approval — rare_disease small_mol,0
+APP0263,2016-01-12,2016,Kimmyr-vir,Regeneron,small_mol,oncology,0.97,0,0,FDA approval — oncology small_mol,0
+APP0261,2016-01-25,2016,Qulola-mab,Acadia,biologic,rare_disease,0.88,0,0,FDA approval — rare_disease biologic,0
+APP0262,2016-01-26,2016,Xylile-sertib,GSK,biologic,immunology,0.18,0,0,FDA approval — immunology biologic,0
+APP0267,2016-01-27,2016,Vorcor-cept,Alkermes,biologic,oncology,0.61,0,0,FDA approval — oncology biologic,0
+APP0266,2016-02-21,2016,Abrmyr-cept,BMS,biologic,neurology,4.82,1,0,FDA approval — neurology biologic,0
+APP0256,2016-03-02,2016,Olatev-tinib,Bayer,vaccine,respiratory,0.84,0,0,FDA approval — respiratory vaccine,0
+APP0255,2016-03-10,2016,Vordur-pril,Cytokinetics,small_mol,rare_disease,0.04,0,0,FDA approval — rare_disease small_mol,0
+APP0252,2016-04-03,2016,Vorzol-zumab,Reata,small_mol,immunology,2.57,1,0,FDA approval — immunology small_mol,0
+APP0259,2016-04-03,2016,Espzol-cel,Pfizer,biologic,oncology,0.06,0,0,FDA approval — oncology biologic,0
+APP0253,2016-04-10,2016,Nevjav-mab,BioMarin,vaccine,neurology,3.63,1,0,FDA approval — neurology vaccine,0
+APP0268,2016-04-19,2016,Xyljav-nib,BioMarin,small_mol,rare_disease,0.01,0,0,FDA approval — rare_disease small_mol,0
+APP0260,2016-05-05,2016,Xanzol-fenib,Horizon,small_mol,immunology,0.1,0,0,FDA approval — immunology small_mol,0
+APP0249,2016-06-05,2016,Prenev-pril,Regeneron,small_mol,oncology,0.1,0,0,FDA approval — oncology small_mol,0
+APP0265,2016-07-19,2016,Xylqul-tide,Regeneron,small_mol,oncology,2.0,1,0,FDA approval — oncology small_mol,0
+APP0264,2016-08-09,2016,Ravjav-tide,Merck,small_mol,oncology,0.01,0,0,FDA approval — oncology small_mol,0
+APP0258,2016-08-26,2016,Myrwer-nib,Reata,small_mol,respiratory,0.08,0,0,FDA approval — respiratory small_mol,0
+APP0269,2016-09-06,2016,Durben-pril,Novartis,small_mol,oncology,1.76,1,0,FDA approval — oncology small_mol,0
+APP0257,2016-09-14,2016,Vorwer-mab,Alkermes,biologic,oncology,0.09,0,0,FDA approval — oncology biologic,0
+APP0254,2016-10-04,2016,Nevyar-nib,BioMarin,small_mol,oncology,5.93,1,1,FDA approval — oncology small_mol,0
+APP0250,2016-11-16,2016,Ravurb-cept,Incyte,biologic,immunology,0.06,0,0,FDA approval — immunology biologic,0
+APP0251,2016-12-15,2016,Olaola-tide,Regeneron,small_mol,immunology,0.01,0,0,FDA approval — immunology small_mol,0
+APP0248,2016-12-19,2016,Lirkim-lozide,Sarepta,biologic,gastrointestinal,0.21,0,0,FDA approval — gastrointestinal biologic,0
+APP0020,2016-12-23,2016,Spinraza,Biogen,small_mol,rare_disease,2.1,1,0,First SMA treatment,1
+APP0286,2017-01-11,2017,Xanjav-vir,J&J,biologic,rare_disease,4.27,1,0,FDA approval — rare_disease biologic,0
+APP0291,2017-01-15,2017,Weresp-rab,GSK,biologic,infectious,2.05,1,0,FDA approval — infectious biologic,0
+APP0293,2017-01-20,2017,Urbnev-tide,Sarepta,small_mol,rare_disease,2.77,1,0,FDA approval — rare_disease small_mol,0
+APP0311,2017-02-11,2017,Benile-tide,Novartis,small_mol,neurology,0.91,0,0,FDA approval — neurology small_mol,0
+APP0275,2017-02-12,2017,Garpre-sertib,Amgen,small_mol,immunology,0.71,0,0,FDA approval — immunology small_mol,0
+APP0285,2017-03-05,2017,Werrav-sertib,Takeda,small_mol,rare_disease,0.08,0,0,FDA approval — rare_disease small_mol,0
+APP0284,2017-03-07,2017,Wernev-fenib,Merck,gene_therapy,neurology,1.74,1,0,FDA approval — neurology gene_therapy,0
+APP0298,2017-03-19,2017,Vormyr-rab,J&J,cell_therapy,immunology,0.02,0,0,FDA approval — immunology cell_therapy,0
+APP0296,2017-03-24,2017,Ravben-cel,Novo Nordisk,biologic,oncology,0.25,0,0,FDA approval — oncology biologic,0
+APP0299,2017-03-27,2017,Javtev-rab,Cytokinetics,biologic,rare_disease,0.04,0,0,FDA approval — rare_disease biologic,0
+APP0017,2017-03-28,2017,Dupixent,Sanofi/Regeneron,biologic,immunology,14.0,1,1,IL-4/IL-13 atopic dermatitis,1
+APP0016,2017-03-28,2017,Ocrevus,Roche,biologic,neurology,7.0,1,1,MS treatment,1
+APP0288,2017-04-14,2017,Nevgar-stat,J&J,small_mol,ophthalmology,0.5,0,0,FDA approval — ophthalmology small_mol,0
+APP0282,2017-04-16,2017,Tevrav-tinib,Mirum,small_mol,neurology,0.07,0,0,FDA approval — neurology small_mol,0
+APP0280,2017-04-23,2017,Nevkim-fenib,Novartis,small_mol,cardiovascular,0.04,0,0,FDA approval — cardiovascular small_mol,0
+APP0277,2017-05-06,2017,Wervor-fenib,GSK,biologic,metabolic,1.34,1,0,FDA approval — metabolic biologic,0
+APP0271,2017-05-11,2017,Ravsol-rab,Regeneron,gene_therapy,gastrointestinal,0.92,0,0,FDA approval — gastrointestinal gene_therapy,0
+APP0305,2017-05-18,2017,Abrkim-pril,Novo Nordisk,small_mol,infectious,0.1,0,0,FDA approval — infectious small_mol,0
+APP0278,2017-05-20,2017,Zolesp-tinib,Ionis,biologic,rare_disease,0.52,0,0,FDA approval — rare_disease biologic,0
+APP0279,2017-05-21,2017,Preurb-cel,AbbVie,cell_therapy,neurology,1.45,1,0,FDA approval — neurology cell_therapy,0
+APP0300,2017-05-27,2017,Benqul-tide,Lilly,small_mol,neurology,0.01,0,0,FDA approval — neurology small_mol,0
+APP0272,2017-06-01,2017,Ravile-fenib,Vertex,biologic,oncology,0.01,0,0,FDA approval — oncology biologic,0
+APP0302,2017-06-01,2017,Lirtev-tide,AstraZeneca,small_mol,immunology,0.7,0,0,FDA approval — immunology small_mol,0
+APP0312,2017-06-15,2017,Bendur-vir,BioMarin,small_mol,oncology,0.23,0,0,FDA approval — oncology small_mol,0
+APP0308,2017-06-18,2017,Liresp-tide,Bayer,biologic,neurology,0.14,0,0,FDA approval — neurology biologic,0
+APP0309,2017-07-03,2017,Olaesp-mab,Novo Nordisk,small_mol,cardiovascular,0.05,0,0,FDA approval — cardiovascular small_mol,0
+APP0297,2017-07-04,2017,Javurb-tide,Jazz Pharma,small_mol,oncology,0.01,0,0,FDA approval — oncology small_mol,0
+APP0306,2017-07-12,2017,Espabr-rab,Regeneron,small_mol,oncology,0.45,0,0,FDA approval — oncology small_mol,0
+APP0287,2017-07-18,2017,Corzol-cel,Vertex,small_mol,dermatology,2.26,1,0,FDA approval — dermatology small_mol,0
+APP0294,2017-07-19,2017,Benxyl-nib,Acadia,biologic,neurology,0.03,0,0,FDA approval — neurology biologic,0
+APP0301,2017-07-20,2017,Werlir-mab,Novartis,small_mol,oncology,0.03,0,0,FDA approval — oncology small_mol,0
+APP0274,2017-07-23,2017,Espxan-zumab,BioMarin,vaccine,psychiatry,1.72,1,0,FDA approval — psychiatry vaccine,0
+APP0283,2017-07-24,2017,Tevtev-tide,Vertex,biologic,oncology,3.12,1,0,FDA approval — oncology biologic,0
+APP0281,2017-08-02,2017,Myrnev-sertib,Madrigal,small_mol,immunology,0.11,0,0,FDA approval — immunology small_mol,0
+APP0295,2017-08-26,2017,Zolile-rab,Cytokinetics,biologic,neurology,0.38,0,0,FDA approval — neurology biologic,0
+APP0018,2017-08-30,2017,Kymriah,Novartis,cell_therapy,oncology,0.2,0,0,First CAR-T approved by FDA,1
+APP0307,2017-09-11,2017,Javgar-lozide,Sarepta,small_mol,cardiovascular,0.18,0,0,FDA approval — cardiovascular small_mol,0
+APP0289,2017-09-12,2017,Cornev-fenib,Horizon,biologic,oncology,0.11,0,0,FDA approval — oncology biologic,0
+APP0315,2017-09-18,2017,Prewer-vir,BioMarin,small_mol,dermatology,0.03,0,0,FDA approval — dermatology small_mol,0
+APP0303,2017-09-19,2017,Tevgar-cel,Reata,gene_therapy,oncology,1.11,1,0,FDA approval — oncology gene_therapy,0
+APP0310,2017-10-17,2017,Benben-tide,Takeda,small_mol,neurology,0.07,0,0,FDA approval — neurology small_mol,0
+APP0019,2017-10-18,2017,Yescarta,Kite/Gilead,cell_therapy,oncology,1.5,1,0,CAR-T for lymphoma,1
+APP0304,2017-10-22,2017,Myrtev-tide,J&J,small_mol,metabolic,1.27,1,0,FDA approval — metabolic small_mol,0
+APP0276,2017-10-24,2017,Myrgar-tinib,AstraZeneca,small_mol,infectious,2.18,1,0,FDA approval — infectious small_mol,0
+APP0290,2017-11-01,2017,Garurb-vir,J&J,biologic,oncology,0.53,0,0,FDA approval — oncology biologic,0
+APP0292,2017-11-10,2017,Nevyar-cel,Gilead,small_mol,rare_disease,0.14,0,0,FDA approval — rare_disease small_mol,0
+APP0021,2017-11-16,2017,Hemlibra,Roche,biologic,rare_disease,4.0,1,0,Hemophilia A bispecific,1
+APP0314,2017-11-17,2017,Cornev-stat,Horizon,small_mol,cardiovascular,1.92,1,0,FDA approval — cardiovascular small_mol,0
+APP0270,2017-11-21,2017,Ilenev-nib,Vertex,biologic,psychiatry,0.05,0,0,FDA approval — psychiatry biologic,0
+APP0313,2017-11-27,2017,Benlir-cel,Mirum,biologic,immunology,1.3,1,0,FDA approval — immunology biologic,0
+APP0028,2017-12-05,2017,Ozempic,Novo Nordisk,biologic,metabolic,20.0,1,1,Semaglutide for T2D,1
+APP0273,2017-12-23,2017,Nevkim-tinib,Roche,biologic,neurology,1.01,1,0,FDA approval — neurology biologic,0
+APP0349,2018-01-02,2018,Solile-vir,Ionis,biologic,rare_disease,2.19,1,0,FDA approval — rare_disease biologic,0
+APP0352,2018-01-17,2018,Abrile-lozide,J&J,small_mol,infectious,0.03,0,0,FDA approval — infectious small_mol,0
+APP0358,2018-02-01,2018,Javzol-rab,Novo Nordisk,small_mol,oncology,1.52,1,0,FDA approval — oncology small_mol,0
+APP0369,2018-02-03,2018,Lircor-pril,Incyte,biologic,oncology,0.04,0,0,FDA approval — oncology biologic,0
+APP0374,2018-02-03,2018,Solola-cept,Vertex,small_mol,oncology,0.05,0,0,FDA approval — oncology small_mol,0
+APP0342,2018-02-13,2018,Garyar-lozide,Novo Nordisk,small_mol,oncology,0.08,0,0,FDA approval — oncology small_mol,0
+APP0324,2018-02-16,2018,Coryar-sertib,Jazz Pharma,small_mol,oncology,1.74,1,0,FDA approval — oncology small_mol,0
+APP0372,2018-02-20,2018,Preben-lozide,BMS,small_mol,oncology,0.03,0,0,FDA approval — oncology small_mol,0
+APP0320,2018-02-27,2018,Ilecor-tide,Novo Nordisk,biologic,oncology,0.39,0,0,FDA approval — oncology biologic,0
+APP0331,2018-03-03,2018,Tevben-zumab,Sanofi,small_mol,oncology,0.01,0,0,FDA approval — oncology small_mol,0
+APP0343,2018-03-06,2018,Ravsol-cept,Alnylam,biologic,gastrointestinal,0.02,0,0,FDA approval — gastrointestinal biologic,0
+APP0340,2018-03-06,2018,Urbyar-cel,Cytokinetics,biologic,oncology,1.32,1,0,FDA approval — oncology biologic,0
+APP0332,2018-03-09,2018,Qulmyr-rab,Alnylam,small_mol,oncology,0.21,0,0,FDA approval — oncology small_mol,0
+APP0368,2018-03-14,2018,Ravxyl-tide,Novo Nordisk,small_mol,immunology,0.53,0,0,FDA approval — immunology small_mol,0
+APP0356,2018-03-15,2018,Olapre-vir,AstraZeneca,biologic,infectious,0.6,0,0,FDA approval — infectious biologic,0
+APP0327,2018-03-17,2018,Olaabr-sertib,Takeda,biologic,rare_disease,0.37,0,0,FDA approval — rare_disease biologic,0
+APP0335,2018-03-27,2018,Garnev-nib,Karuna,biologic,neurology,0.19,0,0,FDA approval — neurology biologic,0
+APP0366,2018-04-02,2018,Durjav-lozide,BMS,small_mol,neurology,0.26,0,0,FDA approval — neurology small_mol,0
+APP0367,2018-04-04,2018,Solola-tinib,Mirum,biologic,gastrointestinal,0.11,0,0,FDA approval — gastrointestinal biologic,0
+APP0334,2018-04-05,2018,Urbkim-rab,Mirum,small_mol,infectious,0.4,0,0,FDA approval — infectious small_mol,0
+APP0330,2018-04-08,2018,Garurb-lozide,Alkermes,biologic,psychiatry,0.82,0,0,FDA approval — psychiatry biologic,0
+APP0318,2018-04-19,2018,Prexan-zumab,Alkermes,small_mol,immunology,0.56,0,0,FDA approval — immunology small_mol,0
+APP0317,2018-04-20,2018,Ravdur-zumab,Roche,small_mol,ophthalmology,0.04,0,0,FDA approval — ophthalmology small_mol,0
+APP0329,2018-04-21,2018,Bentev-rab,J&J,biologic,oncology,2.18,1,0,FDA approval — oncology biologic,0
+APP0365,2018-04-22,2018,Abrcor-tide,Novartis,small_mol,oncology,0.02,0,0,FDA approval — oncology small_mol,0
+APP0350,2018-05-01,2018,Durabr-nib,AbbVie,small_mol,immunology,0.03,0,0,FDA approval — immunology small_mol,0
+APP0333,2018-05-02,2018,Solxan-mab,Ionis,small_mol,oncology,8.64,1,1,FDA approval — oncology small_mol,0
+APP0325,2018-05-23,2018,Wervor-tide,Acadia,biologic,infectious,0.01,0,0,FDA approval — infectious biologic,0
+APP0344,2018-06-06,2018,Solxyl-pril,Sanofi,small_mol,respiratory,0.2,0,0,FDA approval — respiratory small_mol,0
+APP0361,2018-06-06,2018,Benkim-nib,AstraZeneca,small_mol,infectious,0.14,0,0,FDA approval — infectious small_mol,0
+APP0370,2018-06-10,2018,Nevkim-rab,AstraZeneca,biologic,metabolic,2.91,1,0,FDA approval — metabolic biologic,0
+APP0341,2018-06-13,2018,Xankim-lozide,Incyte,cell_therapy,immunology,0.01,0,0,FDA approval — immunology cell_therapy,0
+APP0345,2018-06-18,2018,Garxan-tide,Bayer,biologic,oncology,0.53,0,0,FDA approval — oncology biologic,0
+APP0362,2018-07-05,2018,Javrav-fenib,AstraZeneca,gene_therapy,oncology,0.07,0,0,FDA approval — oncology gene_therapy,0
+APP0337,2018-07-08,2018,Xanabr-pril,Roche,small_mol,immunology,15.0,1,1,FDA approval — immunology small_mol,0
+APP0316,2018-07-15,2018,Garwer-mab,Vertex,small_mol,infectious,2.62,1,0,FDA approval — infectious small_mol,0
+APP0339,2018-07-20,2018,Qulurb-tide,Pfizer,cell_therapy,rare_disease,1.5,1,0,FDA approval — rare_disease cell_therapy,0
+APP0321,2018-07-22,2018,Urbmyr-fenib,Merck,vaccine,gastrointestinal,0.29,0,0,FDA approval — gastrointestinal vaccine,0
+APP0348,2018-07-23,2018,Ilemyr-lozide,Pfizer,biologic,oncology,0.49,0,0,FDA approval — oncology biologic,0
+APP0357,2018-07-26,2018,Ravwer-pril,Karuna,cell_therapy,metabolic,0.74,0,0,FDA approval — metabolic cell_therapy,0
+APP0353,2018-08-19,2018,Abrtev-stat,BioMarin,gene_therapy,metabolic,0.91,0,0,FDA approval — metabolic gene_therapy,0
+APP0364,2018-08-24,2018,Garrav-mab,AbbVie,gene_therapy,neurology,0.69,0,0,FDA approval — neurology gene_therapy,0
+APP0323,2018-08-27,2018,Olavor-tide,Takeda,biologic,oncology,0.96,0,0,FDA approval — oncology biologic,0
+APP0354,2018-09-01,2018,Nevxyl-mab,Vertex,cell_therapy,neurology,0.05,0,0,FDA approval — neurology cell_therapy,0
+APP0326,2018-09-03,2018,Abryar-vir,BMS,small_mol,immunology,0.06,0,0,FDA approval — immunology small_mol,0
+APP0319,2018-09-24,2018,Benrav-mab,Amgen,small_mol,infectious,0.01,0,0,FDA approval — infectious small_mol,0
+APP0347,2018-09-26,2018,Abrnev-rab,Amgen,cell_therapy,cardiovascular,1.86,1,0,FDA approval — cardiovascular cell_therapy,0
+APP0346,2018-10-09,2018,Olaqul-tide,AstraZeneca,small_mol,neurology,0.19,0,0,FDA approval — neurology small_mol,0
+APP0322,2018-10-14,2018,Garcor-rab,GSK,small_mol,oncology,0.07,0,0,FDA approval — oncology small_mol,0
+APP0336,2018-10-18,2018,Qulwer-cel,BMS,biologic,rare_disease,0.33,0,0,FDA approval — rare_disease biologic,0
+APP0328,2018-10-18,2018,Vormyr-cel,Novo Nordisk,gene_therapy,oncology,0.06,0,0,FDA approval — oncology gene_therapy,0
+APP0373,2018-10-26,2018,Abrwer-nib,BMS,biologic,immunology,0.03,0,0,FDA approval — immunology biologic,0
+APP0351,2018-11-02,2018,Zolabr-tide,Ionis,small_mol,respiratory,0.29,0,0,FDA approval — respiratory small_mol,0
+APP0360,2018-11-08,2018,Corzol-tide,Incyte,biologic,rare_disease,0.36,0,0,FDA approval — rare_disease biologic,0
+APP0338,2018-11-12,2018,Xylabr-tinib,GSK,biologic,oncology,2.11,1,0,FDA approval — oncology biologic,0
+APP0355,2018-12-03,2018,Ilequl-mab,Lilly,vaccine,metabolic,0.07,0,0,FDA approval — metabolic vaccine,0
+APP0371,2018-12-14,2018,Ilewer-lozide,Alkermes,small_mol,neurology,0.2,0,0,FDA approval — neurology small_mol,0
+APP0363,2018-12-16,2018,Olaile-tinib,Regeneron,small_mol,respiratory,0.77,0,0,FDA approval — respiratory small_mol,0
+APP0359,2018-12-16,2018,Xylabr-tide,Lilly,biologic,oncology,0.35,0,0,FDA approval — oncology biologic,0
+APP0394,2019-01-01,2019,Xyltev-rab,BioMarin,small_mol,rare_disease,0.48,0,0,FDA approval — rare_disease small_mol,0
+APP0379,2019-01-09,2019,Nevdur-tide,Takeda,small_mol,neurology,0.89,0,0,FDA approval — neurology small_mol,0
+APP0413,2019-01-09,2019,Zolesp-pril,BMS,small_mol,rare_disease,0.42,0,0,FDA approval — rare_disease small_mol,0
+APP0389,2019-02-11,2019,Werlir-tinib,Regeneron,small_mol,oncology,0.48,0,0,FDA approval — oncology small_mol,0
+APP0395,2019-02-22,2019,Zolnev-pril,Vertex,small_mol,immunology,0.05,0,0,FDA approval — immunology small_mol,0
+APP0420,2019-02-23,2019,Javgar-cel,Horizon,small_mol,oncology,0.16,0,0,FDA approval — oncology small_mol,0
+APP0383,2019-02-24,2019,Solyar-lozide,Lilly,biologic,respiratory,0.1,0,0,FDA approval — respiratory biologic,0
+APP0392,2019-02-24,2019,Javxyl-tide,Jazz Pharma,biologic,oncology,0.01,0,0,FDA approval — oncology biologic,0
+APP0415,2019-03-07,2019,Javxyl-fenib,BioMarin,small_mol,oncology,0.01,0,0,FDA approval — oncology small_mol,0
+APP0417,2019-03-08,2019,Preesp-tide,BioMarin,biologic,neurology,0.17,0,0,FDA approval — neurology biologic,0
+APP0398,2019-03-19,2019,Preyar-tinib,GSK,small_mol,metabolic,0.21,0,0,FDA approval — metabolic small_mol,0
+APP0410,2019-03-21,2019,Javcor-tinib,GSK,small_mol,oncology,0.34,0,0,FDA approval — oncology small_mol,0
+APP0375,2019-03-23,2019,Espnev-tide,Lilly,biologic,cardiovascular,1.27,1,0,FDA approval — cardiovascular biologic,0
+APP0407,2019-03-24,2019,Nevxyl-rab,Roche,biologic,rare_disease,1.6,1,0,FDA approval — rare_disease biologic,0
+APP0419,2019-04-02,2019,Olasol-mab,Alkermes,small_mol,rare_disease,0.15,0,0,FDA approval — rare_disease small_mol,0
+APP0397,2019-04-16,2019,Predur-rab,Reata,biologic,neurology,0.8,0,0,FDA approval — neurology biologic,0
+APP0381,2019-04-18,2019,Xylxyl-vir,Alkermes,small_mol,oncology,0.68,0,0,FDA approval — oncology small_mol,0
+APP0405,2019-04-22,2019,Iletev-zumab,AstraZeneca,biologic,oncology,0.15,0,0,FDA approval — oncology biologic,0
+APP0382,2019-05-14,2019,Myrxyl-tide,Alkermes,small_mol,cardiovascular,1.21,1,0,FDA approval — cardiovascular small_mol,0
+APP0404,2019-05-23,2019,Myrqul-tide,Pfizer,small_mol,neurology,0.79,0,0,FDA approval — neurology small_mol,0
+APP0023,2019-05-24,2019,Zolgensma,Novartis,gene_therapy,rare_disease,1.5,1,0,$2.1M gene therapy for SMA,1
+APP0412,2019-05-25,2019,Urbmyr-tinib,Gilead,small_mol,rare_disease,0.5,0,0,FDA approval — rare_disease small_mol,0
+APP0411,2019-06-07,2019,Urbpre-tide,Acadia,small_mol,metabolic,0.14,0,0,FDA approval — metabolic small_mol,0
+APP0391,2019-06-09,2019,Durxan-stat,Gilead,biologic,oncology,0.53,0,0,FDA approval — oncology biologic,0
+APP0386,2019-06-15,2019,Nevwer-sertib,Sarepta,vaccine,psychiatry,0.23,0,0,FDA approval — psychiatry vaccine,0
+APP0388,2019-06-17,2019,Wergar-cept,Horizon,small_mol,rare_disease,0.02,0,0,FDA approval — rare_disease small_mol,0
+APP0401,2019-06-22,2019,Solgar-lozide,Acadia,small_mol,infectious,0.01,0,0,FDA approval — infectious small_mol,0
+APP0421,2019-06-24,2019,Espwer-nib,J&J,small_mol,oncology,0.82,0,0,FDA approval — oncology small_mol,0
+APP0402,2019-06-25,2019,Olaola-sertib,Merck,biologic,metabolic,0.27,0,0,FDA approval — metabolic biologic,0
+APP0422,2019-07-05,2019,Espmyr-fenib,Novartis,vaccine,cardiovascular,0.41,0,0,FDA approval — cardiovascular vaccine,0
+APP0384,2019-07-12,2019,Zolgar-rab,Jazz Pharma,small_mol,oncology,0.17,0,0,FDA approval — oncology small_mol,0
+APP0399,2019-07-17,2019,Tevlir-tinib,Karuna,biologic,oncology,0.27,0,0,FDA approval — oncology biologic,0
+APP0406,2019-07-24,2019,Nevdur-nib,AbbVie,small_mol,oncology,9.16,1,1,FDA approval — oncology small_mol,0
+APP0403,2019-08-24,2019,Liryar-vir,Bayer,small_mol,oncology,1.63,1,0,FDA approval — oncology small_mol,0
+APP0376,2019-09-01,2019,Olavor-tide,Sanofi,small_mol,oncology,0.27,0,0,FDA approval — oncology small_mol,0
+APP0387,2019-09-03,2019,Abrqul-cel,J&J,small_mol,infectious,0.54,0,0,FDA approval — infectious small_mol,0
+APP0414,2019-09-08,2019,Yarnev-vir,AbbVie,small_mol,oncology,0.24,0,0,FDA approval — oncology small_mol,0
+APP0390,2019-09-16,2019,Abrzol-tide,Gilead,gene_therapy,immunology,0.09,0,0,FDA approval — immunology gene_therapy,0
+APP0396,2019-10-15,2019,Vordur-fenib,Vertex,biologic,cardiovascular,0.09,0,0,FDA approval — cardiovascular biologic,0
+APP0393,2019-10-16,2019,Urbdur-fenib,Acadia,small_mol,oncology,0.04,0,0,FDA approval — oncology small_mol,0
+APP0022,2019-10-21,2019,Trikafta,Vertex,small_mol,rare_disease,10.0,1,1,Breakthrough CF triple combo,1
+APP0378,2019-10-22,2019,Xylxan-mab,Takeda,biologic,immunology,0.01,0,0,FDA approval — immunology biologic,0
+APP0409,2019-11-05,2019,Nevesp-tide,Alnylam,biologic,dermatology,0.83,0,0,FDA approval — dermatology biologic,0
+APP0380,2019-11-09,2019,Ilepre-tide,Roche,biologic,oncology,0.11,0,0,FDA approval — oncology biologic,0
+APP0400,2019-11-12,2019,Soltev-sertib,Travere,small_mol,immunology,0.04,0,0,FDA approval — immunology small_mol,0
+APP0377,2019-11-15,2019,Benmyr-tide,Novartis,biologic,oncology,0.21,0,0,FDA approval — oncology biologic,0
+APP0416,2019-11-17,2019,Javnev-cept,Regeneron,small_mol,infectious,0.02,0,0,FDA approval — infectious small_mol,0
+APP0418,2019-11-18,2019,Premyr-zumab,Alkermes,small_mol,oncology,0.62,0,0,FDA approval — oncology small_mol,0
+APP0385,2019-11-26,2019,Ravola-tinib,Alkermes,small_mol,oncology,0.91,0,0,FDA approval — oncology small_mol,0
+APP0408,2019-12-14,2019,Solabr-fenib,J&J,biologic,respiratory,0.23,0,0,FDA approval — respiratory biologic,0
+APP0429,2020-01-05,2020,Tevdur-rab,Regeneron,biologic,oncology,1.48,1,0,FDA approval — oncology biologic,0
+APP0460,2020-01-06,2020,Corrav-sertib,Ionis,small_mol,immunology,0.13,0,0,FDA approval — immunology small_mol,0
+APP0470,2020-01-07,2020,Javrav-tide,Amgen,small_mol,oncology,0.03,0,0,FDA approval — oncology small_mol,0
+APP0445,2020-01-08,2020,Qulola-mab,Sarepta,biologic,infectious,0.1,0,0,FDA approval — infectious biologic,0
+APP0465,2020-01-11,2020,Garjav-nib,Travere,small_mol,oncology,0.03,0,0,FDA approval — oncology small_mol,0
+APP0426,2020-02-05,2020,Qulsol-mab,Acadia,small_mol,oncology,0.25,0,0,FDA approval — oncology small_mol,0
+APP0469,2020-02-13,2020,Lirwer-tide,Madrigal,gene_therapy,ophthalmology,0.71,0,0,FDA approval — ophthalmology gene_therapy,0
+APP0458,2020-02-14,2020,Kimlir-sertib,J&J,vaccine,neurology,0.12,0,0,FDA approval — neurology vaccine,0
+APP0452,2020-02-17,2020,Benpre-lozide,Roche,small_mol,neurology,5.96,1,1,FDA approval — neurology small_mol,0
+APP0457,2020-03-15,2020,Xansol-tinib,Sarepta,biologic,cardiovascular,0.31,0,0,FDA approval — cardiovascular biologic,0
+APP0427,2020-03-17,2020,Lirpre-mab,Travere,small_mol,oncology,0.06,0,0,FDA approval — oncology small_mol,0
+APP0438,2020-03-18,2020,Solmyr-rab,Sarepta,cell_therapy,infectious,0.03,0,0,FDA approval — infectious cell_therapy,0
+APP0423,2020-03-19,2020,Corben-zumab,Sanofi,small_mol,oncology,0.2,0,0,FDA approval — oncology small_mol,0
+APP0463,2020-03-24,2020,Ilejav-lozide,Cytokinetics,small_mol,oncology,0.45,0,0,FDA approval — oncology small_mol,0
+APP0471,2020-04-10,2020,Dururb-vir,Lilly,small_mol,rare_disease,0.01,0,0,FDA approval — rare_disease small_mol,0
+APP0473,2020-04-15,2020,Tevzol-vir,GSK,small_mol,oncology,0.02,0,0,FDA approval — oncology small_mol,0
+APP0440,2020-04-26,2020,Zolyar-stat,Incyte,small_mol,oncology,0.2,0,0,FDA approval — oncology small_mol,0
+APP0468,2020-05-03,2020,Kimlir-cel,Pfizer,biologic,neurology,0.03,0,0,FDA approval — neurology biologic,0
+APP0472,2020-05-05,2020,Yarlir-zumab,Novartis,small_mol,immunology,0.13,0,0,FDA approval — immunology small_mol,0
+APP0474,2020-05-09,2020,Ravqul-sertib,Sarepta,biologic,psychiatry,0.32,0,0,FDA approval — psychiatry biologic,0
+APP0462,2020-05-14,2020,Durvor-vir,Vertex,small_mol,oncology,0.02,0,0,FDA approval — oncology small_mol,0
+APP0439,2020-05-14,2020,Zolnev-tinib,Ionis,small_mol,infectious,0.02,0,0,FDA approval — infectious small_mol,0
+APP0428,2020-06-01,2020,Preola-mab,AbbVie,vaccine,neurology,1.91,1,0,FDA approval — neurology vaccine,0
+APP0455,2020-06-07,2020,Olayar-cept,Amgen,biologic,oncology,1.31,1,0,FDA approval — oncology biologic,0
+APP0437,2020-06-09,2020,Urbesp-stat,AbbVie,small_mol,oncology,0.26,0,0,FDA approval — oncology small_mol,0
+APP0466,2020-06-14,2020,Yarzol-sertib,Novo Nordisk,small_mol,oncology,0.38,0,0,FDA approval — oncology small_mol,0
+APP0447,2020-06-17,2020,Lirzol-mab,Merck,small_mol,cardiovascular,2.31,1,0,FDA approval — cardiovascular small_mol,0
+APP0450,2020-06-17,2020,Solxyl-sertib,Amgen,biologic,oncology,0.1,0,0,FDA approval — oncology biologic,0
+APP0454,2020-06-20,2020,Zolvor-fenib,Lilly,gene_therapy,neurology,0.03,0,0,FDA approval — neurology gene_therapy,0
+APP0443,2020-07-05,2020,Qulgar-rab,Karuna,small_mol,oncology,0.78,0,0,FDA approval — oncology small_mol,0
+APP0442,2020-07-18,2020,Xylabr-tide,Roche,small_mol,rare_disease,0.05,0,0,FDA approval — rare_disease small_mol,0
+APP0446,2020-07-20,2020,Yarqul-sertib,Vertex,small_mol,immunology,0.01,0,0,FDA approval — immunology small_mol,0
+APP0434,2020-08-06,2020,Benesp-cel,Pfizer,vaccine,oncology,0.04,0,0,FDA approval — oncology vaccine,0
+APP0453,2020-08-12,2020,Lirola-fenib,Vertex,gene_therapy,oncology,3.62,1,0,FDA approval — oncology gene_therapy,0
+APP0436,2020-08-13,2020,Yarcor-lozide,Pfizer,small_mol,oncology,0.62,0,0,FDA approval — oncology small_mol,0
+APP0431,2020-08-13,2020,Lirurb-rab,Incyte,small_mol,infectious,2.47,1,0,FDA approval — infectious small_mol,0
+APP0433,2020-08-16,2020,Tevurb-pril,BMS,gene_therapy,oncology,0.35,0,0,FDA approval — oncology gene_therapy,0
+APP0441,2020-08-19,2020,Corben-cept,Vertex,small_mol,oncology,0.65,0,0,FDA approval — oncology small_mol,0
+APP0449,2020-08-20,2020,Garwer-stat,J&J,small_mol,oncology,0.65,0,0,FDA approval — oncology small_mol,0
+APP0475,2020-08-25,2020,Olarav-tide,Jazz Pharma,small_mol,neurology,0.05,0,0,FDA approval — neurology small_mol,0
+APP0464,2020-08-26,2020,Zolrav-nib,Novartis,small_mol,metabolic,0.47,0,0,FDA approval — metabolic small_mol,0
+APP0467,2020-09-06,2020,Corzol-cept,Novo Nordisk,small_mol,oncology,0.04,0,0,FDA approval — oncology small_mol,0
+APP0456,2020-09-09,2020,Cortev-tide,AbbVie,small_mol,cardiovascular,0.13,0,0,FDA approval — cardiovascular small_mol,0
+APP0451,2020-10-01,2020,Javxyl-cel,Madrigal,small_mol,infectious,0.51,0,0,FDA approval — infectious small_mol,0
+APP0461,2020-10-16,2020,Garile-cept,Merck,small_mol,neurology,0.01,0,0,FDA approval — neurology small_mol,0
+APP0024,2020-10-22,2020,Remdesivir (Veklury),Gilead,small_mol,infectious,5.6,1,1,COVID-19 antiviral,1
+APP0448,2020-10-22,2020,Ravkim-tide,Alkermes,biologic,oncology,0.16,0,0,FDA approval — oncology biologic,0
+APP0424,2020-11-10,2020,Urbkim-tide,Takeda,small_mol,immunology,0.2,0,0,FDA approval — immunology small_mol,0
+APP0435,2020-11-24,2020,Nevcor-rab,Gilead,small_mol,oncology,0.01,0,0,FDA approval — oncology small_mol,0
+APP0432,2020-11-26,2020,Yarmyr-zumab,Madrigal,biologic,oncology,0.14,0,0,FDA approval — oncology biologic,0
+APP0025,2020-12-11,2020,Pfizer-BioNTech COVID Vaccine,Pfizer/BioNTech,vaccine,infectious,37.0,1,1,"First COVID vaccine, $37B peak",1
+APP0459,2020-12-15,2020,Wergar-fenib,Regeneron,small_mol,infectious,10.57,1,1,FDA approval — infectious small_mol,0
+APP0444,2020-12-16,2020,Lirzol-pril,Amgen,biologic,oncology,0.37,0,0,FDA approval — oncology biologic,0
+APP0425,2020-12-16,2020,Durtev-sertib,Alnylam,small_mol,oncology,0.08,0,0,FDA approval — oncology small_mol,0
+APP0026,2020-12-18,2020,Moderna COVID Vaccine,Moderna,vaccine,infectious,18.5,1,1,mRNA COVID vaccine,1
+APP0430,2020-12-27,2020,Tevvor-lozide,BioMarin,vaccine,metabolic,0.83,0,0,FDA approval — metabolic vaccine,0
+APP0492,2021-01-12,2021,Myrabr-mab,BMS,small_mol,oncology,0.64,0,0,FDA approval — oncology small_mol,0
+APP0501,2021-01-13,2021,Ravdur-lozide,Merck,biologic,oncology,0.83,0,0,FDA approval — oncology biologic,0
+APP0515,2021-01-15,2021,Xylmyr-lozide,Horizon,small_mol,rare_disease,2.67,1,0,FDA approval — rare_disease small_mol,0
+APP0486,2021-01-20,2021,Vorqul-sertib,Novo Nordisk,small_mol,respiratory,0.13,0,0,FDA approval — respiratory small_mol,0
+APP0507,2021-01-23,2021,Yarpre-lozide,J&J,small_mol,oncology,0.58,0,0,FDA approval — oncology small_mol,0
+APP0479,2021-02-11,2021,Duresp-nib,Karuna,gene_therapy,rare_disease,0.03,0,0,FDA approval — rare_disease gene_therapy,0
+APP0511,2021-02-17,2021,Xanpre-lozide,Takeda,cell_therapy,oncology,0.06,0,0,FDA approval — oncology cell_therapy,0
+APP0480,2021-02-22,2021,Durlir-cept,Reata,biologic,oncology,0.39,0,0,FDA approval — oncology biologic,0
+APP0513,2021-03-13,2021,Myrdur-lozide,Cytokinetics,small_mol,immunology,0.59,0,0,FDA approval — immunology small_mol,0
+APP0478,2021-03-19,2021,Werile-lozide,Horizon,small_mol,immunology,0.57,0,0,FDA approval — immunology small_mol,0
+APP0506,2021-04-01,2021,Cormyr-sertib,GSK,biologic,oncology,0.08,0,0,FDA approval — oncology biologic,0
+APP0514,2021-04-10,2021,Javxyl-cept,Novartis,small_mol,oncology,0.12,0,0,FDA approval — oncology small_mol,0
+APP0494,2021-04-11,2021,Lirqul-pril,Bayer,small_mol,infectious,0.17,0,0,FDA approval — infectious small_mol,0
+APP0483,2021-04-15,2021,Benpre-tinib,BMS,small_mol,immunology,0.14,0,0,FDA approval — immunology small_mol,0
+APP0502,2021-04-19,2021,Corpre-fenib,BMS,small_mol,oncology,0.15,0,0,FDA approval — oncology small_mol,0
+APP0490,2021-05-01,2021,Urbxyl-sertib,Incyte,vaccine,neurology,0.17,0,0,FDA approval — neurology vaccine,0
+APP0498,2021-05-20,2021,Nevben-fenib,Bayer,biologic,immunology,0.62,0,0,FDA approval — immunology biologic,0
+APP0504,2021-05-21,2021,Werqul-cept,Vertex,small_mol,oncology,0.15,0,0,FDA approval — oncology small_mol,0
+APP0487,2021-05-21,2021,Ilesol-lozide,Travere,biologic,oncology,0.04,0,0,FDA approval — oncology biologic,0
+APP0493,2021-05-25,2021,Olaola-tinib,Novo Nordisk,small_mol,oncology,0.47,0,0,FDA approval — oncology small_mol,0
+APP0520,2021-05-26,2021,Vorzol-nib,AbbVie,vaccine,metabolic,0.07,0,0,FDA approval — metabolic vaccine,0
+APP0030,2021-06-04,2021,Wegovy,Novo Nordisk,biologic,metabolic,15.0,1,1,"Semaglutide for obesity, GLP-1 revolution",1
+APP0484,2021-06-06,2021,Qulnev-fenib,Roche,small_mol,oncology,2.93,1,0,FDA approval — oncology small_mol,0
+APP0032,2021-06-07,2021,Aduhelm,Biogen,biologic,neurology,0.05,0,0,"First Alzheimer's drug in 18 years, controversial",1
+APP0485,2021-06-08,2021,Xanzol-tide,GSK,biologic,infectious,0.35,0,0,FDA approval — infectious biologic,0
+APP0497,2021-06-25,2021,Abresp-nib,Novartis,small_mol,rare_disease,0.03,0,0,FDA approval — rare_disease small_mol,0
+APP0488,2021-07-22,2021,Corvor-sertib,Acadia,small_mol,psychiatry,0.64,0,0,FDA approval — psychiatry small_mol,0
+APP0489,2021-07-22,2021,Lircor-sertib,Alnylam,biologic,psychiatry,0.16,0,0,FDA approval — psychiatry biologic,0
+APP0509,2021-07-22,2021,Vorben-cel,Roche,gene_therapy,metabolic,0.03,0,0,FDA approval — metabolic gene_therapy,0
+APP0496,2021-07-27,2021,Corjav-sertib,Karuna,cell_therapy,infectious,0.05,0,0,FDA approval — infectious cell_therapy,0
+APP0481,2021-08-12,2021,Ravabr-vir,AbbVie,small_mol,oncology,0.02,0,0,FDA approval — oncology small_mol,0
+APP0522,2021-08-21,2021,Zolkim-sertib,Reata,small_mol,oncology,0.1,0,0,FDA approval — oncology small_mol,0
+APP0505,2021-08-22,2021,Solmyr-tinib,J&J,small_mol,rare_disease,0.18,0,0,FDA approval — rare_disease small_mol,0
+APP0518,2021-08-26,2021,Abryar-mab,Mirum,small_mol,oncology,0.32,0,0,FDA approval — oncology small_mol,0
+APP0499,2021-09-05,2021,Benxyl-rab,Cytokinetics,small_mol,oncology,2.22,1,0,FDA approval — oncology small_mol,0
+APP0503,2021-09-17,2021,Zolmyr-tide,Gilead,biologic,oncology,0.07,0,0,FDA approval — oncology biologic,0
+APP0521,2021-09-18,2021,Yarsol-sertib,Cytokinetics,cell_therapy,oncology,1.3,1,0,FDA approval — oncology cell_therapy,0
+APP0508,2021-09-24,2021,Nevnev-tinib,Mirum,biologic,oncology,0.55,0,0,FDA approval — oncology biologic,0
+APP0491,2021-10-01,2021,Xylurb-pril,Merck,small_mol,cardiovascular,0.08,0,0,FDA approval — cardiovascular small_mol,0
+APP0517,2021-10-06,2021,Weryar-nib,BioMarin,small_mol,immunology,1.14,1,0,FDA approval — immunology small_mol,0
+APP0525,2021-10-09,2021,Xannev-vir,Alkermes,small_mol,oncology,0.1,0,0,FDA approval — oncology small_mol,0
+APP0477,2021-10-13,2021,Kimmyr-lozide,Sanofi,small_mol,oncology,0.01,0,0,FDA approval — oncology small_mol,0
+APP0519,2021-10-14,2021,Preola-tide,Amgen,small_mol,rare_disease,0.05,0,0,FDA approval — rare_disease small_mol,0
+APP0523,2021-10-16,2021,Benben-vir,Regeneron,small_mol,oncology,0.16,0,0,FDA approval — oncology small_mol,0
+APP0516,2021-10-22,2021,Olasol-mab,Reata,small_mol,rare_disease,15.0,1,1,FDA approval — rare_disease small_mol,0
+APP0476,2021-10-23,2021,Tevrav-fenib,J&J,biologic,cardiovascular,0.21,0,0,FDA approval — cardiovascular biologic,0
+APP0510,2021-11-02,2021,Solzol-stat,Lilly,vaccine,cardiovascular,0.26,0,0,FDA approval — cardiovascular vaccine,0
+APP0512,2021-11-17,2021,Prelir-pril,Gilead,small_mol,oncology,0.05,0,0,FDA approval — oncology small_mol,0
+APP0500,2021-11-21,2021,Espesp-stat,Gilead,small_mol,oncology,0.05,0,0,FDA approval — oncology small_mol,0
+APP0495,2021-11-26,2021,Urbjav-cept,Amgen,gene_therapy,infectious,0.09,0,0,FDA approval — infectious gene_therapy,0
+APP0482,2021-12-13,2021,Ilexan-fenib,Ionis,small_mol,cardiovascular,0.37,0,0,FDA approval — cardiovascular small_mol,0
+APP0524,2021-12-16,2021,Xanyar-sertib,Gilead,biologic,oncology,0.89,0,0,FDA approval — oncology biologic,0
+APP0027,2021-12-22,2021,Paxlovid,Pfizer,small_mol,infectious,19.0,1,1,COVID oral antiviral,1
+APP0538,2022-01-18,2022,Olarav-tinib,BioMarin,small_mol,oncology,5.41,1,1,FDA approval — oncology small_mol,0
+APP0558,2022-01-19,2022,Corola-pril,Lilly,small_mol,neurology,2.2,1,0,FDA approval — neurology small_mol,0
+APP0547,2022-02-03,2022,Kimdur-mab,Merck,vaccine,infectious,1.03,1,0,FDA approval — infectious vaccine,0
+APP0531,2022-03-07,2022,Corile-mab,Lilly,small_mol,immunology,0.04,0,0,FDA approval — immunology small_mol,0
+APP0536,2022-04-02,2022,Javrav-vir,Sanofi,small_mol,rare_disease,7.53,1,1,FDA approval — rare_disease small_mol,0
+APP0540,2022-04-21,2022,Olaesp-lozide,Bayer,small_mol,oncology,0.67,0,0,FDA approval — oncology small_mol,0
+APP0560,2022-04-23,2022,Garqul-tide,Sanofi,small_mol,oncology,1.45,1,0,FDA approval — oncology small_mol,0
+APP0533,2022-05-07,2022,Ilerav-fenib,AstraZeneca,small_mol,oncology,0.24,0,0,FDA approval — oncology small_mol,0
+APP0029,2022-05-13,2022,Mounjaro,Eli Lilly,biologic,metabolic,18.0,1,1,Tirzepatide for T2D,1
+APP0548,2022-05-27,2022,Zolcor-tide,Amgen,small_mol,neurology,0.21,0,0,FDA approval — neurology small_mol,0
+APP0542,2022-06-01,2022,Corurb-pril,Pfizer,biologic,neurology,0.1,0,0,FDA approval — neurology biologic,0
+APP0549,2022-06-08,2022,Ravcor-rab,BMS,biologic,oncology,0.23,0,0,FDA approval — oncology biologic,0
+APP0539,2022-06-27,2022,Garqul-tide,Mirum,biologic,neurology,7.39,1,1,FDA approval — neurology biologic,0
+APP0528,2022-07-01,2022,Xankim-fenib,J&J,small_mol,oncology,0.23,0,0,FDA approval — oncology small_mol,0
+APP0534,2022-07-03,2022,Olacor-tinib,GSK,small_mol,neurology,0.43,0,0,FDA approval — neurology small_mol,0
+APP0562,2022-07-06,2022,Garsol-fenib,Sanofi,small_mol,oncology,0.03,0,0,FDA approval — oncology small_mol,0
+APP0561,2022-07-08,2022,Solzol-cel,Merck,small_mol,infectious,0.38,0,0,FDA approval — infectious small_mol,0
+APP0552,2022-07-09,2022,Werile-tinib,AbbVie,small_mol,psychiatry,0.38,0,0,FDA approval — psychiatry small_mol,0
+APP0545,2022-07-12,2022,Olazol-tide,Alnylam,vaccine,rare_disease,0.02,0,0,FDA approval — rare_disease vaccine,0
+APP0527,2022-07-12,2022,Urburb-rab,Regeneron,biologic,oncology,0.07,0,0,FDA approval — oncology biologic,0
+APP0535,2022-07-27,2022,Javrav-zumab,AstraZeneca,biologic,infectious,0.26,0,0,FDA approval — infectious biologic,0
+APP0544,2022-08-04,2022,Urbtev-nib,Novo Nordisk,small_mol,oncology,0.05,0,0,FDA approval — oncology small_mol,0
+APP0559,2022-08-14,2022,Xanqul-cept,Reata,cell_therapy,oncology,0.01,0,0,FDA approval — oncology cell_therapy,0
+APP0541,2022-09-03,2022,Nevben-rab,Pfizer,small_mol,oncology,0.03,0,0,FDA approval — oncology small_mol,0
+APP0557,2022-09-09,2022,Zollir-tide,Merck,small_mol,rare_disease,3.99,1,0,FDA approval — rare_disease small_mol,0
+APP0554,2022-09-19,2022,Ravwer-cel,Ionis,small_mol,metabolic,0.25,0,0,FDA approval — metabolic small_mol,0
+APP0529,2022-10-05,2022,Coryar-rab,Jazz Pharma,small_mol,cardiovascular,0.24,0,0,FDA approval — cardiovascular small_mol,0
+APP0526,2022-10-20,2022,Nevabr-stat,Jazz Pharma,small_mol,immunology,0.1,0,0,FDA approval — immunology small_mol,0
+APP0537,2022-11-05,2022,Espyar-tide,Reata,biologic,oncology,0.5,0,0,FDA approval — oncology biologic,0
+APP0543,2022-11-06,2022,Nevzol-nib,Vertex,small_mol,metabolic,0.2,0,0,FDA approval — metabolic small_mol,0
+APP0546,2022-11-07,2022,Ravnev-sertib,Novo Nordisk,biologic,immunology,0.02,0,0,FDA approval — immunology biologic,0
+APP0556,2022-11-09,2022,Zolkim-tide,Acadia,biologic,cardiovascular,0.34,0,0,FDA approval — cardiovascular biologic,0
+APP0555,2022-11-14,2022,Zolesp-vir,Roche,small_mol,metabolic,0.04,0,0,FDA approval — metabolic small_mol,0
+APP0550,2022-11-21,2022,Zolxyl-tide,Acadia,small_mol,metabolic,0.07,0,0,FDA approval — metabolic small_mol,0
+APP0551,2022-11-22,2022,Xylyar-zumab,Jazz Pharma,biologic,oncology,0.07,0,0,FDA approval — oncology biologic,0
+APP0553,2022-12-03,2022,Urbtev-lozide,Acadia,small_mol,neurology,0.09,0,0,FDA approval — neurology small_mol,0
+APP0532,2022-12-09,2022,Prevor-tinib,Gilead,biologic,psychiatry,0.03,0,0,FDA approval — psychiatry biologic,0
+APP0530,2022-12-15,2022,Ilenev-cept,GSK,small_mol,oncology,0.08,0,0,FDA approval — oncology small_mol,0
+APP0587,2023-01-01,2023,Olamyr-tide,Takeda,small_mol,oncology,0.01,0,0,FDA approval — oncology small_mol,0
+APP0592,2023-01-06,2023,Bennev-pril,Regeneron,biologic,metabolic,1.13,1,0,FDA approval — metabolic biologic,0
+APP0033,2023-01-06,2023,Leqembi,Biogen/Eisai,biologic,neurology,2.5,1,0,Alzheimer's amyloid drug,1
+APP0578,2023-01-10,2023,Lirlir-mab,BMS,cell_therapy,neurology,3.44,1,0,FDA approval — neurology cell_therapy,0
+APP0581,2023-01-13,2023,Benurb-cept,BMS,small_mol,oncology,0.12,0,0,FDA approval — oncology small_mol,0
+APP0610,2023-01-13,2023,Xanrav-tide,Ionis,biologic,oncology,0.01,0,0,FDA approval — oncology biologic,0
+APP0608,2023-01-14,2023,Kimpre-mab,Pfizer,small_mol,oncology,1.13,1,0,FDA approval — oncology small_mol,0
+APP0585,2023-02-06,2023,Tevtev-zumab,Travere,small_mol,oncology,0.16,0,0,FDA approval — oncology small_mol,0
+APP0597,2023-02-23,2023,Zolzol-tide,Novo Nordisk,biologic,oncology,6.11,1,1,FDA approval — oncology biologic,0
+APP0577,2023-03-01,2023,Bengar-sertib,Reata,biologic,neurology,0.03,0,0,FDA approval — neurology biologic,0
+APP0563,2023-03-06,2023,Vorsol-nib,Madrigal,small_mol,oncology,0.23,0,0,FDA approval — oncology small_mol,0
+APP0596,2023-04-11,2023,Qulsol-tinib,Gilead,small_mol,cardiovascular,0.43,0,0,FDA approval — cardiovascular small_mol,0
+APP0617,2023-04-17,2023,Xylwer-tinib,J&J,small_mol,neurology,0.19,0,0,FDA approval — neurology small_mol,0
+APP0605,2023-05-02,2023,Vormyr-rab,J&J,gene_therapy,immunology,0.07,0,0,FDA approval — immunology gene_therapy,0
+APP0576,2023-05-04,2023,Urbola-nib,BMS,small_mol,infectious,0.08,0,0,FDA approval — infectious small_mol,0
+APP0568,2023-05-21,2023,Ilelir-tinib,Pfizer,gene_therapy,metabolic,0.49,0,0,FDA approval — metabolic gene_therapy,0
+APP0566,2023-05-24,2023,Xylxyl-cept,Bayer,small_mol,oncology,0.15,0,0,FDA approval — oncology small_mol,0
+APP0600,2023-05-24,2023,Corxyl-stat,Vertex,biologic,oncology,0.83,0,0,FDA approval — oncology biologic,0
+APP0575,2023-05-25,2023,Tevdur-mab,BioMarin,small_mol,oncology,0.65,0,0,FDA approval — oncology small_mol,0
+APP0612,2023-06-01,2023,Prexan-vir,Novo Nordisk,biologic,rare_disease,0.03,0,0,FDA approval — rare_disease biologic,0
+APP0570,2023-06-11,2023,Zolurb-stat,Alkermes,small_mol,neurology,3.33,1,0,FDA approval — neurology small_mol,0
+APP0598,2023-06-12,2023,Espqul-fenib,Merck,biologic,oncology,0.2,0,0,FDA approval — oncology biologic,0
+APP0586,2023-06-12,2023,Nevrav-pril,Cytokinetics,small_mol,immunology,0.43,0,0,FDA approval — immunology small_mol,0
+APP0573,2023-06-16,2023,Olazol-cept,Novartis,small_mol,neurology,0.31,0,0,FDA approval — neurology small_mol,0
+APP0616,2023-06-17,2023,Werjav-cept,Madrigal,cell_therapy,neurology,0.23,0,0,FDA approval — neurology cell_therapy,0
+APP0588,2023-06-18,2023,Durwer-rab,Regeneron,small_mol,infectious,0.6,0,0,FDA approval — infectious small_mol,0
+APP0604,2023-06-18,2023,Qulkim-tinib,Travere,small_mol,oncology,0.63,0,0,FDA approval — oncology small_mol,0
+APP0572,2023-06-22,2023,Prewer-stat,Sarepta,biologic,oncology,1.87,1,0,FDA approval — oncology biologic,0
+APP0036,2023-06-22,2023,Elevidys,Sarepta,gene_therapy,rare_disease,1.5,1,0,DMD gene therapy,1
+APP0037,2023-06-29,2023,Roctavian,BioMarin,gene_therapy,rare_disease,0.3,0,0,Hemophilia A gene therapy,1
+APP0595,2023-07-07,2023,Olapre-tide,GSK,biologic,infectious,0.04,0,0,FDA approval — infectious biologic,0
+APP0584,2023-07-09,2023,Werpre-pril,Amgen,small_mol,oncology,0.27,0,0,FDA approval — oncology small_mol,0
+APP0582,2023-07-09,2023,Zoldur-tide,AbbVie,cell_therapy,ophthalmology,6.27,1,1,FDA approval — ophthalmology cell_therapy,0
+APP0580,2023-07-18,2023,Ravrav-mab,Alnylam,small_mol,immunology,0.29,0,0,FDA approval — immunology small_mol,0
+APP0564,2023-08-12,2023,Preile-tide,Bayer,vaccine,psychiatry,0.07,0,0,FDA approval — psychiatry vaccine,0
+APP0603,2023-08-14,2023,Qulgar-cel,Cytokinetics,small_mol,metabolic,0.11,0,0,FDA approval — metabolic small_mol,0
+APP0615,2023-08-15,2023,Ileurb-sertib,Merck,biologic,oncology,0.19,0,0,FDA approval — oncology biologic,0
+APP0609,2023-08-17,2023,Werlir-pril,Amgen,small_mol,immunology,0.01,0,0,FDA approval — immunology small_mol,0
+APP0567,2023-09-04,2023,Weryar-mab,Vertex,small_mol,oncology,0.04,0,0,FDA approval — oncology small_mol,0
+APP0591,2023-09-12,2023,Ravtev-rab,Roche,small_mol,cardiovascular,0.17,0,0,FDA approval — cardiovascular small_mol,0
+APP0593,2023-09-18,2023,Xanyar-rab,Roche,small_mol,oncology,0.16,0,0,FDA approval — oncology small_mol,0
+APP0583,2023-09-21,2023,Xylyar-lozide,Vertex,biologic,oncology,0.37,0,0,FDA approval — oncology biologic,0
+APP0599,2023-09-22,2023,Werzol-zumab,Regeneron,small_mol,neurology,0.01,0,0,FDA approval — neurology small_mol,0
+APP0574,2023-10-02,2023,Quldur-tide,Merck,biologic,oncology,0.1,0,0,FDA approval — oncology biologic,0
+APP0611,2023-10-05,2023,Durgar-nib,Madrigal,small_mol,oncology,0.12,0,0,FDA approval — oncology small_mol,0
+APP0606,2023-10-18,2023,Espqul-cel,Acadia,small_mol,infectious,0.03,0,0,FDA approval — infectious small_mol,0
+APP0569,2023-10-20,2023,Werkim-tide,Karuna,small_mol,neurology,0.12,0,0,FDA approval — neurology small_mol,0
+APP0589,2023-10-25,2023,Tevrav-tinib,Acadia,small_mol,immunology,1.07,1,0,FDA approval — immunology small_mol,0
+APP0565,2023-10-25,2023,Liryar-stat,Merck,small_mol,neurology,0.93,0,0,FDA approval — neurology small_mol,0
+APP0590,2023-11-02,2023,Werrav-tide,Pfizer,small_mol,oncology,0.12,0,0,FDA approval — oncology small_mol,0
+APP0031,2023-11-08,2023,Zepbound,Eli Lilly,biologic,metabolic,15.0,1,1,Tirzepatide for obesity,1
+APP0571,2023-11-11,2023,Lirabr-stat,J&J,small_mol,oncology,0.13,0,0,FDA approval — oncology small_mol,0
+APP0039,2023-11-16,2023,Truqap,AstraZeneca,small_mol,oncology,1.5,1,0,AKT inhibitor for breast cancer,1
+APP0594,2023-11-18,2023,Myrjav-pril,Novartis,small_mol,oncology,0.35,0,0,FDA approval — oncology small_mol,0
+APP0579,2023-11-26,2023,Nevrav-tide,Cytokinetics,small_mol,neurology,0.06,0,0,FDA approval — neurology small_mol,0
+APP0601,2023-11-26,2023,Ravben-pril,Ionis,biologic,oncology,0.1,0,0,FDA approval — oncology biologic,0
+APP0614,2023-12-02,2023,Solesp-cel,Cytokinetics,biologic,neurology,0.16,0,0,FDA approval — neurology biologic,0
+APP0607,2023-12-07,2023,Solsol-vir,Amgen,small_mol,rare_disease,0.46,0,0,FDA approval — rare_disease small_mol,0
+APP0035,2023-12-08,2023,Casgevy,Vertex/CRISPR,gene_therapy,rare_disease,1.5,1,0,First CRISPR therapy approved,1
+APP0602,2023-12-11,2023,Myrwer-cel,Acadia,small_mol,oncology,0.1,0,0,FDA approval — oncology small_mol,0
+APP0613,2023-12-13,2023,Ravqul-vir,J&J,biologic,cardiovascular,0.36,0,0,FDA approval — cardiovascular biologic,0
+APP0618,2024-01-02,2024,Xanpre-fenib,Sanofi,biologic,neurology,0.01,0,0,FDA approval — neurology biologic,0
+APP0665,2024-01-03,2024,Yarkim-rab,Sarepta,cell_therapy,oncology,0.06,0,0,FDA approval — oncology cell_therapy,0
+APP0623,2024-01-10,2024,Javyar-sertib,AbbVie,small_mol,oncology,0.05,0,0,FDA approval — oncology small_mol,0
+APP0627,2024-01-16,2024,Wervor-tide,Travere,biologic,infectious,0.06,0,0,FDA approval — infectious biologic,0
+APP0666,2024-01-23,2024,Xylabr-cept,Cytokinetics,small_mol,oncology,1.49,1,0,FDA approval — oncology small_mol,0
+APP0635,2024-02-03,2024,Xylola-zumab,Sanofi,small_mol,neurology,1.38,1,0,FDA approval — neurology small_mol,0
+APP0648,2024-02-09,2024,Nevola-nib,Alnylam,small_mol,oncology,0.09,0,0,FDA approval — oncology small_mol,0
+APP0641,2024-02-19,2024,Javesp-zumab,AstraZeneca,gene_therapy,psychiatry,0.24,0,0,FDA approval — psychiatry gene_therapy,0
+APP0633,2024-03-02,2024,Pretev-fenib,Alnylam,biologic,oncology,0.06,0,0,FDA approval — oncology biologic,0
+APP0632,2024-03-09,2024,Werola-mab,Sanofi,small_mol,oncology,0.22,0,0,FDA approval — oncology small_mol,0
+APP0630,2024-03-17,2024,Qulben-pril,Amgen,small_mol,metabolic,0.14,0,0,FDA approval — metabolic small_mol,0
+APP0640,2024-04-01,2024,Qultev-nib,Gilead,cell_therapy,immunology,0.07,0,0,FDA approval — immunology cell_therapy,0
+APP0656,2024-04-08,2024,Tevdur-mab,Karuna,biologic,oncology,0.07,0,0,FDA approval — oncology biologic,0
+APP0634,2024-04-09,2024,Xanabr-cept,Lilly,cell_therapy,rare_disease,0.16,0,0,FDA approval — rare_disease cell_therapy,0
+APP0644,2024-04-11,2024,Ilenev-nib,Sanofi,small_mol,neurology,1.55,1,0,FDA approval — neurology small_mol,0
+APP0636,2024-04-13,2024,Corqul-cept,Alkermes,gene_therapy,oncology,0.05,0,0,FDA approval — oncology gene_therapy,0
+APP0631,2024-04-15,2024,Espnev-lozide,Roche,small_mol,immunology,0.48,0,0,FDA approval — immunology small_mol,0
+APP0637,2024-04-20,2024,Javvor-cept,Regeneron,biologic,cardiovascular,0.03,0,0,FDA approval — cardiovascular biologic,0
+APP0646,2024-05-06,2024,Lirurb-tide,Jazz Pharma,biologic,oncology,0.16,0,0,FDA approval — oncology biologic,0
+APP0645,2024-05-16,2024,Myrabr-mab,Vertex,small_mol,oncology,0.17,0,0,FDA approval — oncology small_mol,0
+APP0625,2024-05-16,2024,Lirzol-pril,Ionis,small_mol,cardiovascular,0.28,0,0,FDA approval — cardiovascular small_mol,0
+APP0657,2024-05-18,2024,Ilezol-cel,Bayer,small_mol,ophthalmology,0.68,0,0,FDA approval — ophthalmology small_mol,0
+APP0643,2024-05-26,2024,Garurb-fenib,Regeneron,small_mol,oncology,8.63,1,1,FDA approval — oncology small_mol,0
+APP0661,2024-06-05,2024,Ravesp-tide,Mirum,biologic,cardiovascular,0.1,0,0,FDA approval — cardiovascular biologic,0
+APP0652,2024-06-26,2024,Kimxan-zumab,Sarepta,biologic,psychiatry,0.24,0,0,FDA approval — psychiatry biologic,0
+APP0034,2024-07-02,2024,Kisunla,Eli Lilly,biologic,neurology,2.0,1,0,Donanemab for Alzheimer's,1
+APP0622,2024-07-05,2024,Yarzol-cept,Novartis,small_mol,oncology,0.17,0,0,FDA approval — oncology small_mol,0
+APP0667,2024-07-19,2024,Vorvor-tide,Lilly,biologic,oncology,0.92,0,0,FDA approval — oncology biologic,0
+APP0038,2024-08-06,2024,Vorasidenib (Voranigo),Servier,small_mol,oncology,1.0,1,0,IDH-mutant glioma,1
+APP0620,2024-08-07,2024,Espnev-zumab,Cytokinetics,small_mol,rare_disease,0.76,0,0,FDA approval — rare_disease small_mol,0
+APP0655,2024-08-13,2024,Prerav-cel,Travere,biologic,rare_disease,0.04,0,0,FDA approval — rare_disease biologic,0
+APP0647,2024-08-17,2024,Prezol-tide,Novo Nordisk,small_mol,oncology,0.16,0,0,FDA approval — oncology small_mol,0
+APP0040,2024-08-19,2024,Lazcluze + Rybrevant,J&J,biologic,oncology,3.0,1,0,First-line NSCLC combo,1
+APP0624,2024-08-27,2024,Javwer-vir,Merck,small_mol,oncology,0.67,0,0,FDA approval — oncology small_mol,0
+APP0628,2024-09-01,2024,Durpre-sertib,Regeneron,biologic,immunology,0.45,0,0,FDA approval — immunology biologic,0
+APP0043,2024-09-12,2024,Ebglyss,Eli Lilly,biologic,immunology,2.5,1,0,IL-13 inhibitor for AD,1
+APP0649,2024-09-23,2024,Vorpre-fenib,Pfizer,small_mol,neurology,0.23,0,0,FDA approval — neurology small_mol,0
+APP0629,2024-09-23,2024,Yarxyl-fenib,BioMarin,biologic,oncology,0.07,0,0,FDA approval — oncology biologic,0
+APP0638,2024-09-23,2024,Durxyl-sertib,AstraZeneca,small_mol,oncology,0.24,0,0,FDA approval — oncology small_mol,0
+APP0044,2024-09-26,2024,Cobenfy,BMS,small_mol,neurology,3.0,1,0,First new schizophrenia mechanism in 70 years,1
+APP0626,2024-09-26,2024,Javben-lozide,Cytokinetics,small_mol,oncology,1.32,1,0,FDA approval — oncology small_mol,0
+APP0621,2024-10-04,2024,Olanev-mab,Amgen,small_mol,rare_disease,0.01,0,0,FDA approval — rare_disease small_mol,0
+APP0659,2024-10-09,2024,Abrola-vir,BioMarin,biologic,oncology,0.15,0,0,FDA approval — oncology biologic,0
+APP0663,2024-10-21,2024,Tevqul-cept,Sarepta,small_mol,infectious,0.14,0,0,FDA approval — infectious small_mol,0
+APP0664,2024-10-25,2024,Kimlir-cept,Novo Nordisk,biologic,respiratory,0.07,0,0,FDA approval — respiratory biologic,0
+APP0662,2024-11-10,2024,Ilesol-tide,Regeneron,vaccine,oncology,1.18,1,0,FDA approval — oncology vaccine,0
+APP0651,2024-11-24,2024,Wercor-sertib,Takeda,small_mol,cardiovascular,0.27,0,0,FDA approval — cardiovascular small_mol,0
+APP0654,2024-12-06,2024,Iletev-tide,Regeneron,biologic,oncology,0.01,0,0,FDA approval — oncology biologic,0
+APP0642,2024-12-07,2024,Durzol-mab,Sanofi,small_mol,oncology,0.27,0,0,FDA approval — oncology small_mol,0
+APP0658,2024-12-10,2024,Abrxyl-pril,J&J,small_mol,infectious,0.4,0,0,FDA approval — infectious small_mol,0
+APP0639,2024-12-15,2024,Ravcor-tinib,AstraZeneca,small_mol,infectious,0.94,0,0,FDA approval — infectious small_mol,0
+APP0650,2024-12-17,2024,Ravlir-vir,Bayer,small_mol,cardiovascular,0.08,0,0,FDA approval — cardiovascular small_mol,0
+APP0660,2024-12-17,2024,Urbile-cel,Lilly,small_mol,respiratory,0.02,0,0,FDA approval — respiratory small_mol,0
+APP0653,2024-12-20,2024,Iledur-stat,Horizon,biologic,oncology,0.01,0,0,FDA approval — oncology biologic,0
+APP0619,2024-12-21,2024,Kimcor-lozide,J&J,small_mol,oncology,0.02,0,0,FDA approval — oncology small_mol,0
+APP0708,2025-01-06,2025,Ravzol-cept,BioMarin,small_mol,infectious,0.03,0,0,FDA approval — infectious small_mol,0
+APP0697,2025-01-08,2025,Urbpre-mab,Novo Nordisk,biologic,neurology,0.61,0,0,FDA approval — neurology biologic,0
+APP0705,2025-01-11,2025,Benile-vir,Vertex,small_mol,immunology,0.11,0,0,FDA approval — immunology small_mol,0
+APP0675,2025-01-12,2025,Benmyr-cel,Jazz Pharma,small_mol,infectious,0.04,0,0,FDA approval — infectious small_mol,0
+APP0041,2025-01-17,2025,Datroway,Daiichi/AstraZeneca,biologic,oncology,3.0,1,0,TROP2 ADC for breast cancer,1
+APP0676,2025-01-26,2025,Vorile-lozide,Incyte,small_mol,oncology,2.44,1,0,FDA approval — oncology small_mol,0
+APP0679,2025-02-02,2025,Tevile-tinib,Gilead,small_mol,infectious,0.39,0,0,FDA approval — infectious small_mol,0
+APP0680,2025-02-22,2025,Qulqul-lozide,Sanofi,small_mol,oncology,0.07,0,0,FDA approval — oncology small_mol,0
+APP0673,2025-02-26,2025,Nevxyl-mab,Bayer,small_mol,oncology,0.06,0,0,FDA approval — oncology small_mol,0
+APP0688,2025-03-12,2025,Iletev-stat,Reata,small_mol,infectious,1.85,1,0,FDA approval — infectious small_mol,0
+APP0712,2025-03-15,2025,Corrav-tinib,Novartis,biologic,rare_disease,0.5,0,0,FDA approval — rare_disease biologic,0
+APP0687,2025-03-27,2025,Preile-cel,Novo Nordisk,small_mol,oncology,0.02,0,0,FDA approval — oncology small_mol,0
+APP0693,2025-04-05,2025,Durtev-cel,AstraZeneca,small_mol,respiratory,0.03,0,0,FDA approval — respiratory small_mol,0
+APP0670,2025-04-09,2025,Solqul-stat,J&J,biologic,oncology,0.01,0,0,FDA approval — oncology biologic,0
+APP0692,2025-04-10,2025,Ilejav-tide,Reata,biologic,oncology,0.07,0,0,FDA approval — oncology biologic,0
+APP0710,2025-04-21,2025,Durwer-pril,Regeneron,vaccine,cardiovascular,0.04,0,0,FDA approval — cardiovascular vaccine,0
+APP0669,2025-04-26,2025,Myrqul-pril,Alnylam,small_mol,immunology,0.85,0,0,FDA approval — immunology small_mol,0
+APP0699,2025-05-02,2025,Olamyr-zumab,AbbVie,cell_therapy,psychiatry,0.36,0,0,FDA approval — psychiatry cell_therapy,0
+APP0695,2025-05-24,2025,Ravtev-rab,Madrigal,small_mol,oncology,0.01,0,0,FDA approval — oncology small_mol,0
+APP0677,2025-06-08,2025,Myrxyl-zumab,Novo Nordisk,small_mol,rare_disease,0.23,0,0,FDA approval — rare_disease small_mol,0
+APP0690,2025-06-10,2025,Preabr-zumab,Pfizer,gene_therapy,oncology,2.26,1,0,FDA approval — oncology gene_therapy,0
+APP0042,2025-06-15,2025,Tryptyr,Eli Lilly,small_mol,metabolic,6.0,1,1,Oral GLP-1 (orforglipron),1
+APP0696,2025-06-19,2025,Solesp-zumab,Karuna,small_mol,cardiovascular,0.03,0,0,FDA approval — cardiovascular small_mol,0
+APP0689,2025-06-23,2025,Tevesp-cept,BioMarin,small_mol,neurology,0.34,0,0,FDA approval — neurology small_mol,0
+APP0684,2025-06-24,2025,Xylwer-vir,AstraZeneca,gene_therapy,oncology,0.2,0,0,FDA approval — oncology gene_therapy,0
+APP0704,2025-07-08,2025,Kimqul-rab,Novartis,small_mol,metabolic,0.48,0,0,FDA approval — metabolic small_mol,0
+APP0691,2025-07-08,2025,Myrzol-mab,Incyte,biologic,dermatology,0.14,0,0,FDA approval — dermatology biologic,0
+APP0700,2025-07-12,2025,Ilelir-cept,Karuna,small_mol,infectious,0.09,0,0,FDA approval — infectious small_mol,0
+APP0702,2025-07-18,2025,Tevben-mab,BioMarin,small_mol,immunology,0.42,0,0,FDA approval — immunology small_mol,0
+APP0678,2025-07-21,2025,Durlir-vir,Novartis,cell_therapy,oncology,0.46,0,0,FDA approval — oncology cell_therapy,0
+APP0709,2025-07-24,2025,Xanzol-zumab,Novo Nordisk,small_mol,cardiovascular,0.66,0,0,FDA approval — cardiovascular small_mol,0
+APP0713,2025-08-02,2025,Tevben-pril,Bayer,small_mol,rare_disease,0.32,0,0,FDA approval — rare_disease small_mol,0
+APP0703,2025-08-09,2025,Abrlir-tide,Roche,small_mol,cardiovascular,0.03,0,0,FDA approval — cardiovascular small_mol,0
+APP0685,2025-08-14,2025,Kimmyr-pril,Alkermes,biologic,oncology,0.13,0,0,FDA approval — oncology biologic,0
+APP0694,2025-08-18,2025,Corsol-sertib,Alnylam,small_mol,oncology,0.53,0,0,FDA approval — oncology small_mol,0
+APP0671,2025-09-04,2025,Durnev-tinib,Roche,biologic,immunology,0.04,0,0,FDA approval — immunology biologic,0
+APP0711,2025-10-01,2025,Xanben-nib,Ionis,small_mol,oncology,0.35,0,0,FDA approval — oncology small_mol,0
+APP0682,2025-10-01,2025,Xanurb-fenib,Pfizer,small_mol,oncology,0.1,0,0,FDA approval — oncology small_mol,0
+APP0683,2025-10-04,2025,Ravvor-tide,Takeda,biologic,cardiovascular,8.09,1,1,FDA approval — cardiovascular biologic,0
+APP0681,2025-10-06,2025,Myrrav-lozide,Merck,small_mol,infectious,1.33,1,0,FDA approval — infectious small_mol,0
+APP0707,2025-10-22,2025,Xylcor-nib,J&J,biologic,oncology,0.15,0,0,FDA approval — oncology biologic,0
+APP0714,2025-10-25,2025,Urbjav-lozide,Madrigal,small_mol,rare_disease,0.46,0,0,FDA approval — rare_disease small_mol,0
+APP0701,2025-11-07,2025,Abrgar-tide,Travere,biologic,neurology,0.04,0,0,FDA approval — neurology biologic,0
+APP0672,2025-11-08,2025,Tevjav-mab,Amgen,small_mol,rare_disease,5.41,1,1,FDA approval — rare_disease small_mol,0
+APP0698,2025-11-16,2025,Prezol-sertib,Novartis,cell_therapy,infectious,3.18,1,0,FDA approval — infectious cell_therapy,0
+APP0668,2025-11-22,2025,Benlir-pril,Acadia,small_mol,oncology,1.13,1,0,FDA approval — oncology small_mol,0
+APP0686,2025-11-22,2025,Myrjav-nib,Merck,small_mol,immunology,3.49,1,0,FDA approval — immunology small_mol,0
+APP0715,2025-12-19,2025,Zolzol-nib,Jazz Pharma,small_mol,oncology,0.03,0,0,FDA approval — oncology small_mol,0
+APP0706,2025-12-24,2025,Ilesol-fenib,Sanofi,biologic,neurology,0.71,0,0,FDA approval — neurology biologic,0
+APP0674,2025-12-26,2025,Yarxyl-stat,Acadia,gene_therapy,infectious,1.91,1,0,FDA approval — infectious gene_therapy,0
+APP0719,2026-01-05,2026,Xylile-rab,Jazz Pharma,gene_therapy,gastrointestinal,0.18,0,0,FDA approval — gastrointestinal gene_therapy,0
+APP0718,2026-01-25,2026,Urbkim-tide,Cytokinetics,biologic,cardiovascular,0.34,0,0,FDA approval — cardiovascular biologic,0
+APP0722,2026-02-24,2026,Xylrav-zumab,Sanofi,small_mol,oncology,0.64,0,0,FDA approval — oncology small_mol,0
+APP0721,2026-03-25,2026,Lirvor-cept,Amgen,cell_therapy,metabolic,7.05,1,1,FDA approval — metabolic cell_therapy,0
+APP0716,2026-04-02,2026,Xanzol-tide,Karuna,vaccine,oncology,0.3,0,0,FDA approval — oncology vaccine,0
+APP0717,2026-04-09,2026,Xannev-lozide,Karuna,vaccine,oncology,0.12,0,0,FDA approval — oncology vaccine,0
+APP0720,2026-04-21,2026,Nevxyl-mab,Gilead,biologic,oncology,0.01,0,0,FDA approval — oncology biologic,0

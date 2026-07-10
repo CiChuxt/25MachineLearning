@@ -1,0 +1,3311 @@
+year,region,disease,dalys_millions,global_dalys_millions
+2010,North America,Cardiovascular disease,18.49,350.0
+2010,Western Europe,Cardiovascular disease,20.94,350.0
+2010,Eastern Europe,Cardiovascular disease,13.05,350.0
+2010,China,Cardiovascular disease,60.71,350.0
+2010,India,Cardiovascular disease,66.51,350.0
+2010,Southeast Asia,Cardiovascular disease,34.82,350.0
+2010,Middle East,Cardiovascular disease,24.7,350.0
+2010,Africa,Cardiovascular disease,75.47,350.0
+2010,Latin America,Cardiovascular disease,25.27,350.0
+2010,Oceania,Cardiovascular disease,3.51,350.0
+2011,North America,Cardiovascular disease,18.42,353.0
+2011,Western Europe,Cardiovascular disease,20.88,353.0
+2011,Eastern Europe,Cardiovascular disease,15.95,353.0
+2011,China,Cardiovascular disease,62.12,353.0
+2011,India,Cardiovascular disease,68.09,353.0
+2011,Southeast Asia,Cardiovascular disease,33.88,353.0
+2011,Middle East,Cardiovascular disease,24.5,353.0
+2011,Africa,Cardiovascular disease,72.5,353.0
+2011,Latin America,Cardiovascular disease,25.0,353.0
+2011,Oceania,Cardiovascular disease,3.27,353.0
+2012,North America,Cardiovascular disease,17.92,356.0
+2012,Western Europe,Cardiovascular disease,20.24,356.0
+2012,Eastern Europe,Cardiovascular disease,14.02,356.0
+2012,China,Cardiovascular disease,65.65,356.0
+2012,India,Cardiovascular disease,78.07,356.0
+2012,Southeast Asia,Cardiovascular disease,34.1,356.0
+2012,Middle East,Cardiovascular disease,24.77,356.0
+2012,Africa,Cardiovascular disease,76.09,356.0
+2012,Latin America,Cardiovascular disease,24.07,356.0
+2012,Oceania,Cardiovascular disease,3.46,356.0
+2013,North America,Cardiovascular disease,18.55,359.0
+2013,Western Europe,Cardiovascular disease,21.12,359.0
+2013,Eastern Europe,Cardiovascular disease,15.71,359.0
+2013,China,Cardiovascular disease,65.7,359.0
+2013,India,Cardiovascular disease,68.96,359.0
+2013,Southeast Asia,Cardiovascular disease,35.38,359.0
+2013,Middle East,Cardiovascular disease,24.34,359.0
+2013,Africa,Cardiovascular disease,81.55,359.0
+2013,Latin America,Cardiovascular disease,23.54,359.0
+2013,Oceania,Cardiovascular disease,3.4,359.0
+2014,North America,Cardiovascular disease,17.68,362.0
+2014,Western Europe,Cardiovascular disease,22.32,362.0
+2014,Eastern Europe,Cardiovascular disease,15.21,362.0
+2014,China,Cardiovascular disease,68.86,362.0
+2014,India,Cardiovascular disease,73.95,362.0
+2014,Southeast Asia,Cardiovascular disease,36.08,362.0
+2014,Middle East,Cardiovascular disease,26.16,362.0
+2014,Africa,Cardiovascular disease,76.08,362.0
+2014,Latin America,Cardiovascular disease,23.54,362.0
+2014,Oceania,Cardiovascular disease,3.68,362.0
+2015,North America,Cardiovascular disease,17.53,365.0
+2015,Western Europe,Cardiovascular disease,21.84,365.0
+2015,Eastern Europe,Cardiovascular disease,14.67,365.0
+2015,China,Cardiovascular disease,66.36,365.0
+2015,India,Cardiovascular disease,75.79,365.0
+2015,Southeast Asia,Cardiovascular disease,37.74,365.0
+2015,Middle East,Cardiovascular disease,25.75,365.0
+2015,Africa,Cardiovascular disease,78.89,365.0
+2015,Latin America,Cardiovascular disease,25.66,365.0
+2015,Oceania,Cardiovascular disease,3.56,365.0
+2016,North America,Cardiovascular disease,18.45,372.0
+2016,Western Europe,Cardiovascular disease,24.78,372.0
+2016,Eastern Europe,Cardiovascular disease,14.99,372.0
+2016,China,Cardiovascular disease,68.18,372.0
+2016,India,Cardiovascular disease,72.33,372.0
+2016,Southeast Asia,Cardiovascular disease,38.75,372.0
+2016,Middle East,Cardiovascular disease,26.84,372.0
+2016,Africa,Cardiovascular disease,84.39,372.0
+2016,Latin America,Cardiovascular disease,26.26,372.0
+2016,Oceania,Cardiovascular disease,3.88,372.0
+2017,North America,Cardiovascular disease,19.94,379.0
+2017,Western Europe,Cardiovascular disease,23.0,379.0
+2017,Eastern Europe,Cardiovascular disease,15.09,379.0
+2017,China,Cardiovascular disease,70.71,379.0
+2017,India,Cardiovascular disease,73.11,379.0
+2017,Southeast Asia,Cardiovascular disease,36.83,379.0
+2017,Middle East,Cardiovascular disease,26.47,379.0
+2017,Africa,Cardiovascular disease,77.77,379.0
+2017,Latin America,Cardiovascular disease,27.42,379.0
+2017,Oceania,Cardiovascular disease,3.65,379.0
+2018,North America,Cardiovascular disease,18.94,386.0
+2018,Western Europe,Cardiovascular disease,22.96,386.0
+2018,Eastern Europe,Cardiovascular disease,15.46,386.0
+2018,China,Cardiovascular disease,68.53,386.0
+2018,India,Cardiovascular disease,76.99,386.0
+2018,Southeast Asia,Cardiovascular disease,38.51,386.0
+2018,Middle East,Cardiovascular disease,26.54,386.0
+2018,Africa,Cardiovascular disease,82.33,386.0
+2018,Latin America,Cardiovascular disease,28.21,386.0
+2018,Oceania,Cardiovascular disease,3.55,386.0
+2019,North America,Cardiovascular disease,19.49,393.0
+2019,Western Europe,Cardiovascular disease,23.14,393.0
+2019,Eastern Europe,Cardiovascular disease,15.99,393.0
+2019,China,Cardiovascular disease,66.74,393.0
+2019,India,Cardiovascular disease,77.04,393.0
+2019,Southeast Asia,Cardiovascular disease,39.14,393.0
+2019,Middle East,Cardiovascular disease,28.71,393.0
+2019,Africa,Cardiovascular disease,87.62,393.0
+2019,Latin America,Cardiovascular disease,26.24,393.0
+2019,Oceania,Cardiovascular disease,3.85,393.0
+2020,North America,Cardiovascular disease,20.75,400.5
+2020,Western Europe,Cardiovascular disease,22.9,400.5
+2020,Eastern Europe,Cardiovascular disease,15.97,400.5
+2020,China,Cardiovascular disease,72.06,400.5
+2020,India,Cardiovascular disease,78.87,400.5
+2020,Southeast Asia,Cardiovascular disease,44.61,400.5
+2020,Middle East,Cardiovascular disease,27.58,400.5
+2020,Africa,Cardiovascular disease,89.71,400.5
+2020,Latin America,Cardiovascular disease,27.19,400.5
+2020,Oceania,Cardiovascular disease,4.09,400.5
+2021,North America,Cardiovascular disease,21.12,408.0
+2021,Western Europe,Cardiovascular disease,23.91,408.0
+2021,Eastern Europe,Cardiovascular disease,16.28,408.0
+2021,China,Cardiovascular disease,70.86,408.0
+2021,India,Cardiovascular disease,77.95,408.0
+2021,Southeast Asia,Cardiovascular disease,42.53,408.0
+2021,Middle East,Cardiovascular disease,27.93,408.0
+2021,Africa,Cardiovascular disease,81.5,408.0
+2021,Latin America,Cardiovascular disease,30.65,408.0
+2021,Oceania,Cardiovascular disease,3.95,408.0
+2022,North America,Cardiovascular disease,20.4,412.0
+2022,Western Europe,Cardiovascular disease,26.4,412.0
+2022,Eastern Europe,Cardiovascular disease,16.39,412.0
+2022,China,Cardiovascular disease,73.68,412.0
+2022,India,Cardiovascular disease,78.45,412.0
+2022,Southeast Asia,Cardiovascular disease,38.59,412.0
+2022,Middle East,Cardiovascular disease,28.65,412.0
+2022,Africa,Cardiovascular disease,91.96,412.0
+2022,Latin America,Cardiovascular disease,29.19,412.0
+2022,Oceania,Cardiovascular disease,4.04,412.0
+2023,North America,Cardiovascular disease,20.82,416.0
+2023,Western Europe,Cardiovascular disease,23.19,416.0
+2023,Eastern Europe,Cardiovascular disease,16.95,416.0
+2023,China,Cardiovascular disease,75.37,416.0
+2023,India,Cardiovascular disease,90.03,416.0
+2023,Southeast Asia,Cardiovascular disease,41.61,416.0
+2023,Middle East,Cardiovascular disease,28.04,416.0
+2023,Africa,Cardiovascular disease,91.33,416.0
+2023,Latin America,Cardiovascular disease,28.74,416.0
+2023,Oceania,Cardiovascular disease,4.23,416.0
+2024,North America,Cardiovascular disease,21.02,420.0
+2024,Western Europe,Cardiovascular disease,23.96,420.0
+2024,Eastern Europe,Cardiovascular disease,15.74,420.0
+2024,China,Cardiovascular disease,76.4,420.0
+2024,India,Cardiovascular disease,88.78,420.0
+2024,Southeast Asia,Cardiovascular disease,42.13,420.0
+2024,Middle East,Cardiovascular disease,30.37,420.0
+2024,Africa,Cardiovascular disease,96.22,420.0
+2024,Latin America,Cardiovascular disease,29.72,420.0
+2024,Oceania,Cardiovascular disease,4.07,420.0
+2025,North America,Cardiovascular disease,21.42,425.0
+2025,Western Europe,Cardiovascular disease,26.76,425.0
+2025,Eastern Europe,Cardiovascular disease,17.36,425.0
+2025,China,Cardiovascular disease,78.82,425.0
+2025,India,Cardiovascular disease,83.44,425.0
+2025,Southeast Asia,Cardiovascular disease,42.16,425.0
+2025,Middle East,Cardiovascular disease,29.61,425.0
+2025,Africa,Cardiovascular disease,93.31,425.0
+2025,Latin America,Cardiovascular disease,31.17,425.0
+2025,Oceania,Cardiovascular disease,3.87,425.0
+2026,North America,Cardiovascular disease,21.53,430.0
+2026,Western Europe,Cardiovascular disease,25.72,430.0
+2026,Eastern Europe,Cardiovascular disease,16.28,430.0
+2026,China,Cardiovascular disease,79.51,430.0
+2026,India,Cardiovascular disease,83.54,430.0
+2026,Southeast Asia,Cardiovascular disease,42.39,430.0
+2026,Middle East,Cardiovascular disease,32.41,430.0
+2026,Africa,Cardiovascular disease,98.5,430.0
+2026,Latin America,Cardiovascular disease,30.8,430.0
+2026,Oceania,Cardiovascular disease,4.37,430.0
+2010,North America,Cancer,19.67,220.0
+2010,Western Europe,Cancer,25.74,220.0
+2010,Eastern Europe,Cancer,9.09,220.0
+2010,China,Cancer,38.43,220.0
+2010,India,Cancer,41.6,220.0
+2010,Southeast Asia,Cancer,22.5,220.0
+2010,Middle East,Cancer,15.37,220.0
+2010,Africa,Cancer,27.43,220.0
+2010,Latin America,Cancer,15.67,220.0
+2010,Oceania,Cancer,2.18,220.0
+2011,North America,Cancer,20.59,224.0
+2011,Western Europe,Cancer,24.62,224.0
+2011,Eastern Europe,Cancer,8.74,224.0
+2011,China,Cancer,41.35,224.0
+2011,India,Cancer,43.92,224.0
+2011,Southeast Asia,Cancer,22.02,224.0
+2011,Middle East,Cancer,15.35,224.0
+2011,Africa,Cancer,30.94,224.0
+2011,Latin America,Cancer,15.51,224.0
+2011,Oceania,Cancer,2.37,224.0
+2012,North America,Cancer,22.04,228.0
+2012,Western Europe,Cancer,23.91,228.0
+2012,Eastern Europe,Cancer,8.11,228.0
+2012,China,Cancer,42.79,228.0
+2012,India,Cancer,44.98,228.0
+2012,Southeast Asia,Cancer,22.02,228.0
+2012,Middle East,Cancer,15.59,228.0
+2012,Africa,Cancer,29.6,228.0
+2012,Latin America,Cancer,16.81,228.0
+2012,Oceania,Cancer,2.29,228.0
+2013,North America,Cancer,21.98,232.0
+2013,Western Europe,Cancer,25.56,232.0
+2013,Eastern Europe,Cancer,9.17,232.0
+2013,China,Cancer,41.11,232.0
+2013,India,Cancer,47.45,232.0
+2013,Southeast Asia,Cancer,23.97,232.0
+2013,Middle East,Cancer,16.9,232.0
+2013,Africa,Cancer,30.31,232.0
+2013,Latin America,Cancer,16.35,232.0
+2013,Oceania,Cancer,2.37,232.0
+2014,North America,Cancer,20.92,236.0
+2014,Western Europe,Cancer,24.36,236.0
+2014,Eastern Europe,Cancer,9.14,236.0
+2014,China,Cancer,42.07,236.0
+2014,India,Cancer,48.47,236.0
+2014,Southeast Asia,Cancer,24.82,236.0
+2014,Middle East,Cancer,15.65,236.0
+2014,Africa,Cancer,30.42,236.0
+2014,Latin America,Cancer,16.29,236.0
+2014,Oceania,Cancer,2.44,236.0
+2015,North America,Cancer,21.15,240.0
+2015,Western Europe,Cancer,25.48,240.0
+2015,Eastern Europe,Cancer,9.07,240.0
+2015,China,Cancer,44.04,240.0
+2015,India,Cancer,47.69,240.0
+2015,Southeast Asia,Cancer,23.38,240.0
+2015,Middle East,Cancer,16.63,240.0
+2015,Africa,Cancer,33.14,240.0
+2015,Latin America,Cancer,16.14,240.0
+2015,Oceania,Cancer,2.32,240.0
+2016,North America,Cancer,22.97,242.8
+2016,Western Europe,Cancer,26.3,242.8
+2016,Eastern Europe,Cancer,9.97,242.8
+2016,China,Cancer,44.4,242.8
+2016,India,Cancer,48.48,242.8
+2016,Southeast Asia,Cancer,23.94,242.8
+2016,Middle East,Cancer,17.57,242.8
+2016,Africa,Cancer,33.57,242.8
+2016,Latin America,Cancer,17.75,242.8
+2016,Oceania,Cancer,2.32,242.8
+2017,North America,Cancer,23.28,245.5
+2017,Western Europe,Cancer,26.14,245.5
+2017,Eastern Europe,Cancer,9.53,245.5
+2017,China,Cancer,43.89,245.5
+2017,India,Cancer,50.76,245.5
+2017,Southeast Asia,Cancer,25.09,245.5
+2017,Middle East,Cancer,17.01,245.5
+2017,Africa,Cancer,33.51,245.5
+2017,Latin America,Cancer,17.28,245.5
+2017,Oceania,Cancer,2.4,245.5
+2018,North America,Cancer,21.72,248.2
+2018,Western Europe,Cancer,27.25,248.2
+2018,Eastern Europe,Cancer,9.9,248.2
+2018,China,Cancer,42.29,248.2
+2018,India,Cancer,51.36,248.2
+2018,Southeast Asia,Cancer,24.35,248.2
+2018,Middle East,Cancer,18.52,248.2
+2018,Africa,Cancer,30.98,248.2
+2018,Latin America,Cancer,17.25,248.2
+2018,Oceania,Cancer,2.41,248.2
+2019,North America,Cancer,21.73,251.0
+2019,Western Europe,Cancer,26.59,251.0
+2019,Eastern Europe,Cancer,10.78,251.0
+2019,China,Cancer,45.44,251.0
+2019,India,Cancer,48.64,251.0
+2019,Southeast Asia,Cancer,23.33,251.0
+2019,Middle East,Cancer,16.4,251.0
+2019,Africa,Cancer,32.43,251.0
+2019,Latin America,Cancer,17.13,251.0
+2019,Oceania,Cancer,2.49,251.0
+2020,North America,Cancer,20.87,254.0
+2020,Western Europe,Cancer,27.33,254.0
+2020,Eastern Europe,Cancer,10.59,254.0
+2020,China,Cancer,48.79,254.0
+2020,India,Cancer,47.09,254.0
+2020,Southeast Asia,Cancer,24.6,254.0
+2020,Middle East,Cancer,17.18,254.0
+2020,Africa,Cancer,33.72,254.0
+2020,Latin America,Cancer,16.93,254.0
+2020,Oceania,Cancer,2.72,254.0
+2021,North America,Cancer,23.17,257.0
+2021,Western Europe,Cancer,27.62,257.0
+2021,Eastern Europe,Cancer,10.96,257.0
+2021,China,Cancer,46.23,257.0
+2021,India,Cancer,52.23,257.0
+2021,Southeast Asia,Cancer,24.94,257.0
+2021,Middle East,Cancer,17.03,257.0
+2021,Africa,Cancer,33.11,257.0
+2021,Latin America,Cancer,19.63,257.0
+2021,Oceania,Cancer,2.64,257.0
+2022,North America,Cancer,23.78,261.3
+2022,Western Europe,Cancer,27.14,261.3
+2022,Eastern Europe,Cancer,10.84,261.3
+2022,China,Cancer,44.55,261.3
+2022,India,Cancer,49.09,261.3
+2022,Southeast Asia,Cancer,25.56,261.3
+2022,Middle East,Cancer,19.78,261.3
+2022,Africa,Cancer,37.22,261.3
+2022,Latin America,Cancer,17.97,261.3
+2022,Oceania,Cancer,2.54,261.3
+2023,North America,Cancer,22.39,265.7
+2023,Western Europe,Cancer,28.78,265.7
+2023,Eastern Europe,Cancer,10.7,265.7
+2023,China,Cancer,49.35,265.7
+2023,India,Cancer,55.1,265.7
+2023,Southeast Asia,Cancer,26.36,265.7
+2023,Middle East,Cancer,19.01,265.7
+2023,Africa,Cancer,34.1,265.7
+2023,Latin America,Cancer,19.0,265.7
+2023,Oceania,Cancer,2.6,265.7
+2024,North America,Cancer,24.75,270.0
+2024,Western Europe,Cancer,29.6,270.0
+2024,Eastern Europe,Cancer,10.83,270.0
+2024,China,Cancer,50.17,270.0
+2024,India,Cancer,50.71,270.0
+2024,Southeast Asia,Cancer,25.87,270.0
+2024,Middle East,Cancer,18.7,270.0
+2024,Africa,Cancer,33.64,270.0
+2024,Latin America,Cancer,18.59,270.0
+2024,Oceania,Cancer,2.66,270.0
+2025,North America,Cancer,26.08,275.0
+2025,Western Europe,Cancer,29.87,275.0
+2025,Eastern Europe,Cancer,11.46,275.0
+2025,China,Cancer,50.1,275.0
+2025,India,Cancer,53.83,275.0
+2025,Southeast Asia,Cancer,27.65,275.0
+2025,Middle East,Cancer,19.82,275.0
+2025,Africa,Cancer,38.07,275.0
+2025,Latin America,Cancer,19.15,275.0
+2025,Oceania,Cancer,2.57,275.0
+2026,North America,Cancer,23.53,280.0
+2026,Western Europe,Cancer,29.85,280.0
+2026,Eastern Europe,Cancer,10.2,280.0
+2026,China,Cancer,54.15,280.0
+2026,India,Cancer,57.35,280.0
+2026,Southeast Asia,Cancer,27.3,280.0
+2026,Middle East,Cancer,18.75,280.0
+2026,Africa,Cancer,38.51,280.0
+2026,Latin America,Cancer,18.75,280.0
+2026,Oceania,Cancer,2.69,280.0
+2010,North America,Diabetes,5.24,60.0
+2010,Western Europe,Diabetes,6.51,60.0
+2010,Eastern Europe,Diabetes,2.46,60.0
+2010,China,Diabetes,11.33,60.0
+2010,India,Diabetes,12.51,60.0
+2010,Southeast Asia,Diabetes,6.0,60.0
+2010,Middle East,Diabetes,4.37,60.0
+2010,Africa,Diabetes,7.71,60.0
+2010,Latin America,Diabetes,3.9,60.0
+2010,Oceania,Diabetes,0.58,60.0
+2011,North America,Diabetes,5.49,63.0
+2011,Western Europe,Diabetes,6.63,63.0
+2011,Eastern Europe,Diabetes,2.43,63.0
+2011,China,Diabetes,11.13,63.0
+2011,India,Diabetes,12.92,63.0
+2011,Southeast Asia,Diabetes,6.75,63.0
+2011,Middle East,Diabetes,4.12,63.0
+2011,Africa,Diabetes,7.9,63.0
+2011,Latin America,Diabetes,4.27,63.0
+2011,Oceania,Diabetes,0.65,63.0
+2012,North America,Diabetes,5.89,66.0
+2012,Western Europe,Diabetes,6.92,66.0
+2012,Eastern Europe,Diabetes,2.72,66.0
+2012,China,Diabetes,12.34,66.0
+2012,India,Diabetes,13.19,66.0
+2012,Southeast Asia,Diabetes,6.39,66.0
+2012,Middle East,Diabetes,4.67,66.0
+2012,Africa,Diabetes,8.63,66.0
+2012,Latin America,Diabetes,4.58,66.0
+2012,Oceania,Diabetes,0.65,66.0
+2013,North America,Diabetes,6.44,69.0
+2013,Western Europe,Diabetes,7.53,69.0
+2013,Eastern Europe,Diabetes,2.88,69.0
+2013,China,Diabetes,13.1,69.0
+2013,India,Diabetes,14.06,69.0
+2013,Southeast Asia,Diabetes,6.76,69.0
+2013,Middle East,Diabetes,5.04,69.0
+2013,Africa,Diabetes,9.28,69.0
+2013,Latin America,Diabetes,5.36,69.0
+2013,Oceania,Diabetes,0.7,69.0
+2014,North America,Diabetes,6.66,72.0
+2014,Western Europe,Diabetes,7.87,72.0
+2014,Eastern Europe,Diabetes,2.87,72.0
+2014,China,Diabetes,12.83,72.0
+2014,India,Diabetes,14.57,72.0
+2014,Southeast Asia,Diabetes,7.35,72.0
+2014,Middle East,Diabetes,5.28,72.0
+2014,Africa,Diabetes,9.62,72.0
+2014,Latin America,Diabetes,4.95,72.0
+2014,Oceania,Diabetes,0.71,72.0
+2015,North America,Diabetes,6.4,75.0
+2015,Western Europe,Diabetes,8.66,75.0
+2015,Eastern Europe,Diabetes,2.94,75.0
+2015,China,Diabetes,14.03,75.0
+2015,India,Diabetes,15.17,75.0
+2015,Southeast Asia,Diabetes,7.59,75.0
+2015,Middle East,Diabetes,5.23,75.0
+2015,Africa,Diabetes,9.59,75.0
+2015,Latin America,Diabetes,5.05,75.0
+2015,Oceania,Diabetes,0.8,75.0
+2016,North America,Diabetes,6.89,76.2
+2016,Western Europe,Diabetes,8.61,76.2
+2016,Eastern Europe,Diabetes,3.22,76.2
+2016,China,Diabetes,13.5,76.2
+2016,India,Diabetes,15.51,76.2
+2016,Southeast Asia,Diabetes,7.64,76.2
+2016,Middle East,Diabetes,5.1,76.2
+2016,Africa,Diabetes,9.99,76.2
+2016,Latin America,Diabetes,5.46,76.2
+2016,Oceania,Diabetes,0.75,76.2
+2017,North America,Diabetes,6.88,77.5
+2017,Western Europe,Diabetes,8.31,77.5
+2017,Eastern Europe,Diabetes,3.37,77.5
+2017,China,Diabetes,12.96,77.5
+2017,India,Diabetes,15.81,77.5
+2017,Southeast Asia,Diabetes,7.67,77.5
+2017,Middle East,Diabetes,5.29,77.5
+2017,Africa,Diabetes,10.12,77.5
+2017,Latin America,Diabetes,5.57,77.5
+2017,Oceania,Diabetes,0.8,77.5
+2018,North America,Diabetes,7.14,78.8
+2018,Western Europe,Diabetes,8.88,78.8
+2018,Eastern Europe,Diabetes,3.31,78.8
+2018,China,Diabetes,14.65,78.8
+2018,India,Diabetes,15.41,78.8
+2018,Southeast Asia,Diabetes,8.03,78.8
+2018,Middle East,Diabetes,5.62,78.8
+2018,Africa,Diabetes,10.06,78.8
+2018,Latin America,Diabetes,5.18,78.8
+2018,Oceania,Diabetes,0.73,78.8
+2019,North America,Diabetes,7.22,80.0
+2019,Western Europe,Diabetes,8.74,80.0
+2019,Eastern Europe,Diabetes,3.05,80.0
+2019,China,Diabetes,15.02,80.0
+2019,India,Diabetes,16.1,80.0
+2019,Southeast Asia,Diabetes,8.44,80.0
+2019,Middle East,Diabetes,5.68,80.0
+2019,Africa,Diabetes,10.12,80.0
+2019,Latin America,Diabetes,5.7,80.0
+2019,Oceania,Diabetes,0.82,80.0
+2020,North America,Diabetes,6.87,78.0
+2020,Western Europe,Diabetes,7.95,78.0
+2020,Eastern Europe,Diabetes,3.13,78.0
+2020,China,Diabetes,13.49,78.0
+2020,India,Diabetes,16.32,78.0
+2020,Southeast Asia,Diabetes,7.67,78.0
+2020,Middle East,Diabetes,5.85,78.0
+2020,Africa,Diabetes,9.46,78.0
+2020,Latin America,Diabetes,5.49,78.0
+2020,Oceania,Diabetes,0.83,78.0
+2021,North America,Diabetes,6.6,76.0
+2021,Western Europe,Diabetes,8.16,76.0
+2021,Eastern Europe,Diabetes,2.99,76.0
+2021,China,Diabetes,13.31,76.0
+2021,India,Diabetes,15.35,76.0
+2021,Southeast Asia,Diabetes,7.22,76.0
+2021,Middle East,Diabetes,5.3,76.0
+2021,Africa,Diabetes,10.24,76.0
+2021,Latin America,Diabetes,5.27,76.0
+2021,Oceania,Diabetes,0.73,76.0
+2022,North America,Diabetes,7.41,79.0
+2022,Western Europe,Diabetes,8.78,79.0
+2022,Eastern Europe,Diabetes,3.03,79.0
+2022,China,Diabetes,13.5,79.0
+2022,India,Diabetes,15.21,79.0
+2022,Southeast Asia,Diabetes,8.07,79.0
+2022,Middle East,Diabetes,5.59,79.0
+2022,Africa,Diabetes,10.76,79.0
+2022,Latin America,Diabetes,5.46,79.0
+2022,Oceania,Diabetes,0.76,79.0
+2023,North America,Diabetes,7.66,82.0
+2023,Western Europe,Diabetes,8.66,82.0
+2023,Eastern Europe,Diabetes,3.3,82.0
+2023,China,Diabetes,13.87,82.0
+2023,India,Diabetes,16.03,82.0
+2023,Southeast Asia,Diabetes,8.54,82.0
+2023,Middle East,Diabetes,5.58,82.0
+2023,Africa,Diabetes,11.18,82.0
+2023,Latin America,Diabetes,5.23,82.0
+2023,Oceania,Diabetes,0.8,82.0
+2024,North America,Diabetes,7.6,85.0
+2024,Western Europe,Diabetes,9.84,85.0
+2024,Eastern Europe,Diabetes,3.24,85.0
+2024,China,Diabetes,15.72,85.0
+2024,India,Diabetes,17.73,85.0
+2024,Southeast Asia,Diabetes,8.26,85.0
+2024,Middle East,Diabetes,5.86,85.0
+2024,Africa,Diabetes,11.28,85.0
+2024,Latin America,Diabetes,5.61,85.0
+2024,Oceania,Diabetes,0.83,85.0
+2025,North America,Diabetes,8.38,88.5
+2025,Western Europe,Diabetes,9.76,88.5
+2025,Eastern Europe,Diabetes,3.52,88.5
+2025,China,Diabetes,16.0,88.5
+2025,India,Diabetes,18.12,88.5
+2025,Southeast Asia,Diabetes,9.13,88.5
+2025,Middle East,Diabetes,6.06,88.5
+2025,Africa,Diabetes,12.42,88.5
+2025,Latin America,Diabetes,6.53,88.5
+2025,Oceania,Diabetes,0.91,88.5
+2026,North America,Diabetes,8.01,92.0
+2026,Western Europe,Diabetes,9.54,92.0
+2026,Eastern Europe,Diabetes,3.63,92.0
+2026,China,Diabetes,16.6,92.0
+2026,India,Diabetes,17.14,92.0
+2026,Southeast Asia,Diabetes,9.38,92.0
+2026,Middle East,Diabetes,6.78,92.0
+2026,Africa,Diabetes,12.43,92.0
+2026,Latin America,Diabetes,6.27,92.0
+2026,Oceania,Diabetes,0.89,92.0
+2010,North America,Chronic respiratory,5.57,110.0
+2010,Western Europe,Chronic respiratory,6.56,110.0
+2010,Eastern Europe,Chronic respiratory,4.48,110.0
+2010,China,Chronic respiratory,20.28,110.0
+2010,India,Chronic respiratory,22.98,110.0
+2010,Southeast Asia,Chronic respiratory,10.51,110.0
+2010,Middle East,Chronic respiratory,7.77,110.0
+2010,Africa,Chronic respiratory,23.85,110.0
+2010,Latin America,Chronic respiratory,7.67,110.0
+2010,Oceania,Chronic respiratory,1.14,110.0
+2011,North America,Chronic respiratory,5.67,109.0
+2011,Western Europe,Chronic respiratory,6.92,109.0
+2011,Eastern Europe,Chronic respiratory,4.43,109.0
+2011,China,Chronic respiratory,19.53,109.0
+2011,India,Chronic respiratory,21.58,109.0
+2011,Southeast Asia,Chronic respiratory,10.17,109.0
+2011,Middle East,Chronic respiratory,8.05,109.0
+2011,Africa,Chronic respiratory,23.67,109.0
+2011,Latin America,Chronic respiratory,7.79,109.0
+2011,Oceania,Chronic respiratory,1.12,109.0
+2012,North America,Chronic respiratory,5.14,108.0
+2012,Western Europe,Chronic respiratory,6.25,108.0
+2012,Eastern Europe,Chronic respiratory,4.6,108.0
+2012,China,Chronic respiratory,19.67,108.0
+2012,India,Chronic respiratory,21.1,108.0
+2012,Southeast Asia,Chronic respiratory,10.75,108.0
+2012,Middle East,Chronic respiratory,7.9,108.0
+2012,Africa,Chronic respiratory,24.66,108.0
+2012,Latin America,Chronic respiratory,7.13,108.0
+2012,Oceania,Chronic respiratory,1.15,108.0
+2013,North America,Chronic respiratory,5.56,107.0
+2013,Western Europe,Chronic respiratory,6.38,107.0
+2013,Eastern Europe,Chronic respiratory,4.08,107.0
+2013,China,Chronic respiratory,20.09,107.0
+2013,India,Chronic respiratory,21.81,107.0
+2013,Southeast Asia,Chronic respiratory,10.09,107.0
+2013,Middle East,Chronic respiratory,7.42,107.0
+2013,Africa,Chronic respiratory,26.68,107.0
+2013,Latin America,Chronic respiratory,7.49,107.0
+2013,Oceania,Chronic respiratory,1.04,107.0
+2014,North America,Chronic respiratory,5.09,106.0
+2014,Western Europe,Chronic respiratory,6.83,106.0
+2014,Eastern Europe,Chronic respiratory,4.39,106.0
+2014,China,Chronic respiratory,20.18,106.0
+2014,India,Chronic respiratory,21.41,106.0
+2014,Southeast Asia,Chronic respiratory,11.15,106.0
+2014,Middle East,Chronic respiratory,7.17,106.0
+2014,Africa,Chronic respiratory,23.47,106.0
+2014,Latin America,Chronic respiratory,7.51,106.0
+2014,Oceania,Chronic respiratory,1.12,106.0
+2015,North America,Chronic respiratory,5.32,105.0
+2015,Western Europe,Chronic respiratory,6.14,105.0
+2015,Eastern Europe,Chronic respiratory,4.21,105.0
+2015,China,Chronic respiratory,17.67,105.0
+2015,India,Chronic respiratory,19.14,105.0
+2015,Southeast Asia,Chronic respiratory,10.86,105.0
+2015,Middle East,Chronic respiratory,7.24,105.0
+2015,Africa,Chronic respiratory,22.86,105.0
+2015,Latin America,Chronic respiratory,7.6,105.0
+2015,Oceania,Chronic respiratory,1.11,105.0
+2016,North America,Chronic respiratory,5.3,103.8
+2016,Western Europe,Chronic respiratory,6.72,103.8
+2016,Eastern Europe,Chronic respiratory,4.23,103.8
+2016,China,Chronic respiratory,18.9,103.8
+2016,India,Chronic respiratory,20.95,103.8
+2016,Southeast Asia,Chronic respiratory,9.86,103.8
+2016,Middle East,Chronic respiratory,7.55,103.8
+2016,Africa,Chronic respiratory,20.7,103.8
+2016,Latin America,Chronic respiratory,7.09,103.8
+2016,Oceania,Chronic respiratory,1.04,103.8
+2017,North America,Chronic respiratory,4.97,102.5
+2017,Western Europe,Chronic respiratory,6.04,102.5
+2017,Eastern Europe,Chronic respiratory,4.41,102.5
+2017,China,Chronic respiratory,19.28,102.5
+2017,India,Chronic respiratory,19.95,102.5
+2017,Southeast Asia,Chronic respiratory,10.06,102.5
+2017,Middle East,Chronic respiratory,6.82,102.5
+2017,Africa,Chronic respiratory,23.19,102.5
+2017,Latin America,Chronic respiratory,7.1,102.5
+2017,Oceania,Chronic respiratory,0.95,102.5
+2018,North America,Chronic respiratory,5.08,101.2
+2018,Western Europe,Chronic respiratory,6.18,101.2
+2018,Eastern Europe,Chronic respiratory,4.21,101.2
+2018,China,Chronic respiratory,18.17,101.2
+2018,India,Chronic respiratory,19.95,101.2
+2018,Southeast Asia,Chronic respiratory,10.96,101.2
+2018,Middle East,Chronic respiratory,7.09,101.2
+2018,Africa,Chronic respiratory,22.93,101.2
+2018,Latin America,Chronic respiratory,6.94,101.2
+2018,Oceania,Chronic respiratory,1.04,101.2
+2019,North America,Chronic respiratory,4.72,100.0
+2019,Western Europe,Chronic respiratory,5.89,100.0
+2019,Eastern Europe,Chronic respiratory,3.81,100.0
+2019,China,Chronic respiratory,17.57,100.0
+2019,India,Chronic respiratory,21.03,100.0
+2019,Southeast Asia,Chronic respiratory,9.76,100.0
+2019,Middle East,Chronic respiratory,7.2,100.0
+2019,Africa,Chronic respiratory,23.38,100.0
+2019,Latin America,Chronic respiratory,6.99,100.0
+2019,Oceania,Chronic respiratory,1.04,100.0
+2020,North America,Chronic respiratory,4.98,97.5
+2020,Western Europe,Chronic respiratory,5.88,97.5
+2020,Eastern Europe,Chronic respiratory,4.02,97.5
+2020,China,Chronic respiratory,18.89,97.5
+2020,India,Chronic respiratory,19.01,97.5
+2020,Southeast Asia,Chronic respiratory,9.38,97.5
+2020,Middle East,Chronic respiratory,6.55,97.5
+2020,Africa,Chronic respiratory,22.32,97.5
+2020,Latin America,Chronic respiratory,7.14,97.5
+2020,Oceania,Chronic respiratory,0.95,97.5
+2021,North America,Chronic respiratory,4.36,95.0
+2021,Western Europe,Chronic respiratory,5.55,95.0
+2021,Eastern Europe,Chronic respiratory,3.88,95.0
+2021,China,Chronic respiratory,17.05,95.0
+2021,India,Chronic respiratory,19.14,95.0
+2021,Southeast Asia,Chronic respiratory,9.3,95.0
+2021,Middle East,Chronic respiratory,6.93,95.0
+2021,Africa,Chronic respiratory,21.19,95.0
+2021,Latin America,Chronic respiratory,6.81,95.0
+2021,Oceania,Chronic respiratory,0.96,95.0
+2022,North America,Chronic respiratory,4.9,96.0
+2022,Western Europe,Chronic respiratory,5.87,96.0
+2022,Eastern Europe,Chronic respiratory,3.7,96.0
+2022,China,Chronic respiratory,17.54,96.0
+2022,India,Chronic respiratory,19.82,96.0
+2022,Southeast Asia,Chronic respiratory,10.05,96.0
+2022,Middle East,Chronic respiratory,6.83,96.0
+2022,Africa,Chronic respiratory,20.32,96.0
+2022,Latin America,Chronic respiratory,6.51,96.0
+2022,Oceania,Chronic respiratory,0.94,96.0
+2023,North America,Chronic respiratory,4.89,97.0
+2023,Western Europe,Chronic respiratory,5.79,97.0
+2023,Eastern Europe,Chronic respiratory,3.71,97.0
+2023,China,Chronic respiratory,16.69,97.0
+2023,India,Chronic respiratory,17.84,97.0
+2023,Southeast Asia,Chronic respiratory,8.56,97.0
+2023,Middle East,Chronic respiratory,6.75,97.0
+2023,Africa,Chronic respiratory,23.42,97.0
+2023,Latin America,Chronic respiratory,7.3,97.0
+2023,Oceania,Chronic respiratory,0.93,97.0
+2024,North America,Chronic respiratory,4.93,98.0
+2024,Western Europe,Chronic respiratory,5.55,98.0
+2024,Eastern Europe,Chronic respiratory,3.72,98.0
+2024,China,Chronic respiratory,16.81,98.0
+2024,India,Chronic respiratory,19.42,98.0
+2024,Southeast Asia,Chronic respiratory,9.73,98.0
+2024,Middle East,Chronic respiratory,6.93,98.0
+2024,Africa,Chronic respiratory,22.14,98.0
+2024,Latin America,Chronic respiratory,6.77,98.0
+2024,Oceania,Chronic respiratory,0.98,98.0
+2025,North America,Chronic respiratory,4.74,99.0
+2025,Western Europe,Chronic respiratory,5.63,99.0
+2025,Eastern Europe,Chronic respiratory,3.73,99.0
+2025,China,Chronic respiratory,18.29,99.0
+2025,India,Chronic respiratory,19.53,99.0
+2025,Southeast Asia,Chronic respiratory,9.19,99.0
+2025,Middle East,Chronic respiratory,6.91,99.0
+2025,Africa,Chronic respiratory,20.72,99.0
+2025,Latin America,Chronic respiratory,7.41,99.0
+2025,Oceania,Chronic respiratory,0.97,99.0
+2026,North America,Chronic respiratory,5.14,100.0
+2026,Western Europe,Chronic respiratory,6.27,100.0
+2026,Eastern Europe,Chronic respiratory,3.85,100.0
+2026,China,Chronic respiratory,18.05,100.0
+2026,India,Chronic respiratory,20.45,100.0
+2026,Southeast Asia,Chronic respiratory,10.05,100.0
+2026,Middle East,Chronic respiratory,7.1,100.0
+2026,Africa,Chronic respiratory,20.86,100.0
+2026,Latin America,Chronic respiratory,7.16,100.0
+2026,Oceania,Chronic respiratory,0.98,100.0
+2010,North America,Neurological disorders,11.15,220.0
+2010,Western Europe,Neurological disorders,13.69,220.0
+2010,Eastern Europe,Neurological disorders,9.04,220.0
+2010,China,Neurological disorders,40.16,220.0
+2010,India,Neurological disorders,45.14,220.0
+2010,Southeast Asia,Neurological disorders,22.61,220.0
+2010,Middle East,Neurological disorders,16.35,220.0
+2010,Africa,Neurological disorders,48.33,220.0
+2010,Latin America,Neurological disorders,15.5,220.0
+2010,Oceania,Neurological disorders,2.28,220.0
+2011,North America,Neurological disorders,10.98,224.0
+2011,Western Europe,Neurological disorders,12.74,224.0
+2011,Eastern Europe,Neurological disorders,9.14,224.0
+2011,China,Neurological disorders,39.99,224.0
+2011,India,Neurological disorders,42.69,224.0
+2011,Southeast Asia,Neurological disorders,22.85,224.0
+2011,Middle East,Neurological disorders,16.6,224.0
+2011,Africa,Neurological disorders,46.17,224.0
+2011,Latin America,Neurological disorders,16.33,224.0
+2011,Oceania,Neurological disorders,2.02,224.0
+2012,North America,Neurological disorders,11.22,228.0
+2012,Western Europe,Neurological disorders,14.73,228.0
+2012,Eastern Europe,Neurological disorders,9.0,228.0
+2012,China,Neurological disorders,41.19,228.0
+2012,India,Neurological disorders,47.01,228.0
+2012,Southeast Asia,Neurological disorders,21.29,228.0
+2012,Middle East,Neurological disorders,16.01,228.0
+2012,Africa,Neurological disorders,50.29,228.0
+2012,Latin America,Neurological disorders,17.19,228.0
+2012,Oceania,Neurological disorders,2.17,228.0
+2013,North America,Neurological disorders,11.42,232.0
+2013,Western Europe,Neurological disorders,13.41,232.0
+2013,Eastern Europe,Neurological disorders,8.9,232.0
+2013,China,Neurological disorders,43.69,232.0
+2013,India,Neurological disorders,46.45,232.0
+2013,Southeast Asia,Neurological disorders,22.69,232.0
+2013,Middle East,Neurological disorders,15.91,232.0
+2013,Africa,Neurological disorders,49.9,232.0
+2013,Latin America,Neurological disorders,15.94,232.0
+2013,Oceania,Neurological disorders,2.21,232.0
+2014,North America,Neurological disorders,11.68,236.0
+2014,Western Europe,Neurological disorders,13.96,236.0
+2014,Eastern Europe,Neurological disorders,9.16,236.0
+2014,China,Neurological disorders,42.74,236.0
+2014,India,Neurological disorders,47.66,236.0
+2014,Southeast Asia,Neurological disorders,23.08,236.0
+2014,Middle East,Neurological disorders,16.43,236.0
+2014,Africa,Neurological disorders,56.6,236.0
+2014,Latin America,Neurological disorders,17.98,236.0
+2014,Oceania,Neurological disorders,2.26,236.0
+2015,North America,Neurological disorders,11.57,240.0
+2015,Western Europe,Neurological disorders,13.8,240.0
+2015,Eastern Europe,Neurological disorders,10.01,240.0
+2015,China,Neurological disorders,42.52,240.0
+2015,India,Neurological disorders,48.46,240.0
+2015,Southeast Asia,Neurological disorders,26.0,240.0
+2015,Middle East,Neurological disorders,16.79,240.0
+2015,Africa,Neurological disorders,54.31,240.0
+2015,Latin America,Neurological disorders,17.15,240.0
+2015,Oceania,Neurological disorders,2.34,240.0
+2016,North America,Neurological disorders,12.78,245.0
+2016,Western Europe,Neurological disorders,14.21,245.0
+2016,Eastern Europe,Neurological disorders,10.34,245.0
+2016,China,Neurological disorders,43.08,245.0
+2016,India,Neurological disorders,48.07,245.0
+2016,Southeast Asia,Neurological disorders,23.46,245.0
+2016,Middle East,Neurological disorders,16.53,245.0
+2016,Africa,Neurological disorders,52.99,245.0
+2016,Latin America,Neurological disorders,15.56,245.0
+2016,Oceania,Neurological disorders,2.43,245.0
+2017,North America,Neurological disorders,12.25,250.0
+2017,Western Europe,Neurological disorders,15.48,250.0
+2017,Eastern Europe,Neurological disorders,10.17,250.0
+2017,China,Neurological disorders,43.74,250.0
+2017,India,Neurological disorders,49.09,250.0
+2017,Southeast Asia,Neurological disorders,24.77,250.0
+2017,Middle East,Neurological disorders,18.57,250.0
+2017,Africa,Neurological disorders,53.22,250.0
+2017,Latin America,Neurological disorders,17.0,250.0
+2017,Oceania,Neurological disorders,2.39,250.0
+2018,North America,Neurological disorders,12.02,255.0
+2018,Western Europe,Neurological disorders,15.49,255.0
+2018,Eastern Europe,Neurological disorders,10.28,255.0
+2018,China,Neurological disorders,48.32,255.0
+2018,India,Neurological disorders,53.17,255.0
+2018,Southeast Asia,Neurological disorders,28.07,255.0
+2018,Middle East,Neurological disorders,17.8,255.0
+2018,Africa,Neurological disorders,55.52,255.0
+2018,Latin America,Neurological disorders,16.95,255.0
+2018,Oceania,Neurological disorders,2.62,255.0
+2019,North America,Neurological disorders,13.06,260.0
+2019,Western Europe,Neurological disorders,16.01,260.0
+2019,Eastern Europe,Neurological disorders,9.94,260.0
+2019,China,Neurological disorders,47.46,260.0
+2019,India,Neurological disorders,52.43,260.0
+2019,Southeast Asia,Neurological disorders,26.14,260.0
+2019,Middle East,Neurological disorders,17.71,260.0
+2019,Africa,Neurological disorders,59.99,260.0
+2019,Latin America,Neurological disorders,19.76,260.0
+2019,Oceania,Neurological disorders,2.49,260.0
+2020,North America,Neurological disorders,13.79,268.0
+2020,Western Europe,Neurological disorders,14.33,268.0
+2020,Eastern Europe,Neurological disorders,11.01,268.0
+2020,China,Neurological disorders,44.76,268.0
+2020,India,Neurological disorders,52.49,268.0
+2020,Southeast Asia,Neurological disorders,25.43,268.0
+2020,Middle East,Neurological disorders,18.6,268.0
+2020,Africa,Neurological disorders,60.97,268.0
+2020,Latin America,Neurological disorders,17.42,268.0
+2020,Oceania,Neurological disorders,2.64,268.0
+2021,North America,Neurological disorders,13.52,276.0
+2021,Western Europe,Neurological disorders,17.64,276.0
+2021,Eastern Europe,Neurological disorders,11.23,276.0
+2021,China,Neurological disorders,47.39,276.0
+2021,India,Neurological disorders,54.17,276.0
+2021,Southeast Asia,Neurological disorders,29.37,276.0
+2021,Middle East,Neurological disorders,19.88,276.0
+2021,Africa,Neurological disorders,58.53,276.0
+2021,Latin America,Neurological disorders,19.11,276.0
+2021,Oceania,Neurological disorders,2.73,276.0
+2022,North America,Neurological disorders,13.73,280.7
+2022,Western Europe,Neurological disorders,15.73,280.7
+2022,Eastern Europe,Neurological disorders,10.93,280.7
+2022,China,Neurological disorders,53.41,280.7
+2022,India,Neurological disorders,55.28,280.7
+2022,Southeast Asia,Neurological disorders,27.95,280.7
+2022,Middle East,Neurological disorders,19.76,280.7
+2022,Africa,Neurological disorders,67.48,280.7
+2022,Latin America,Neurological disorders,19.65,280.7
+2022,Oceania,Neurological disorders,2.93,280.7
+2023,North America,Neurological disorders,13.93,285.3
+2023,Western Europe,Neurological disorders,16.94,285.3
+2023,Eastern Europe,Neurological disorders,11.42,285.3
+2023,China,Neurological disorders,49.79,285.3
+2023,India,Neurological disorders,56.6,285.3
+2023,Southeast Asia,Neurological disorders,29.57,285.3
+2023,Middle East,Neurological disorders,19.34,285.3
+2023,Africa,Neurological disorders,62.77,285.3
+2023,Latin America,Neurological disorders,20.55,285.3
+2023,Oceania,Neurological disorders,2.76,285.3
+2024,North America,Neurological disorders,15.15,290.0
+2024,Western Europe,Neurological disorders,17.45,290.0
+2024,Eastern Europe,Neurological disorders,11.52,290.0
+2024,China,Neurological disorders,48.17,290.0
+2024,India,Neurological disorders,57.14,290.0
+2024,Southeast Asia,Neurological disorders,29.43,290.0
+2024,Middle East,Neurological disorders,21.77,290.0
+2024,Africa,Neurological disorders,65.27,290.0
+2024,Latin America,Neurological disorders,21.24,290.0
+2024,Oceania,Neurological disorders,2.76,290.0
+2025,North America,Neurological disorders,14.68,295.0
+2025,Western Europe,Neurological disorders,18.59,295.0
+2025,Eastern Europe,Neurological disorders,11.39,295.0
+2025,China,Neurological disorders,55.19,295.0
+2025,India,Neurological disorders,60.76,295.0
+2025,Southeast Asia,Neurological disorders,29.83,295.0
+2025,Middle East,Neurological disorders,20.38,295.0
+2025,Africa,Neurological disorders,62.39,295.0
+2025,Latin America,Neurological disorders,22.17,295.0
+2025,Oceania,Neurological disorders,3.03,295.0
+2026,North America,Neurological disorders,15.21,300.0
+2026,Western Europe,Neurological disorders,17.71,300.0
+2026,Eastern Europe,Neurological disorders,12.02,300.0
+2026,China,Neurological disorders,54.36,300.0
+2026,India,Neurological disorders,60.97,300.0
+2026,Southeast Asia,Neurological disorders,30.89,300.0
+2026,Middle East,Neurological disorders,20.35,300.0
+2026,Africa,Neurological disorders,62.24,300.0
+2026,Latin America,Neurological disorders,21.07,300.0
+2026,Oceania,Neurological disorders,2.8,300.0
+2010,North America,Mental disorders,7.16,145.0
+2010,Western Europe,Mental disorders,8.52,145.0
+2010,Eastern Europe,Mental disorders,5.92,145.0
+2010,China,Mental disorders,28.25,145.0
+2010,India,Mental disorders,26.83,145.0
+2010,Southeast Asia,Mental disorders,15.88,145.0
+2010,Middle East,Mental disorders,10.06,145.0
+2010,Africa,Mental disorders,32.35,145.0
+2010,Latin America,Mental disorders,9.59,145.0
+2010,Oceania,Mental disorders,1.51,145.0
+2011,North America,Mental disorders,7.36,147.0
+2011,Western Europe,Mental disorders,8.8,147.0
+2011,Eastern Europe,Mental disorders,5.44,147.0
+2011,China,Mental disorders,26.54,147.0
+2011,India,Mental disorders,30.41,147.0
+2011,Southeast Asia,Mental disorders,14.56,147.0
+2011,Middle East,Mental disorders,10.78,147.0
+2011,Africa,Mental disorders,33.84,147.0
+2011,Latin America,Mental disorders,10.03,147.0
+2011,Oceania,Mental disorders,1.57,147.0
+2012,North America,Mental disorders,7.46,149.0
+2012,Western Europe,Mental disorders,8.96,149.0
+2012,Eastern Europe,Mental disorders,5.98,149.0
+2012,China,Mental disorders,26.89,149.0
+2012,India,Mental disorders,26.82,149.0
+2012,Southeast Asia,Mental disorders,14.79,149.0
+2012,Middle East,Mental disorders,9.88,149.0
+2012,Africa,Mental disorders,34.98,149.0
+2012,Latin America,Mental disorders,11.11,149.0
+2012,Oceania,Mental disorders,1.54,149.0
+2013,North America,Mental disorders,7.48,151.0
+2013,Western Europe,Mental disorders,8.7,151.0
+2013,Eastern Europe,Mental disorders,5.88,151.0
+2013,China,Mental disorders,29.38,151.0
+2013,India,Mental disorders,29.38,151.0
+2013,Southeast Asia,Mental disorders,13.74,151.0
+2013,Middle East,Mental disorders,11.01,151.0
+2013,Africa,Mental disorders,35.27,151.0
+2013,Latin America,Mental disorders,11.3,151.0
+2013,Oceania,Mental disorders,1.57,151.0
+2014,North America,Mental disorders,8.03,153.0
+2014,Western Europe,Mental disorders,9.2,153.0
+2014,Eastern Europe,Mental disorders,5.63,153.0
+2014,China,Mental disorders,27.57,153.0
+2014,India,Mental disorders,31.37,153.0
+2014,Southeast Asia,Mental disorders,15.22,153.0
+2014,Middle East,Mental disorders,10.63,153.0
+2014,Africa,Mental disorders,32.39,153.0
+2014,Latin America,Mental disorders,10.29,153.0
+2014,Oceania,Mental disorders,1.65,153.0
+2015,North America,Mental disorders,8.35,155.0
+2015,Western Europe,Mental disorders,9.3,155.0
+2015,Eastern Europe,Mental disorders,6.27,155.0
+2015,China,Mental disorders,26.83,155.0
+2015,India,Mental disorders,31.81,155.0
+2015,Southeast Asia,Mental disorders,16.63,155.0
+2015,Middle East,Mental disorders,10.21,155.0
+2015,Africa,Mental disorders,34.74,155.0
+2015,Latin America,Mental disorders,11.09,155.0
+2015,Oceania,Mental disorders,1.58,155.0
+2016,North America,Mental disorders,8.37,156.8
+2016,Western Europe,Mental disorders,10.2,156.8
+2016,Eastern Europe,Mental disorders,6.21,156.8
+2016,China,Mental disorders,28.99,156.8
+2016,India,Mental disorders,31.46,156.8
+2016,Southeast Asia,Mental disorders,15.28,156.8
+2016,Middle East,Mental disorders,11.09,156.8
+2016,Africa,Mental disorders,35.42,156.8
+2016,Latin America,Mental disorders,11.07,156.8
+2016,Oceania,Mental disorders,1.51,156.8
+2017,North America,Mental disorders,7.78,158.5
+2017,Western Europe,Mental disorders,9.34,158.5
+2017,Eastern Europe,Mental disorders,6.13,158.5
+2017,China,Mental disorders,28.89,158.5
+2017,India,Mental disorders,32.23,158.5
+2017,Southeast Asia,Mental disorders,16.48,158.5
+2017,Middle East,Mental disorders,10.72,158.5
+2017,Africa,Mental disorders,34.07,158.5
+2017,Latin America,Mental disorders,11.81,158.5
+2017,Oceania,Mental disorders,1.57,158.5
+2018,North America,Mental disorders,8.02,160.2
+2018,Western Europe,Mental disorders,9.55,160.2
+2018,Eastern Europe,Mental disorders,6.71,160.2
+2018,China,Mental disorders,30.23,160.2
+2018,India,Mental disorders,33.51,160.2
+2018,Southeast Asia,Mental disorders,16.04,160.2
+2018,Middle East,Mental disorders,10.83,160.2
+2018,Africa,Mental disorders,38.08,160.2
+2018,Latin America,Mental disorders,11.61,160.2
+2018,Oceania,Mental disorders,1.57,160.2
+2019,North America,Mental disorders,8.57,162.0
+2019,Western Europe,Mental disorders,9.51,162.0
+2019,Eastern Europe,Mental disorders,6.86,162.0
+2019,China,Mental disorders,30.94,162.0
+2019,India,Mental disorders,31.23,162.0
+2019,Southeast Asia,Mental disorders,16.58,162.0
+2019,Middle East,Mental disorders,11.7,162.0
+2019,Africa,Mental disorders,39.57,162.0
+2019,Latin America,Mental disorders,11.01,162.0
+2019,Oceania,Mental disorders,1.72,162.0
+2020,North America,Mental disorders,8.66,173.0
+2020,Western Europe,Mental disorders,9.88,173.0
+2020,Eastern Europe,Mental disorders,6.89,173.0
+2020,China,Mental disorders,31.14,173.0
+2020,India,Mental disorders,33.17,173.0
+2020,Southeast Asia,Mental disorders,17.52,173.0
+2020,Middle East,Mental disorders,12.58,173.0
+2020,Africa,Mental disorders,38.42,173.0
+2020,Latin America,Mental disorders,11.85,173.0
+2020,Oceania,Mental disorders,1.72,173.0
+2021,North America,Mental disorders,9.2,184.0
+2021,Western Europe,Mental disorders,11.14,184.0
+2021,Eastern Europe,Mental disorders,7.69,184.0
+2021,China,Mental disorders,33.48,184.0
+2021,India,Mental disorders,34.79,184.0
+2021,Southeast Asia,Mental disorders,17.99,184.0
+2021,Middle East,Mental disorders,12.97,184.0
+2021,Africa,Mental disorders,42.34,184.0
+2021,Latin America,Mental disorders,13.57,184.0
+2021,Oceania,Mental disorders,1.98,184.0
+2022,North America,Mental disorders,9.35,186.0
+2022,Western Europe,Mental disorders,11.51,186.0
+2022,Eastern Europe,Mental disorders,7.02,186.0
+2022,China,Mental disorders,34.06,186.0
+2022,India,Mental disorders,35.63,186.0
+2022,Southeast Asia,Mental disorders,18.55,186.0
+2022,Middle East,Mental disorders,14.7,186.0
+2022,Africa,Mental disorders,41.42,186.0
+2022,Latin America,Mental disorders,12.58,186.0
+2022,Oceania,Mental disorders,1.89,186.0
+2023,North America,Mental disorders,9.21,188.0
+2023,Western Europe,Mental disorders,10.85,188.0
+2023,Eastern Europe,Mental disorders,8.18,188.0
+2023,China,Mental disorders,35.32,188.0
+2023,India,Mental disorders,38.12,188.0
+2023,Southeast Asia,Mental disorders,18.51,188.0
+2023,Middle East,Mental disorders,13.0,188.0
+2023,Africa,Mental disorders,43.99,188.0
+2023,Latin America,Mental disorders,13.32,188.0
+2023,Oceania,Mental disorders,1.66,188.0
+2024,North America,Mental disorders,10.47,190.0
+2024,Western Europe,Mental disorders,11.48,190.0
+2024,Eastern Europe,Mental disorders,7.71,190.0
+2024,China,Mental disorders,35.72,190.0
+2024,India,Mental disorders,38.71,190.0
+2024,Southeast Asia,Mental disorders,19.58,190.0
+2024,Middle East,Mental disorders,13.08,190.0
+2024,Africa,Mental disorders,39.79,190.0
+2024,Latin America,Mental disorders,13.45,190.0
+2024,Oceania,Mental disorders,2.01,190.0
+2025,North America,Mental disorders,9.38,192.5
+2025,Western Europe,Mental disorders,11.22,192.5
+2025,Eastern Europe,Mental disorders,8.09,192.5
+2025,China,Mental disorders,34.02,192.5
+2025,India,Mental disorders,37.87,192.5
+2025,Southeast Asia,Mental disorders,18.96,192.5
+2025,Middle East,Mental disorders,13.44,192.5
+2025,Africa,Mental disorders,39.77,192.5
+2025,Latin America,Mental disorders,13.19,192.5
+2025,Oceania,Mental disorders,1.94,192.5
+2026,North America,Mental disorders,9.84,195.0
+2026,Western Europe,Mental disorders,12.25,195.0
+2026,Eastern Europe,Mental disorders,8.4,195.0
+2026,China,Mental disorders,37.29,195.0
+2026,India,Mental disorders,40.45,195.0
+2026,Southeast Asia,Mental disorders,19.38,195.0
+2026,Middle East,Mental disorders,13.31,195.0
+2026,Africa,Mental disorders,42.93,195.0
+2026,Latin America,Mental disorders,13.97,195.0
+2026,Oceania,Mental disorders,2.02,195.0
+2010,North America,HIV/AIDS,0.67,65.0
+2010,Western Europe,HIV/AIDS,3.88,65.0
+2010,Eastern Europe,HIV/AIDS,2.68,65.0
+2010,China,HIV/AIDS,12.31,65.0
+2010,India,HIV/AIDS,13.47,65.0
+2010,Southeast Asia,HIV/AIDS,6.49,65.0
+2010,Middle East,HIV/AIDS,4.4,65.0
+2010,Africa,HIV/AIDS,34.54,65.0
+2010,Latin America,HIV/AIDS,4.43,65.0
+2010,Oceania,HIV/AIDS,0.66,65.0
+2011,North America,HIV/AIDS,0.63,62.0
+2011,Western Europe,HIV/AIDS,3.52,62.0
+2011,Eastern Europe,HIV/AIDS,2.43,62.0
+2011,China,HIV/AIDS,11.27,62.0
+2011,India,HIV/AIDS,11.96,62.0
+2011,Southeast Asia,HIV/AIDS,6.31,62.0
+2011,Middle East,HIV/AIDS,4.29,62.0
+2011,Africa,HIV/AIDS,33.13,62.0
+2011,Latin America,HIV/AIDS,4.35,62.0
+2011,Oceania,HIV/AIDS,0.63,62.0
+2012,North America,HIV/AIDS,0.57,59.0
+2012,Western Europe,HIV/AIDS,3.51,59.0
+2012,Eastern Europe,HIV/AIDS,2.4,59.0
+2012,China,HIV/AIDS,10.3,59.0
+2012,India,HIV/AIDS,11.04,59.0
+2012,Southeast Asia,HIV/AIDS,5.55,59.0
+2012,Middle East,HIV/AIDS,4.06,59.0
+2012,Africa,HIV/AIDS,30.78,59.0
+2012,Latin America,HIV/AIDS,4.07,59.0
+2012,Oceania,HIV/AIDS,0.63,59.0
+2013,North America,HIV/AIDS,0.53,56.0
+2013,Western Europe,HIV/AIDS,3.32,56.0
+2013,Eastern Europe,HIV/AIDS,2.44,56.0
+2013,China,HIV/AIDS,10.25,56.0
+2013,India,HIV/AIDS,11.04,56.0
+2013,Southeast Asia,HIV/AIDS,5.56,56.0
+2013,Middle East,HIV/AIDS,3.99,56.0
+2013,Africa,HIV/AIDS,32.96,56.0
+2013,Latin America,HIV/AIDS,3.84,56.0
+2013,Oceania,HIV/AIDS,0.54,56.0
+2014,North America,HIV/AIDS,0.5,53.0
+2014,Western Europe,HIV/AIDS,3.19,53.0
+2014,Eastern Europe,HIV/AIDS,2.0,53.0
+2014,China,HIV/AIDS,9.36,53.0
+2014,India,HIV/AIDS,10.22,53.0
+2014,Southeast Asia,HIV/AIDS,5.53,53.0
+2014,Middle East,HIV/AIDS,3.64,53.0
+2014,Africa,HIV/AIDS,29.62,53.0
+2014,Latin America,HIV/AIDS,3.48,53.0
+2014,Oceania,HIV/AIDS,0.53,53.0
+2015,North America,HIV/AIDS,0.48,50.0
+2015,Western Europe,HIV/AIDS,2.95,50.0
+2015,Eastern Europe,HIV/AIDS,2.18,50.0
+2015,China,HIV/AIDS,9.34,50.0
+2015,India,HIV/AIDS,9.95,50.0
+2015,Southeast Asia,HIV/AIDS,5.68,50.0
+2015,Middle East,HIV/AIDS,3.37,50.0
+2015,Africa,HIV/AIDS,28.81,50.0
+2015,Latin America,HIV/AIDS,3.29,50.0
+2015,Oceania,HIV/AIDS,0.5,50.0
+2016,North America,HIV/AIDS,0.45,47.2
+2016,Western Europe,HIV/AIDS,2.86,47.2
+2016,Eastern Europe,HIV/AIDS,1.89,47.2
+2016,China,HIV/AIDS,8.4,47.2
+2016,India,HIV/AIDS,9.87,47.2
+2016,Southeast Asia,HIV/AIDS,4.62,47.2
+2016,Middle East,HIV/AIDS,3.35,47.2
+2016,Africa,HIV/AIDS,26.85,47.2
+2016,Latin America,HIV/AIDS,3.12,47.2
+2016,Oceania,HIV/AIDS,0.46,47.2
+2017,North America,HIV/AIDS,0.45,44.5
+2017,Western Europe,HIV/AIDS,2.74,44.5
+2017,Eastern Europe,HIV/AIDS,1.88,44.5
+2017,China,HIV/AIDS,7.94,44.5
+2017,India,HIV/AIDS,8.79,44.5
+2017,Southeast Asia,HIV/AIDS,4.3,44.5
+2017,Middle East,HIV/AIDS,3.16,44.5
+2017,Africa,HIV/AIDS,24.19,44.5
+2017,Latin America,HIV/AIDS,3.08,44.5
+2017,Oceania,HIV/AIDS,0.44,44.5
+2018,North America,HIV/AIDS,0.43,41.8
+2018,Western Europe,HIV/AIDS,2.45,41.8
+2018,Eastern Europe,HIV/AIDS,1.62,41.8
+2018,China,HIV/AIDS,7.65,41.8
+2018,India,HIV/AIDS,7.4,41.8
+2018,Southeast Asia,HIV/AIDS,4.08,41.8
+2018,Middle East,HIV/AIDS,2.79,41.8
+2018,Africa,HIV/AIDS,24.09,41.8
+2018,Latin America,HIV/AIDS,2.87,41.8
+2018,Oceania,HIV/AIDS,0.41,41.8
+2019,North America,HIV/AIDS,0.39,39.0
+2019,Western Europe,HIV/AIDS,2.28,39.0
+2019,Eastern Europe,HIV/AIDS,1.54,39.0
+2019,China,HIV/AIDS,7.05,39.0
+2019,India,HIV/AIDS,7.67,39.0
+2019,Southeast Asia,HIV/AIDS,3.83,39.0
+2019,Middle East,HIV/AIDS,2.62,39.0
+2019,Africa,HIV/AIDS,20.48,39.0
+2019,Latin America,HIV/AIDS,2.74,39.0
+2019,Oceania,HIV/AIDS,0.39,39.0
+2020,North America,HIV/AIDS,0.35,37.5
+2020,Western Europe,HIV/AIDS,2.32,37.5
+2020,Eastern Europe,HIV/AIDS,1.55,37.5
+2020,China,HIV/AIDS,7.02,37.5
+2020,India,HIV/AIDS,7.59,37.5
+2020,Southeast Asia,HIV/AIDS,3.85,37.5
+2020,Middle East,HIV/AIDS,2.86,37.5
+2020,Africa,HIV/AIDS,20.38,37.5
+2020,Latin America,HIV/AIDS,2.52,37.5
+2020,Oceania,HIV/AIDS,0.35,37.5
+2021,North America,HIV/AIDS,0.39,36.0
+2021,Western Europe,HIV/AIDS,2.32,36.0
+2021,Eastern Europe,HIV/AIDS,1.39,36.0
+2021,China,HIV/AIDS,6.29,36.0
+2021,India,HIV/AIDS,7.11,36.0
+2021,Southeast Asia,HIV/AIDS,3.78,36.0
+2021,Middle East,HIV/AIDS,2.39,36.0
+2021,Africa,HIV/AIDS,18.3,36.0
+2021,Latin America,HIV/AIDS,2.75,36.0
+2021,Oceania,HIV/AIDS,0.36,36.0
+2022,North America,HIV/AIDS,0.35,34.7
+2022,Western Europe,HIV/AIDS,2.06,34.7
+2022,Eastern Europe,HIV/AIDS,1.41,34.7
+2022,China,HIV/AIDS,5.87,34.7
+2022,India,HIV/AIDS,6.7,34.7
+2022,Southeast Asia,HIV/AIDS,3.48,34.7
+2022,Middle East,HIV/AIDS,2.22,34.7
+2022,Africa,HIV/AIDS,18.84,34.7
+2022,Latin America,HIV/AIDS,2.39,34.7
+2022,Oceania,HIV/AIDS,0.34,34.7
+2023,North America,HIV/AIDS,0.33,33.3
+2023,Western Europe,HIV/AIDS,1.92,33.3
+2023,Eastern Europe,HIV/AIDS,1.24,33.3
+2023,China,HIV/AIDS,6.03,33.3
+2023,India,HIV/AIDS,6.59,33.3
+2023,Southeast Asia,HIV/AIDS,3.15,33.3
+2023,Middle East,HIV/AIDS,2.34,33.3
+2023,Africa,HIV/AIDS,18.12,33.3
+2023,Latin America,HIV/AIDS,2.29,33.3
+2023,Oceania,HIV/AIDS,0.31,33.3
+2024,North America,HIV/AIDS,0.33,32.0
+2024,Western Europe,HIV/AIDS,1.83,32.0
+2024,Eastern Europe,HIV/AIDS,1.28,32.0
+2024,China,HIV/AIDS,5.58,32.0
+2024,India,HIV/AIDS,6.3,32.0
+2024,Southeast Asia,HIV/AIDS,3.35,32.0
+2024,Middle East,HIV/AIDS,2.29,32.0
+2024,Africa,HIV/AIDS,18.41,32.0
+2024,Latin America,HIV/AIDS,2.27,32.0
+2024,Oceania,HIV/AIDS,0.33,32.0
+2025,North America,HIV/AIDS,0.29,31.0
+2025,Western Europe,HIV/AIDS,1.84,31.0
+2025,Eastern Europe,HIV/AIDS,1.23,31.0
+2025,China,HIV/AIDS,5.86,31.0
+2025,India,HIV/AIDS,6.08,31.0
+2025,Southeast Asia,HIV/AIDS,3.13,31.0
+2025,Middle East,HIV/AIDS,2.19,31.0
+2025,Africa,HIV/AIDS,17.86,31.0
+2025,Latin America,HIV/AIDS,2.16,31.0
+2025,Oceania,HIV/AIDS,0.32,31.0
+2026,North America,HIV/AIDS,0.28,30.0
+2026,Western Europe,HIV/AIDS,1.69,30.0
+2026,Eastern Europe,HIV/AIDS,1.1,30.0
+2026,China,HIV/AIDS,5.57,30.0
+2026,India,HIV/AIDS,6.16,30.0
+2026,Southeast Asia,HIV/AIDS,3.11,30.0
+2026,Middle East,HIV/AIDS,2.04,30.0
+2026,Africa,HIV/AIDS,16.13,30.0
+2026,Latin America,HIV/AIDS,2.09,30.0
+2026,Oceania,HIV/AIDS,0.32,30.0
+2010,North America,Tuberculosis,3.21,60.0
+2010,Western Europe,Tuberculosis,3.72,60.0
+2010,Eastern Europe,Tuberculosis,2.43,60.0
+2010,China,Tuberculosis,11.39,60.0
+2010,India,Tuberculosis,11.88,60.0
+2010,Southeast Asia,Tuberculosis,5.91,60.0
+2010,Middle East,Tuberculosis,4.18,60.0
+2010,Africa,Tuberculosis,12.69,60.0
+2010,Latin America,Tuberculosis,4.17,60.0
+2010,Oceania,Tuberculosis,0.57,60.0
+2011,North America,Tuberculosis,3.01,57.8
+2011,Western Europe,Tuberculosis,3.54,57.8
+2011,Eastern Europe,Tuberculosis,2.45,57.8
+2011,China,Tuberculosis,9.75,57.8
+2011,India,Tuberculosis,12.47,57.8
+2011,Southeast Asia,Tuberculosis,5.43,57.8
+2011,Middle East,Tuberculosis,3.86,57.8
+2011,Africa,Tuberculosis,12.4,57.8
+2011,Latin America,Tuberculosis,4.26,57.8
+2011,Oceania,Tuberculosis,0.58,57.8
+2012,North America,Tuberculosis,2.75,55.6
+2012,Western Europe,Tuberculosis,3.23,55.6
+2012,Eastern Europe,Tuberculosis,2.1,55.6
+2012,China,Tuberculosis,10.47,55.6
+2012,India,Tuberculosis,11.48,55.6
+2012,Southeast Asia,Tuberculosis,5.87,55.6
+2012,Middle East,Tuberculosis,3.95,55.6
+2012,Africa,Tuberculosis,11.01,55.6
+2012,Latin America,Tuberculosis,3.7,55.6
+2012,Oceania,Tuberculosis,0.57,55.6
+2013,North America,Tuberculosis,2.63,53.4
+2013,Western Europe,Tuberculosis,3.13,53.4
+2013,Eastern Europe,Tuberculosis,2.04,53.4
+2013,China,Tuberculosis,9.98,53.4
+2013,India,Tuberculosis,10.88,53.4
+2013,Southeast Asia,Tuberculosis,5.45,53.4
+2013,Middle East,Tuberculosis,3.64,53.4
+2013,Africa,Tuberculosis,11.83,53.4
+2013,Latin America,Tuberculosis,3.54,53.4
+2013,Oceania,Tuberculosis,0.53,53.4
+2014,North America,Tuberculosis,2.31,51.2
+2014,Western Europe,Tuberculosis,2.89,51.2
+2014,Eastern Europe,Tuberculosis,2.02,51.2
+2014,China,Tuberculosis,10.13,51.2
+2014,India,Tuberculosis,9.53,51.2
+2014,Southeast Asia,Tuberculosis,4.87,51.2
+2014,Middle East,Tuberculosis,3.62,51.2
+2014,Africa,Tuberculosis,12.09,51.2
+2014,Latin America,Tuberculosis,3.61,51.2
+2014,Oceania,Tuberculosis,0.53,51.2
+2015,North America,Tuberculosis,2.42,49.0
+2015,Western Europe,Tuberculosis,2.88,49.0
+2015,Eastern Europe,Tuberculosis,1.97,49.0
+2015,China,Tuberculosis,8.59,49.0
+2015,India,Tuberculosis,10.09,49.0
+2015,Southeast Asia,Tuberculosis,4.6,49.0
+2015,Middle East,Tuberculosis,3.55,49.0
+2015,Africa,Tuberculosis,10.8,49.0
+2015,Latin America,Tuberculosis,3.4,49.0
+2015,Oceania,Tuberculosis,0.46,49.0
+2016,North America,Tuberculosis,2.26,47.0
+2016,Western Europe,Tuberculosis,2.96,47.0
+2016,Eastern Europe,Tuberculosis,1.86,47.0
+2016,China,Tuberculosis,8.55,47.0
+2016,India,Tuberculosis,9.08,47.0
+2016,Southeast Asia,Tuberculosis,4.69,47.0
+2016,Middle East,Tuberculosis,3.11,47.0
+2016,Africa,Tuberculosis,10.38,47.0
+2016,Latin America,Tuberculosis,3.34,47.0
+2016,Oceania,Tuberculosis,0.48,47.0
+2017,North America,Tuberculosis,2.17,45.0
+2017,Western Europe,Tuberculosis,2.66,45.0
+2017,Eastern Europe,Tuberculosis,1.84,45.0
+2017,China,Tuberculosis,8.03,45.0
+2017,India,Tuberculosis,8.9,45.0
+2017,Southeast Asia,Tuberculosis,4.86,45.0
+2017,Middle East,Tuberculosis,3.03,45.0
+2017,Africa,Tuberculosis,10.34,45.0
+2017,Latin America,Tuberculosis,3.01,45.0
+2017,Oceania,Tuberculosis,0.46,45.0
+2018,North America,Tuberculosis,2.21,43.0
+2018,Western Europe,Tuberculosis,2.53,43.0
+2018,Eastern Europe,Tuberculosis,1.64,43.0
+2018,China,Tuberculosis,7.15,43.0
+2018,India,Tuberculosis,8.39,43.0
+2018,Southeast Asia,Tuberculosis,4.39,43.0
+2018,Middle East,Tuberculosis,2.88,43.0
+2018,Africa,Tuberculosis,9.5,43.0
+2018,Latin America,Tuberculosis,2.84,43.0
+2018,Oceania,Tuberculosis,0.43,43.0
+2019,North America,Tuberculosis,1.96,41.0
+2019,Western Europe,Tuberculosis,2.45,41.0
+2019,Eastern Europe,Tuberculosis,1.61,41.0
+2019,China,Tuberculosis,7.04,41.0
+2019,India,Tuberculosis,7.99,41.0
+2019,Southeast Asia,Tuberculosis,3.95,41.0
+2019,Middle East,Tuberculosis,2.72,41.0
+2019,Africa,Tuberculosis,9.42,41.0
+2019,Latin America,Tuberculosis,2.83,41.0
+2019,Oceania,Tuberculosis,0.38,41.0
+2020,North America,Tuberculosis,2.1,43.0
+2020,Western Europe,Tuberculosis,2.68,43.0
+2020,Eastern Europe,Tuberculosis,1.67,43.0
+2020,China,Tuberculosis,8.22,43.0
+2020,India,Tuberculosis,8.31,43.0
+2020,Southeast Asia,Tuberculosis,4.39,43.0
+2020,Middle East,Tuberculosis,3.14,43.0
+2020,Africa,Tuberculosis,9.63,43.0
+2020,Latin America,Tuberculosis,2.85,43.0
+2020,Oceania,Tuberculosis,0.41,43.0
+2021,North America,Tuberculosis,2.36,45.0
+2021,Western Europe,Tuberculosis,2.61,45.0
+2021,Eastern Europe,Tuberculosis,1.87,45.0
+2021,China,Tuberculosis,7.96,45.0
+2021,India,Tuberculosis,9.05,45.0
+2021,Southeast Asia,Tuberculosis,4.26,45.0
+2021,Middle East,Tuberculosis,3.07,45.0
+2021,Africa,Tuberculosis,9.56,45.0
+2021,Latin America,Tuberculosis,3.18,45.0
+2021,Oceania,Tuberculosis,0.45,45.0
+2022,North America,Tuberculosis,2.17,42.7
+2022,Western Europe,Tuberculosis,2.51,42.7
+2022,Eastern Europe,Tuberculosis,1.64,42.7
+2022,China,Tuberculosis,7.74,42.7
+2022,India,Tuberculosis,8.19,42.7
+2022,Southeast Asia,Tuberculosis,4.45,42.7
+2022,Middle East,Tuberculosis,2.97,42.7
+2022,Africa,Tuberculosis,9.27,42.7
+2022,Latin America,Tuberculosis,3.04,42.7
+2022,Oceania,Tuberculosis,0.43,42.7
+2023,North America,Tuberculosis,1.89,40.3
+2023,Western Europe,Tuberculosis,2.32,40.3
+2023,Eastern Europe,Tuberculosis,1.68,40.3
+2023,China,Tuberculosis,7.28,40.3
+2023,India,Tuberculosis,7.54,40.3
+2023,Southeast Asia,Tuberculosis,4.09,40.3
+2023,Middle East,Tuberculosis,2.76,40.3
+2023,Africa,Tuberculosis,8.57,40.3
+2023,Latin America,Tuberculosis,2.7,40.3
+2023,Oceania,Tuberculosis,0.42,40.3
+2024,North America,Tuberculosis,1.76,38.0
+2024,Western Europe,Tuberculosis,2.2,38.0
+2024,Eastern Europe,Tuberculosis,1.53,38.0
+2024,China,Tuberculosis,7.29,38.0
+2024,India,Tuberculosis,7.77,38.0
+2024,Southeast Asia,Tuberculosis,3.67,38.0
+2024,Middle East,Tuberculosis,2.83,38.0
+2024,Africa,Tuberculosis,7.92,38.0
+2024,Latin America,Tuberculosis,2.69,38.0
+2024,Oceania,Tuberculosis,0.39,38.0
+2025,North America,Tuberculosis,1.76,36.5
+2025,Western Europe,Tuberculosis,2.25,36.5
+2025,Eastern Europe,Tuberculosis,1.43,36.5
+2025,China,Tuberculosis,6.76,36.5
+2025,India,Tuberculosis,6.78,36.5
+2025,Southeast Asia,Tuberculosis,3.7,36.5
+2025,Middle East,Tuberculosis,2.51,36.5
+2025,Africa,Tuberculosis,8.41,36.5
+2025,Latin America,Tuberculosis,2.55,36.5
+2025,Oceania,Tuberculosis,0.38,36.5
+2026,North America,Tuberculosis,1.79,35.0
+2026,Western Europe,Tuberculosis,2.09,35.0
+2026,Eastern Europe,Tuberculosis,1.44,35.0
+2026,China,Tuberculosis,6.5,35.0
+2026,India,Tuberculosis,7.13,35.0
+2026,Southeast Asia,Tuberculosis,3.19,35.0
+2026,Middle East,Tuberculosis,2.36,35.0
+2026,Africa,Tuberculosis,8.14,35.0
+2026,Latin America,Tuberculosis,2.33,35.0
+2026,Oceania,Tuberculosis,0.36,35.0
+2010,North America,Malaria,0.67,65.0
+2010,Western Europe,Malaria,3.79,65.0
+2010,Eastern Europe,Malaria,2.4,65.0
+2010,China,Malaria,11.44,65.0
+2010,India,Malaria,14.13,65.0
+2010,Southeast Asia,Malaria,6.28,65.0
+2010,Middle East,Malaria,4.41,65.0
+2010,Africa,Malaria,34.35,65.0
+2010,Latin America,Malaria,4.78,65.0
+2010,Oceania,Malaria,0.64,65.0
+2011,North America,Malaria,0.61,62.4
+2011,Western Europe,Malaria,3.96,62.4
+2011,Eastern Europe,Malaria,2.55,62.4
+2011,China,Malaria,10.83,62.4
+2011,India,Malaria,11.88,62.4
+2011,Southeast Asia,Malaria,6.54,62.4
+2011,Middle East,Malaria,4.37,62.4
+2011,Africa,Malaria,32.26,62.4
+2011,Latin America,Malaria,4.07,62.4
+2011,Oceania,Malaria,0.6,62.4
+2012,North America,Malaria,0.57,59.8
+2012,Western Europe,Malaria,3.31,59.8
+2012,Eastern Europe,Malaria,2.29,59.8
+2012,China,Malaria,10.38,59.8
+2012,India,Malaria,11.74,59.8
+2012,Southeast Asia,Malaria,6.4,59.8
+2012,Middle East,Malaria,4.14,59.8
+2012,Africa,Malaria,32.67,59.8
+2012,Latin America,Malaria,4.27,59.8
+2012,Oceania,Malaria,0.59,59.8
+2013,North America,Malaria,0.58,57.2
+2013,Western Europe,Malaria,3.47,57.2
+2013,Eastern Europe,Malaria,2.3,57.2
+2013,China,Malaria,11.5,57.2
+2013,India,Malaria,11.86,57.2
+2013,Southeast Asia,Malaria,5.48,57.2
+2013,Middle East,Malaria,4.06,57.2
+2013,Africa,Malaria,30.48,57.2
+2013,Latin America,Malaria,4.08,57.2
+2013,Oceania,Malaria,0.54,57.2
+2014,North America,Malaria,0.52,54.6
+2014,Western Europe,Malaria,3.32,54.6
+2014,Eastern Europe,Malaria,2.27,54.6
+2014,China,Malaria,10.03,54.6
+2014,India,Malaria,11.3,54.6
+2014,Southeast Asia,Malaria,5.54,54.6
+2014,Middle East,Malaria,3.85,54.6
+2014,Africa,Malaria,29.43,54.6
+2014,Latin America,Malaria,3.95,54.6
+2014,Oceania,Malaria,0.57,54.6
+2015,North America,Malaria,0.52,52.0
+2015,Western Europe,Malaria,3.11,52.0
+2015,Eastern Europe,Malaria,2.22,52.0
+2015,China,Malaria,9.35,52.0
+2015,India,Malaria,10.43,52.0
+2015,Southeast Asia,Malaria,5.3,52.0
+2015,Middle East,Malaria,3.63,52.0
+2015,Africa,Malaria,27.68,52.0
+2015,Latin America,Malaria,3.7,52.0
+2015,Oceania,Malaria,0.52,52.0
+2016,North America,Malaria,0.55,50.8
+2016,Western Europe,Malaria,3.14,50.8
+2016,Eastern Europe,Malaria,1.98,50.8
+2016,China,Malaria,9.41,50.8
+2016,India,Malaria,10.28,50.8
+2016,Southeast Asia,Malaria,5.35,50.8
+2016,Middle East,Malaria,3.48,50.8
+2016,Africa,Malaria,28.12,50.8
+2016,Latin America,Malaria,3.54,50.8
+2016,Oceania,Malaria,0.51,50.8
+2017,North America,Malaria,0.48,49.5
+2017,Western Europe,Malaria,3.04,49.5
+2017,Eastern Europe,Malaria,2.01,49.5
+2017,China,Malaria,9.38,49.5
+2017,India,Malaria,9.9,49.5
+2017,Southeast Asia,Malaria,4.87,49.5
+2017,Middle East,Malaria,3.58,49.5
+2017,Africa,Malaria,26.37,49.5
+2017,Latin America,Malaria,3.62,49.5
+2017,Oceania,Malaria,0.52,49.5
+2018,North America,Malaria,0.51,48.2
+2018,Western Europe,Malaria,2.94,48.2
+2018,Eastern Europe,Malaria,1.89,48.2
+2018,China,Malaria,8.72,48.2
+2018,India,Malaria,9.8,48.2
+2018,Southeast Asia,Malaria,4.72,48.2
+2018,Middle East,Malaria,3.56,48.2
+2018,Africa,Malaria,27.16,48.2
+2018,Latin America,Malaria,3.26,48.2
+2018,Oceania,Malaria,0.52,48.2
+2019,North America,Malaria,0.47,47.0
+2019,Western Europe,Malaria,2.7,47.0
+2019,Eastern Europe,Malaria,1.82,47.0
+2019,China,Malaria,8.98,47.0
+2019,India,Malaria,10.11,47.0
+2019,Southeast Asia,Malaria,4.89,47.0
+2019,Middle East,Malaria,3.47,47.0
+2019,Africa,Malaria,27.14,47.0
+2019,Latin America,Malaria,3.36,47.0
+2019,Oceania,Malaria,0.48,47.0
+2020,North America,Malaria,0.5,48.5
+2020,Western Europe,Malaria,3.0,48.5
+2020,Eastern Europe,Malaria,1.88,48.5
+2020,China,Malaria,8.99,48.5
+2020,India,Malaria,10.28,48.5
+2020,Southeast Asia,Malaria,4.81,48.5
+2020,Middle East,Malaria,3.35,48.5
+2020,Africa,Malaria,27.19,48.5
+2020,Latin America,Malaria,3.31,48.5
+2020,Oceania,Malaria,0.46,48.5
+2021,North America,Malaria,0.52,50.0
+2021,Western Europe,Malaria,2.95,50.0
+2021,Eastern Europe,Malaria,2.0,50.0
+2021,China,Malaria,8.78,50.0
+2021,India,Malaria,10.52,50.0
+2021,Southeast Asia,Malaria,5.17,50.0
+2021,Middle East,Malaria,3.47,50.0
+2021,Africa,Malaria,26.23,50.0
+2021,Latin America,Malaria,3.45,50.0
+2021,Oceania,Malaria,0.51,50.0
+2022,North America,Malaria,0.49,48.3
+2022,Western Europe,Malaria,2.91,48.3
+2022,Eastern Europe,Malaria,1.95,48.3
+2022,China,Malaria,8.97,48.3
+2022,India,Malaria,9.65,48.3
+2022,Southeast Asia,Malaria,4.92,48.3
+2022,Middle East,Malaria,3.25,48.3
+2022,Africa,Malaria,29.44,48.3
+2022,Latin America,Malaria,3.35,48.3
+2022,Oceania,Malaria,0.49,48.3
+2023,North America,Malaria,0.48,46.7
+2023,Western Europe,Malaria,2.75,46.7
+2023,Eastern Europe,Malaria,1.87,46.7
+2023,China,Malaria,8.4,46.7
+2023,India,Malaria,9.0,46.7
+2023,Southeast Asia,Malaria,4.75,46.7
+2023,Middle East,Malaria,3.06,46.7
+2023,Africa,Malaria,27.53,46.7
+2023,Latin America,Malaria,3.37,46.7
+2023,Oceania,Malaria,0.48,46.7
+2024,North America,Malaria,0.42,45.0
+2024,Western Europe,Malaria,2.62,45.0
+2024,Eastern Europe,Malaria,1.9,45.0
+2024,China,Malaria,9.56,45.0
+2024,India,Malaria,9.44,45.0
+2024,Southeast Asia,Malaria,4.69,45.0
+2024,Middle East,Malaria,3.22,45.0
+2024,Africa,Malaria,23.93,45.0
+2024,Latin America,Malaria,3.28,45.0
+2024,Oceania,Malaria,0.43,45.0
+2025,North America,Malaria,0.41,43.5
+2025,Western Europe,Malaria,2.48,43.5
+2025,Eastern Europe,Malaria,1.81,43.5
+2025,China,Malaria,7.81,43.5
+2025,India,Malaria,8.74,43.5
+2025,Southeast Asia,Malaria,4.35,43.5
+2025,Middle East,Malaria,2.91,43.5
+2025,Africa,Malaria,23.29,43.5
+2025,Latin America,Malaria,2.97,43.5
+2025,Oceania,Malaria,0.41,43.5
+2026,North America,Malaria,0.41,42.0
+2026,Western Europe,Malaria,2.41,42.0
+2026,Eastern Europe,Malaria,1.72,42.0
+2026,China,Malaria,7.76,42.0
+2026,India,Malaria,7.98,42.0
+2026,Southeast Asia,Malaria,4.15,42.0
+2026,Middle East,Malaria,3.17,42.0
+2026,Africa,Malaria,22.21,42.0
+2026,Latin America,Malaria,2.99,42.0
+2026,Oceania,Malaria,0.42,42.0
+2019,North America,COVID-19,0.1,0.0
+2019,Western Europe,COVID-19,0.1,0.0
+2019,Eastern Europe,COVID-19,0.1,0.0
+2019,China,COVID-19,0.1,0.0
+2019,India,COVID-19,0.1,0.0
+2019,Southeast Asia,COVID-19,0.1,0.0
+2019,Middle East,COVID-19,0.1,0.0
+2019,Africa,COVID-19,0.1,0.0
+2019,Latin America,COVID-19,0.1,0.0
+2019,Oceania,COVID-19,0.1,0.0
+2020,North America,COVID-19,7.41,100.0
+2020,Western Europe,COVID-19,8.92,100.0
+2020,Eastern Europe,COVID-19,3.82,100.0
+2020,China,COVID-19,16.7,100.0
+2020,India,COVID-19,19.47,100.0
+2020,Southeast Asia,COVID-19,9.86,100.0
+2020,Middle East,COVID-19,6.61,100.0
+2020,Africa,COVID-19,13.29,100.0
+2020,Latin America,COVID-19,7.33,100.0
+2020,Oceania,COVID-19,1.03,100.0
+2021,North America,COVID-19,13.06,175.0
+2021,Western Europe,COVID-19,14.63,175.0
+2021,Eastern Europe,COVID-19,7.2,175.0
+2021,China,COVID-19,31.68,175.0
+2021,India,COVID-19,35.6,175.0
+2021,Southeast Asia,COVID-19,18.91,175.0
+2021,Middle East,COVID-19,11.85,175.0
+2021,Africa,COVID-19,20.59,175.0
+2021,Latin America,COVID-19,11.74,175.0
+2021,Oceania,COVID-19,1.78,175.0
+2022,North America,COVID-19,8.26,110.0
+2022,Western Europe,COVID-19,9.43,110.0
+2022,Eastern Europe,COVID-19,4.16,110.0
+2022,China,COVID-19,19.52,110.0
+2022,India,COVID-19,20.93,110.0
+2022,Southeast Asia,COVID-19,11.23,110.0
+2022,Middle East,COVID-19,7.57,110.0
+2022,Africa,COVID-19,14.16,110.0
+2022,Latin America,COVID-19,7.47,110.0
+2022,Oceania,COVID-19,1.11,110.0
+2023,North America,COVID-19,3.76,50.0
+2023,Western Europe,COVID-19,4.54,50.0
+2023,Eastern Europe,COVID-19,2.01,50.0
+2023,China,COVID-19,8.97,50.0
+2023,India,COVID-19,9.6,50.0
+2023,Southeast Asia,COVID-19,4.86,50.0
+2023,Middle East,COVID-19,3.45,50.0
+2023,Africa,COVID-19,7.17,50.0
+2023,Latin America,COVID-19,3.32,50.0
+2023,Oceania,COVID-19,0.49,50.0
+2024,North America,COVID-19,1.88,25.0
+2024,Western Europe,COVID-19,2.22,25.0
+2024,Eastern Europe,COVID-19,1.04,25.0
+2024,China,COVID-19,4.44,25.0
+2024,India,COVID-19,4.95,25.0
+2024,Southeast Asia,COVID-19,2.58,25.0
+2024,Middle East,COVID-19,1.88,25.0
+2024,Africa,COVID-19,3.49,25.0
+2024,Latin America,COVID-19,1.74,25.0
+2024,Oceania,COVID-19,0.25,25.0
+2025,North America,COVID-19,1.5,20.0
+2025,Western Europe,COVID-19,1.81,20.0
+2025,Eastern Europe,COVID-19,0.77,20.0
+2025,China,COVID-19,3.74,20.0
+2025,India,COVID-19,4.03,20.0
+2025,Southeast Asia,COVID-19,2.0,20.0
+2025,Middle East,COVID-19,1.33,20.0
+2025,Africa,COVID-19,2.65,20.0
+2025,Latin America,COVID-19,1.3,20.0
+2025,Oceania,COVID-19,0.2,20.0
+2026,North America,COVID-19,1.1,15.0
+2026,Western Europe,COVID-19,1.37,15.0
+2026,Eastern Europe,COVID-19,0.65,15.0
+2026,China,COVID-19,2.76,15.0
+2026,India,COVID-19,3.18,15.0
+2026,Southeast Asia,COVID-19,1.54,15.0
+2026,Middle East,COVID-19,1.1,15.0
+2026,Africa,COVID-19,2.13,15.0
+2026,Latin America,COVID-19,1.02,15.0
+2026,Oceania,COVID-19,0.15,15.0
+2010,North America,Lower respiratory infections,5.91,115.0
+2010,Western Europe,Lower respiratory infections,6.9,115.0
+2010,Eastern Europe,Lower respiratory infections,4.64,115.0
+2010,China,Lower respiratory infections,20.5,115.0
+2010,India,Lower respiratory infections,22.46,115.0
+2010,Southeast Asia,Lower respiratory infections,12.27,115.0
+2010,Middle East,Lower respiratory infections,7.7,115.0
+2010,Africa,Lower respiratory infections,26.0,115.0
+2010,Latin America,Lower respiratory infections,8.22,115.0
+2010,Oceania,Lower respiratory infections,1.08,115.0
+2011,North America,Lower respiratory infections,5.42,112.0
+2011,Western Europe,Lower respiratory infections,6.54,112.0
+2011,Eastern Europe,Lower respiratory infections,4.58,112.0
+2011,China,Lower respiratory infections,19.87,112.0
+2011,India,Lower respiratory infections,22.32,112.0
+2011,Southeast Asia,Lower respiratory infections,10.57,112.0
+2011,Middle East,Lower respiratory infections,8.6,112.0
+2011,Africa,Lower respiratory infections,24.71,112.0
+2011,Latin America,Lower respiratory infections,8.0,112.0
+2011,Oceania,Lower respiratory infections,1.1,112.0
+2012,North America,Lower respiratory infections,5.31,109.0
+2012,Western Europe,Lower respiratory infections,7.06,109.0
+2012,Eastern Europe,Lower respiratory infections,4.04,109.0
+2012,China,Lower respiratory infections,19.84,109.0
+2012,India,Lower respiratory infections,20.77,109.0
+2012,Southeast Asia,Lower respiratory infections,10.72,109.0
+2012,Middle East,Lower respiratory infections,7.44,109.0
+2012,Africa,Lower respiratory infections,23.05,109.0
+2012,Latin America,Lower respiratory infections,7.64,109.0
+2012,Oceania,Lower respiratory infections,0.98,109.0
+2013,North America,Lower respiratory infections,5.23,106.0
+2013,Western Europe,Lower respiratory infections,6.34,106.0
+2013,Eastern Europe,Lower respiratory infections,4.02,106.0
+2013,China,Lower respiratory infections,20.27,106.0
+2013,India,Lower respiratory infections,20.7,106.0
+2013,Southeast Asia,Lower respiratory infections,10.5,106.0
+2013,Middle East,Lower respiratory infections,7.25,106.0
+2013,Africa,Lower respiratory infections,23.24,106.0
+2013,Latin America,Lower respiratory infections,7.82,106.0
+2013,Oceania,Lower respiratory infections,1.17,106.0
+2014,North America,Lower respiratory infections,5.31,103.0
+2014,Western Europe,Lower respiratory infections,6.45,103.0
+2014,Eastern Europe,Lower respiratory infections,4.41,103.0
+2014,China,Lower respiratory infections,18.73,103.0
+2014,India,Lower respiratory infections,21.94,103.0
+2014,Southeast Asia,Lower respiratory infections,10.63,103.0
+2014,Middle East,Lower respiratory infections,7.25,103.0
+2014,Africa,Lower respiratory infections,22.98,103.0
+2014,Latin America,Lower respiratory infections,6.7,103.0
+2014,Oceania,Lower respiratory infections,1.04,103.0
+2015,North America,Lower respiratory infections,4.7,100.0
+2015,Western Europe,Lower respiratory infections,5.62,100.0
+2015,Eastern Europe,Lower respiratory infections,4.03,100.0
+2015,China,Lower respiratory infections,17.22,100.0
+2015,India,Lower respiratory infections,19.99,100.0
+2015,Southeast Asia,Lower respiratory infections,10.06,100.0
+2015,Middle East,Lower respiratory infections,7.05,100.0
+2015,Africa,Lower respiratory infections,21.22,100.0
+2015,Latin America,Lower respiratory infections,7.26,100.0
+2015,Oceania,Lower respiratory infections,1.0,100.0
+2016,North America,Lower respiratory infections,4.96,97.5
+2016,Western Europe,Lower respiratory infections,5.58,97.5
+2016,Eastern Europe,Lower respiratory infections,3.87,97.5
+2016,China,Lower respiratory infections,18.34,97.5
+2016,India,Lower respiratory infections,20.27,97.5
+2016,Southeast Asia,Lower respiratory infections,9.44,97.5
+2016,Middle East,Lower respiratory infections,6.68,97.5
+2016,Africa,Lower respiratory infections,20.62,97.5
+2016,Latin America,Lower respiratory infections,6.65,97.5
+2016,Oceania,Lower respiratory infections,0.92,97.5
+2017,North America,Lower respiratory infections,4.72,95.0
+2017,Western Europe,Lower respiratory infections,5.85,95.0
+2017,Eastern Europe,Lower respiratory infections,3.68,95.0
+2017,China,Lower respiratory infections,17.04,95.0
+2017,India,Lower respiratory infections,18.83,95.0
+2017,Southeast Asia,Lower respiratory infections,9.91,95.0
+2017,Middle East,Lower respiratory infections,6.49,95.0
+2017,Africa,Lower respiratory infections,20.42,95.0
+2017,Latin America,Lower respiratory infections,6.43,95.0
+2017,Oceania,Lower respiratory infections,0.91,95.0
+2018,North America,Lower respiratory infections,4.72,92.5
+2018,Western Europe,Lower respiratory infections,5.52,92.5
+2018,Eastern Europe,Lower respiratory infections,3.71,92.5
+2018,China,Lower respiratory infections,17.52,92.5
+2018,India,Lower respiratory infections,19.51,92.5
+2018,Southeast Asia,Lower respiratory infections,8.66,92.5
+2018,Middle East,Lower respiratory infections,6.64,92.5
+2018,Africa,Lower respiratory infections,20.53,92.5
+2018,Latin America,Lower respiratory infections,6.36,92.5
+2018,Oceania,Lower respiratory infections,0.94,92.5
+2019,North America,Lower respiratory infections,4.2,90.0
+2019,Western Europe,Lower respiratory infections,5.73,90.0
+2019,Eastern Europe,Lower respiratory infections,3.67,90.0
+2019,China,Lower respiratory infections,15.65,90.0
+2019,India,Lower respiratory infections,17.58,90.0
+2019,Southeast Asia,Lower respiratory infections,8.41,90.0
+2019,Middle East,Lower respiratory infections,6.22,90.0
+2019,Africa,Lower respiratory infections,19.42,90.0
+2019,Latin America,Lower respiratory infections,5.97,90.0
+2019,Oceania,Lower respiratory infections,0.93,90.0
+2020,North America,Lower respiratory infections,4.68,89.0
+2020,Western Europe,Lower respiratory infections,5.33,89.0
+2020,Eastern Europe,Lower respiratory infections,3.52,89.0
+2020,China,Lower respiratory infections,16.3,89.0
+2020,India,Lower respiratory infections,17.79,89.0
+2020,Southeast Asia,Lower respiratory infections,8.52,89.0
+2020,Middle East,Lower respiratory infections,6.07,89.0
+2020,Africa,Lower respiratory infections,19.35,89.0
+2020,Latin America,Lower respiratory infections,6.29,89.0
+2020,Oceania,Lower respiratory infections,0.89,89.0
+2021,North America,Lower respiratory infections,4.44,88.0
+2021,Western Europe,Lower respiratory infections,4.97,88.0
+2021,Eastern Europe,Lower respiratory infections,3.61,88.0
+2021,China,Lower respiratory infections,15.84,88.0
+2021,India,Lower respiratory infections,19.49,88.0
+2021,Southeast Asia,Lower respiratory infections,8.66,88.0
+2021,Middle East,Lower respiratory infections,6.24,88.0
+2021,Africa,Lower respiratory infections,21.68,88.0
+2021,Latin America,Lower respiratory infections,6.21,88.0
+2021,Oceania,Lower respiratory infections,0.88,88.0
+2022,North America,Lower respiratory infections,4.18,87.0
+2022,Western Europe,Lower respiratory infections,5.55,87.0
+2022,Eastern Europe,Lower respiratory infections,3.32,87.0
+2022,China,Lower respiratory infections,15.93,87.0
+2022,India,Lower respiratory infections,17.07,87.0
+2022,Southeast Asia,Lower respiratory infections,8.63,87.0
+2022,Middle East,Lower respiratory infections,5.75,87.0
+2022,Africa,Lower respiratory infections,20.2,87.0
+2022,Latin America,Lower respiratory infections,6.02,87.0
+2022,Oceania,Lower respiratory infections,0.83,87.0
+2023,North America,Lower respiratory infections,4.52,86.0
+2023,Western Europe,Lower respiratory infections,5.06,86.0
+2023,Eastern Europe,Lower respiratory infections,3.49,86.0
+2023,China,Lower respiratory infections,16.01,86.0
+2023,India,Lower respiratory infections,17.53,86.0
+2023,Southeast Asia,Lower respiratory infections,7.88,86.0
+2023,Middle East,Lower respiratory infections,6.19,86.0
+2023,Africa,Lower respiratory infections,18.84,86.0
+2023,Latin America,Lower respiratory infections,5.94,86.0
+2023,Oceania,Lower respiratory infections,0.86,86.0
+2024,North America,Lower respiratory infections,3.98,85.0
+2024,Western Europe,Lower respiratory infections,5.14,85.0
+2024,Eastern Europe,Lower respiratory infections,3.22,85.0
+2024,China,Lower respiratory infections,15.13,85.0
+2024,India,Lower respiratory infections,17.11,85.0
+2024,Southeast Asia,Lower respiratory infections,8.87,85.0
+2024,Middle East,Lower respiratory infections,5.76,85.0
+2024,Africa,Lower respiratory infections,19.82,85.0
+2024,Latin America,Lower respiratory infections,6.18,85.0
+2024,Oceania,Lower respiratory infections,0.84,85.0
+2025,North America,Lower respiratory infections,3.99,83.5
+2025,Western Europe,Lower respiratory infections,4.73,83.5
+2025,Eastern Europe,Lower respiratory infections,3.38,83.5
+2025,China,Lower respiratory infections,14.59,83.5
+2025,India,Lower respiratory infections,17.52,83.5
+2025,Southeast Asia,Lower respiratory infections,8.13,83.5
+2025,Middle East,Lower respiratory infections,5.64,83.5
+2025,Africa,Lower respiratory infections,18.54,83.5
+2025,Latin America,Lower respiratory infections,5.69,83.5
+2025,Oceania,Lower respiratory infections,0.84,83.5
+2026,North America,Lower respiratory infections,4.26,82.0
+2026,Western Europe,Lower respiratory infections,4.94,82.0
+2026,Eastern Europe,Lower respiratory infections,3.3,82.0
+2026,China,Lower respiratory infections,14.88,82.0
+2026,India,Lower respiratory infections,15.33,82.0
+2026,Southeast Asia,Lower respiratory infections,8.33,82.0
+2026,Middle East,Lower respiratory infections,5.78,82.0
+2026,Africa,Lower respiratory infections,18.7,82.0
+2026,Latin America,Lower respiratory infections,5.88,82.0
+2026,Oceania,Lower respiratory infections,0.81,82.0
+2010,North America,Diarrheal diseases,4.69,90.0
+2010,Western Europe,Diarrheal diseases,5.34,90.0
+2010,Eastern Europe,Diarrheal diseases,3.64,90.0
+2010,China,Diarrheal diseases,16.0,90.0
+2010,India,Diarrheal diseases,18.34,90.0
+2010,Southeast Asia,Diarrheal diseases,8.87,90.0
+2010,Middle East,Diarrheal diseases,6.73,90.0
+2010,Africa,Diarrheal diseases,21.46,90.0
+2010,Latin America,Diarrheal diseases,6.52,90.0
+2010,Oceania,Diarrheal diseases,0.96,90.0
+2011,North America,Diarrheal diseases,4.09,87.0
+2011,Western Europe,Diarrheal diseases,4.93,87.0
+2011,Eastern Europe,Diarrheal diseases,3.44,87.0
+2011,China,Diarrheal diseases,15.69,87.0
+2011,India,Diarrheal diseases,17.26,87.0
+2011,Southeast Asia,Diarrheal diseases,8.15,87.0
+2011,Middle East,Diarrheal diseases,6.38,87.0
+2011,Africa,Diarrheal diseases,20.86,87.0
+2011,Latin America,Diarrheal diseases,6.41,87.0
+2011,Oceania,Diarrheal diseases,0.91,87.0
+2012,North America,Diarrheal diseases,4.24,84.0
+2012,Western Europe,Diarrheal diseases,4.87,84.0
+2012,Eastern Europe,Diarrheal diseases,3.37,84.0
+2012,China,Diarrheal diseases,16.45,84.0
+2012,India,Diarrheal diseases,16.57,84.0
+2012,Southeast Asia,Diarrheal diseases,8.25,84.0
+2012,Middle East,Diarrheal diseases,6.15,84.0
+2012,Africa,Diarrheal diseases,19.37,84.0
+2012,Latin America,Diarrheal diseases,5.68,84.0
+2012,Oceania,Diarrheal diseases,0.83,84.0
+2013,North America,Diarrheal diseases,3.97,81.0
+2013,Western Europe,Diarrheal diseases,4.87,81.0
+2013,Eastern Europe,Diarrheal diseases,3.39,81.0
+2013,China,Diarrheal diseases,14.12,81.0
+2013,India,Diarrheal diseases,16.92,81.0
+2013,Southeast Asia,Diarrheal diseases,8.13,81.0
+2013,Middle East,Diarrheal diseases,6.22,81.0
+2013,Africa,Diarrheal diseases,18.05,81.0
+2013,Latin America,Diarrheal diseases,5.65,81.0
+2013,Oceania,Diarrheal diseases,0.83,81.0
+2014,North America,Diarrheal diseases,3.85,78.0
+2014,Western Europe,Diarrheal diseases,4.36,78.0
+2014,Eastern Europe,Diarrheal diseases,3.09,78.0
+2014,China,Diarrheal diseases,13.9,78.0
+2014,India,Diarrheal diseases,14.64,78.0
+2014,Southeast Asia,Diarrheal diseases,7.78,78.0
+2014,Middle East,Diarrheal diseases,5.03,78.0
+2014,Africa,Diarrheal diseases,16.92,78.0
+2014,Latin America,Diarrheal diseases,5.51,78.0
+2014,Oceania,Diarrheal diseases,0.78,78.0
+2015,North America,Diarrheal diseases,3.69,75.0
+2015,Western Europe,Diarrheal diseases,4.48,75.0
+2015,Eastern Europe,Diarrheal diseases,2.91,75.0
+2015,China,Diarrheal diseases,13.51,75.0
+2015,India,Diarrheal diseases,15.03,75.0
+2015,Southeast Asia,Diarrheal diseases,7.23,75.0
+2015,Middle East,Diarrheal diseases,5.31,75.0
+2015,Africa,Diarrheal diseases,16.67,75.0
+2015,Latin America,Diarrheal diseases,5.22,75.0
+2015,Oceania,Diarrheal diseases,0.83,75.0
+2016,North America,Diarrheal diseases,3.54,71.2
+2016,Western Europe,Diarrheal diseases,4.23,71.2
+2016,Eastern Europe,Diarrheal diseases,2.8,71.2
+2016,China,Diarrheal diseases,12.34,71.2
+2016,India,Diarrheal diseases,14.65,71.2
+2016,Southeast Asia,Diarrheal diseases,6.93,71.2
+2016,Middle East,Diarrheal diseases,4.88,71.2
+2016,Africa,Diarrheal diseases,15.34,71.2
+2016,Latin America,Diarrheal diseases,4.79,71.2
+2016,Oceania,Diarrheal diseases,0.66,71.2
+2017,North America,Diarrheal diseases,3.31,67.5
+2017,Western Europe,Diarrheal diseases,4.19,67.5
+2017,Eastern Europe,Diarrheal diseases,2.72,67.5
+2017,China,Diarrheal diseases,12.93,67.5
+2017,India,Diarrheal diseases,13.91,67.5
+2017,Southeast Asia,Diarrheal diseases,6.89,67.5
+2017,Middle East,Diarrheal diseases,5.09,67.5
+2017,Africa,Diarrheal diseases,14.79,67.5
+2017,Latin America,Diarrheal diseases,4.74,67.5
+2017,Oceania,Diarrheal diseases,0.67,67.5
+2018,North America,Diarrheal diseases,3.39,63.8
+2018,Western Europe,Diarrheal diseases,3.83,63.8
+2018,Eastern Europe,Diarrheal diseases,2.48,63.8
+2018,China,Diarrheal diseases,11.75,63.8
+2018,India,Diarrheal diseases,12.34,63.8
+2018,Southeast Asia,Diarrheal diseases,6.51,63.8
+2018,Middle East,Diarrheal diseases,4.54,63.8
+2018,Africa,Diarrheal diseases,13.92,63.8
+2018,Latin America,Diarrheal diseases,4.56,63.8
+2018,Oceania,Diarrheal diseases,0.6,63.8
+2019,North America,Diarrheal diseases,3.02,60.0
+2019,Western Europe,Diarrheal diseases,3.53,60.0
+2019,Eastern Europe,Diarrheal diseases,2.69,60.0
+2019,China,Diarrheal diseases,10.87,60.0
+2019,India,Diarrheal diseases,11.72,60.0
+2019,Southeast Asia,Diarrheal diseases,5.68,60.0
+2019,Middle East,Diarrheal diseases,4.43,60.0
+2019,Africa,Diarrheal diseases,13.02,60.0
+2019,Latin America,Diarrheal diseases,4.07,60.0
+2019,Oceania,Diarrheal diseases,0.61,60.0
+2020,North America,Diarrheal diseases,2.98,58.0
+2020,Western Europe,Diarrheal diseases,3.57,58.0
+2020,Eastern Europe,Diarrheal diseases,2.32,58.0
+2020,China,Diarrheal diseases,10.51,58.0
+2020,India,Diarrheal diseases,11.71,58.0
+2020,Southeast Asia,Diarrheal diseases,5.88,58.0
+2020,Middle East,Diarrheal diseases,4.13,58.0
+2020,Africa,Diarrheal diseases,13.33,58.0
+2020,Latin America,Diarrheal diseases,4.07,58.0
+2020,Oceania,Diarrheal diseases,0.56,58.0
+2021,North America,Diarrheal diseases,2.78,56.0
+2021,Western Europe,Diarrheal diseases,3.46,56.0
+2021,Eastern Europe,Diarrheal diseases,2.09,56.0
+2021,China,Diarrheal diseases,9.39,56.0
+2021,India,Diarrheal diseases,11.62,56.0
+2021,Southeast Asia,Diarrheal diseases,5.95,56.0
+2021,Middle East,Diarrheal diseases,3.73,56.0
+2021,Africa,Diarrheal diseases,12.37,56.0
+2021,Latin America,Diarrheal diseases,3.86,56.0
+2021,Oceania,Diarrheal diseases,0.55,56.0
+2022,North America,Diarrheal diseases,2.73,54.0
+2022,Western Europe,Diarrheal diseases,3.08,54.0
+2022,Eastern Europe,Diarrheal diseases,2.07,54.0
+2022,China,Diarrheal diseases,9.6,54.0
+2022,India,Diarrheal diseases,10.74,54.0
+2022,Southeast Asia,Diarrheal diseases,5.16,54.0
+2022,Middle East,Diarrheal diseases,3.9,54.0
+2022,Africa,Diarrheal diseases,11.68,54.0
+2022,Latin America,Diarrheal diseases,3.72,54.0
+2022,Oceania,Diarrheal diseases,0.55,54.0
+2023,North America,Diarrheal diseases,2.59,52.0
+2023,Western Europe,Diarrheal diseases,3.23,52.0
+2023,Eastern Europe,Diarrheal diseases,2.0,52.0
+2023,China,Diarrheal diseases,8.85,52.0
+2023,India,Diarrheal diseases,10.27,52.0
+2023,Southeast Asia,Diarrheal diseases,5.21,52.0
+2023,Middle East,Diarrheal diseases,3.46,52.0
+2023,Africa,Diarrheal diseases,10.82,52.0
+2023,Latin America,Diarrheal diseases,3.67,52.0
+2023,Oceania,Diarrheal diseases,0.5,52.0
+2024,North America,Diarrheal diseases,2.36,50.0
+2024,Western Europe,Diarrheal diseases,3.12,50.0
+2024,Eastern Europe,Diarrheal diseases,1.95,50.0
+2024,China,Diarrheal diseases,9.42,50.0
+2024,India,Diarrheal diseases,10.01,50.0
+2024,Southeast Asia,Diarrheal diseases,5.06,50.0
+2024,Middle East,Diarrheal diseases,3.47,50.0
+2024,Africa,Diarrheal diseases,9.89,50.0
+2024,Latin America,Diarrheal diseases,3.34,50.0
+2024,Oceania,Diarrheal diseases,0.5,50.0
+2025,North America,Diarrheal diseases,2.46,48.5
+2025,Western Europe,Diarrheal diseases,2.71,48.5
+2025,Eastern Europe,Diarrheal diseases,1.94,48.5
+2025,China,Diarrheal diseases,8.35,48.5
+2025,India,Diarrheal diseases,9.79,48.5
+2025,Southeast Asia,Diarrheal diseases,4.85,48.5
+2025,Middle East,Diarrheal diseases,3.5,48.5
+2025,Africa,Diarrheal diseases,11.14,48.5
+2025,Latin America,Diarrheal diseases,3.46,48.5
+2025,Oceania,Diarrheal diseases,0.5,48.5
+2026,North America,Diarrheal diseases,2.32,47.0
+2026,Western Europe,Diarrheal diseases,3.16,47.0
+2026,Eastern Europe,Diarrheal diseases,1.79,47.0
+2026,China,Diarrheal diseases,8.28,47.0
+2026,India,Diarrheal diseases,9.75,47.0
+2026,Southeast Asia,Diarrheal diseases,4.84,47.0
+2026,Middle East,Diarrheal diseases,3.35,47.0
+2026,Africa,Diarrheal diseases,10.62,47.0
+2026,Latin America,Diarrheal diseases,3.03,47.0
+2026,Oceania,Diarrheal diseases,0.5,47.0
+2010,North America,Neonatal disorders,9.92,200.0
+2010,Western Europe,Neonatal disorders,12.61,200.0
+2010,Eastern Europe,Neonatal disorders,7.38,200.0
+2010,China,Neonatal disorders,36.37,200.0
+2010,India,Neonatal disorders,39.11,200.0
+2010,Southeast Asia,Neonatal disorders,20.46,200.0
+2010,Middle East,Neonatal disorders,14.18,200.0
+2010,Africa,Neonatal disorders,44.65,200.0
+2010,Latin America,Neonatal disorders,13.42,200.0
+2010,Oceania,Neonatal disorders,2.0,200.0
+2011,North America,Neonatal disorders,9.68,195.0
+2011,Western Europe,Neonatal disorders,11.93,195.0
+2011,Eastern Europe,Neonatal disorders,8.11,195.0
+2011,China,Neonatal disorders,35.31,195.0
+2011,India,Neonatal disorders,37.06,195.0
+2011,Southeast Asia,Neonatal disorders,19.58,195.0
+2011,Middle East,Neonatal disorders,15.15,195.0
+2011,Africa,Neonatal disorders,45.82,195.0
+2011,Latin America,Neonatal disorders,12.12,195.0
+2011,Oceania,Neonatal disorders,1.95,195.0
+2012,North America,Neonatal disorders,9.86,190.0
+2012,Western Europe,Neonatal disorders,11.32,190.0
+2012,Eastern Europe,Neonatal disorders,7.46,190.0
+2012,China,Neonatal disorders,33.84,190.0
+2012,India,Neonatal disorders,38.85,190.0
+2012,Southeast Asia,Neonatal disorders,18.15,190.0
+2012,Middle East,Neonatal disorders,13.95,190.0
+2012,Africa,Neonatal disorders,41.71,190.0
+2012,Latin America,Neonatal disorders,12.81,190.0
+2012,Oceania,Neonatal disorders,1.99,190.0
+2013,North America,Neonatal disorders,8.7,185.0
+2013,Western Europe,Neonatal disorders,10.86,185.0
+2013,Eastern Europe,Neonatal disorders,7.23,185.0
+2013,China,Neonatal disorders,36.28,185.0
+2013,India,Neonatal disorders,36.0,185.0
+2013,Southeast Asia,Neonatal disorders,16.97,185.0
+2013,Middle East,Neonatal disorders,12.65,185.0
+2013,Africa,Neonatal disorders,41.45,185.0
+2013,Latin America,Neonatal disorders,13.36,185.0
+2013,Oceania,Neonatal disorders,2.03,185.0
+2014,North America,Neonatal disorders,9.52,180.0
+2014,Western Europe,Neonatal disorders,10.88,180.0
+2014,Eastern Europe,Neonatal disorders,6.95,180.0
+2014,China,Neonatal disorders,34.57,180.0
+2014,India,Neonatal disorders,35.47,180.0
+2014,Southeast Asia,Neonatal disorders,17.53,180.0
+2014,Middle East,Neonatal disorders,12.39,180.0
+2014,Africa,Neonatal disorders,37.67,180.0
+2014,Latin America,Neonatal disorders,12.37,180.0
+2014,Oceania,Neonatal disorders,1.78,180.0
+2015,North America,Neonatal disorders,9.01,175.0
+2015,Western Europe,Neonatal disorders,10.34,175.0
+2015,Eastern Europe,Neonatal disorders,6.65,175.0
+2015,China,Neonatal disorders,29.54,175.0
+2015,India,Neonatal disorders,35.29,175.0
+2015,Southeast Asia,Neonatal disorders,17.55,175.0
+2015,Middle East,Neonatal disorders,11.98,175.0
+2015,Africa,Neonatal disorders,37.79,175.0
+2015,Latin America,Neonatal disorders,12.44,175.0
+2015,Oceania,Neonatal disorders,1.85,175.0
+2016,North America,Neonatal disorders,8.2,169.2
+2016,Western Europe,Neonatal disorders,10.19,169.2
+2016,Eastern Europe,Neonatal disorders,7.03,169.2
+2016,China,Neonatal disorders,29.53,169.2
+2016,India,Neonatal disorders,33.83,169.2
+2016,Southeast Asia,Neonatal disorders,16.9,169.2
+2016,Middle East,Neonatal disorders,11.24,169.2
+2016,Africa,Neonatal disorders,37.49,169.2
+2016,Latin America,Neonatal disorders,11.86,169.2
+2016,Oceania,Neonatal disorders,1.73,169.2
+2017,North America,Neonatal disorders,7.8,163.5
+2017,Western Europe,Neonatal disorders,9.81,163.5
+2017,Eastern Europe,Neonatal disorders,6.91,163.5
+2017,China,Neonatal disorders,31.98,163.5
+2017,India,Neonatal disorders,34.42,163.5
+2017,Southeast Asia,Neonatal disorders,15.6,163.5
+2017,Middle East,Neonatal disorders,11.65,163.5
+2017,Africa,Neonatal disorders,35.28,163.5
+2017,Latin America,Neonatal disorders,11.58,163.5
+2017,Oceania,Neonatal disorders,1.59,163.5
+2018,North America,Neonatal disorders,7.37,157.8
+2018,Western Europe,Neonatal disorders,9.34,157.8
+2018,Eastern Europe,Neonatal disorders,6.5,157.8
+2018,China,Neonatal disorders,28.72,157.8
+2018,India,Neonatal disorders,32.06,157.8
+2018,Southeast Asia,Neonatal disorders,15.91,157.8
+2018,Middle East,Neonatal disorders,11.22,157.8
+2018,Africa,Neonatal disorders,35.45,157.8
+2018,Latin America,Neonatal disorders,10.92,157.8
+2018,Oceania,Neonatal disorders,1.58,157.8
+2019,North America,Neonatal disorders,8.15,152.0
+2019,Western Europe,Neonatal disorders,9.17,152.0
+2019,Eastern Europe,Neonatal disorders,6.09,152.0
+2019,China,Neonatal disorders,27.47,152.0
+2019,India,Neonatal disorders,30.14,152.0
+2019,Southeast Asia,Neonatal disorders,14.94,152.0
+2019,Middle East,Neonatal disorders,10.73,152.0
+2019,Africa,Neonatal disorders,32.77,152.0
+2019,Latin America,Neonatal disorders,10.58,152.0
+2019,Oceania,Neonatal disorders,1.47,152.0
+2020,North America,Neonatal disorders,7.46,148.5
+2020,Western Europe,Neonatal disorders,9.12,148.5
+2020,Eastern Europe,Neonatal disorders,5.89,148.5
+2020,China,Neonatal disorders,24.67,148.5
+2020,India,Neonatal disorders,30.41,148.5
+2020,Southeast Asia,Neonatal disorders,14.92,148.5
+2020,Middle East,Neonatal disorders,9.99,148.5
+2020,Africa,Neonatal disorders,33.7,148.5
+2020,Latin America,Neonatal disorders,9.83,148.5
+2020,Oceania,Neonatal disorders,1.55,148.5
+2021,North America,Neonatal disorders,7.23,145.0
+2021,Western Europe,Neonatal disorders,7.95,145.0
+2021,Eastern Europe,Neonatal disorders,5.84,145.0
+2021,China,Neonatal disorders,25.68,145.0
+2021,India,Neonatal disorders,28.36,145.0
+2021,Southeast Asia,Neonatal disorders,14.08,145.0
+2021,Middle East,Neonatal disorders,10.1,145.0
+2021,Africa,Neonatal disorders,31.29,145.0
+2021,Latin America,Neonatal disorders,9.42,145.0
+2021,Oceania,Neonatal disorders,1.53,145.0
+2022,North America,Neonatal disorders,7.05,142.3
+2022,Western Europe,Neonatal disorders,8.29,142.3
+2022,Eastern Europe,Neonatal disorders,5.44,142.3
+2022,China,Neonatal disorders,26.42,142.3
+2022,India,Neonatal disorders,27.03,142.3
+2022,Southeast Asia,Neonatal disorders,14.31,142.3
+2022,Middle East,Neonatal disorders,9.73,142.3
+2022,Africa,Neonatal disorders,30.66,142.3
+2022,Latin America,Neonatal disorders,9.53,142.3
+2022,Oceania,Neonatal disorders,1.39,142.3
+2023,North America,Neonatal disorders,6.99,139.7
+2023,Western Europe,Neonatal disorders,8.46,139.7
+2023,Eastern Europe,Neonatal disorders,5.41,139.7
+2023,China,Neonatal disorders,25.05,139.7
+2023,India,Neonatal disorders,28.94,139.7
+2023,Southeast Asia,Neonatal disorders,13.07,139.7
+2023,Middle East,Neonatal disorders,9.77,139.7
+2023,Africa,Neonatal disorders,29.58,139.7
+2023,Latin America,Neonatal disorders,9.37,139.7
+2023,Oceania,Neonatal disorders,1.41,139.7
+2024,North America,Neonatal disorders,6.7,137.0
+2024,Western Europe,Neonatal disorders,7.83,137.0
+2024,Eastern Europe,Neonatal disorders,5.78,137.0
+2024,China,Neonatal disorders,25.58,137.0
+2024,India,Neonatal disorders,25.36,137.0
+2024,Southeast Asia,Neonatal disorders,12.92,137.0
+2024,Middle East,Neonatal disorders,9.82,137.0
+2024,Africa,Neonatal disorders,29.8,137.0
+2024,Latin America,Neonatal disorders,10.18,137.0
+2024,Oceania,Neonatal disorders,1.4,137.0
+2025,North America,Neonatal disorders,6.76,133.5
+2025,Western Europe,Neonatal disorders,7.69,133.5
+2025,Eastern Europe,Neonatal disorders,5.45,133.5
+2025,China,Neonatal disorders,22.83,133.5
+2025,India,Neonatal disorders,28.13,133.5
+2025,Southeast Asia,Neonatal disorders,13.58,133.5
+2025,Middle East,Neonatal disorders,9.04,133.5
+2025,Africa,Neonatal disorders,30.33,133.5
+2025,Latin America,Neonatal disorders,10.22,133.5
+2025,Oceania,Neonatal disorders,1.32,133.5
+2026,North America,Neonatal disorders,6.64,130.0
+2026,Western Europe,Neonatal disorders,7.67,130.0
+2026,Eastern Europe,Neonatal disorders,5.22,130.0
+2026,China,Neonatal disorders,22.03,130.0
+2026,India,Neonatal disorders,26.0,130.0
+2026,Southeast Asia,Neonatal disorders,13.02,130.0
+2026,Middle East,Neonatal disorders,9.78,130.0
+2026,Africa,Neonatal disorders,26.62,130.0
+2026,Latin America,Neonatal disorders,9.0,130.0
+2026,Oceania,Neonatal disorders,1.37,130.0
+2010,North America,Maternal disorders,0.28,28.0
+2010,Western Europe,Maternal disorders,1.67,28.0
+2010,Eastern Europe,Maternal disorders,1.08,28.0
+2010,China,Maternal disorders,4.86,28.0
+2010,India,Maternal disorders,5.21,28.0
+2010,Southeast Asia,Maternal disorders,2.73,28.0
+2010,Middle East,Maternal disorders,1.88,28.0
+2010,Africa,Maternal disorders,15.47,28.0
+2010,Latin America,Maternal disorders,1.9,28.0
+2010,Oceania,Maternal disorders,0.27,28.0
+2011,North America,Maternal disorders,0.26,26.8
+2011,Western Europe,Maternal disorders,1.6,26.8
+2011,Eastern Europe,Maternal disorders,1.05,26.8
+2011,China,Maternal disorders,4.62,26.8
+2011,India,Maternal disorders,5.38,26.8
+2011,Southeast Asia,Maternal disorders,2.8,26.8
+2011,Middle East,Maternal disorders,1.89,26.8
+2011,Africa,Maternal disorders,14.38,26.8
+2011,Latin America,Maternal disorders,1.87,26.8
+2011,Oceania,Maternal disorders,0.25,26.8
+2012,North America,Maternal disorders,0.25,25.6
+2012,Western Europe,Maternal disorders,1.51,25.6
+2012,Eastern Europe,Maternal disorders,0.99,25.6
+2012,China,Maternal disorders,4.47,25.6
+2012,India,Maternal disorders,5.04,25.6
+2012,Southeast Asia,Maternal disorders,2.66,25.6
+2012,Middle East,Maternal disorders,1.87,25.6
+2012,Africa,Maternal disorders,13.57,25.6
+2012,Latin America,Maternal disorders,1.76,25.6
+2012,Oceania,Maternal disorders,0.25,25.6
+2013,North America,Maternal disorders,0.25,24.4
+2013,Western Europe,Maternal disorders,1.47,24.4
+2013,Eastern Europe,Maternal disorders,0.98,24.4
+2013,China,Maternal disorders,4.49,24.4
+2013,India,Maternal disorders,4.76,24.4
+2013,Southeast Asia,Maternal disorders,2.58,24.4
+2013,Middle East,Maternal disorders,1.71,24.4
+2013,Africa,Maternal disorders,12.97,24.4
+2013,Latin America,Maternal disorders,1.69,24.4
+2013,Oceania,Maternal disorders,0.26,24.4
+2014,North America,Maternal disorders,0.23,23.2
+2014,Western Europe,Maternal disorders,1.45,23.2
+2014,Eastern Europe,Maternal disorders,0.91,23.2
+2014,China,Maternal disorders,4.05,23.2
+2014,India,Maternal disorders,4.76,23.2
+2014,Southeast Asia,Maternal disorders,2.24,23.2
+2014,Middle East,Maternal disorders,1.68,23.2
+2014,Africa,Maternal disorders,12.94,23.2
+2014,Latin America,Maternal disorders,1.57,23.2
+2014,Oceania,Maternal disorders,0.23,23.2
+2015,North America,Maternal disorders,0.22,22.0
+2015,Western Europe,Maternal disorders,1.34,22.0
+2015,Eastern Europe,Maternal disorders,0.95,22.0
+2015,China,Maternal disorders,3.9,22.0
+2015,India,Maternal disorders,4.49,22.0
+2015,Southeast Asia,Maternal disorders,2.2,22.0
+2015,Middle East,Maternal disorders,1.54,22.0
+2015,Africa,Maternal disorders,12.02,22.0
+2015,Latin America,Maternal disorders,1.49,22.0
+2015,Oceania,Maternal disorders,0.22,22.0
+2016,North America,Maternal disorders,0.21,21.2
+2016,Western Europe,Maternal disorders,1.23,21.2
+2016,Eastern Europe,Maternal disorders,0.89,21.2
+2016,China,Maternal disorders,3.84,21.2
+2016,India,Maternal disorders,4.21,21.2
+2016,Southeast Asia,Maternal disorders,2.24,21.2
+2016,Middle East,Maternal disorders,1.38,21.2
+2016,Africa,Maternal disorders,12.3,21.2
+2016,Latin America,Maternal disorders,1.44,21.2
+2016,Oceania,Maternal disorders,0.21,21.2
+2017,North America,Maternal disorders,0.2,20.5
+2017,Western Europe,Maternal disorders,1.19,20.5
+2017,Eastern Europe,Maternal disorders,0.86,20.5
+2017,China,Maternal disorders,3.97,20.5
+2017,India,Maternal disorders,4.06,20.5
+2017,Southeast Asia,Maternal disorders,2.08,20.5
+2017,Middle East,Maternal disorders,1.44,20.5
+2017,Africa,Maternal disorders,12.08,20.5
+2017,Latin America,Maternal disorders,1.32,20.5
+2017,Oceania,Maternal disorders,0.21,20.5
+2018,North America,Maternal disorders,0.19,19.8
+2018,Western Europe,Maternal disorders,1.08,19.8
+2018,Eastern Europe,Maternal disorders,0.78,19.8
+2018,China,Maternal disorders,3.83,19.8
+2018,India,Maternal disorders,3.85,19.8
+2018,Southeast Asia,Maternal disorders,2.04,19.8
+2018,Middle East,Maternal disorders,1.45,19.8
+2018,Africa,Maternal disorders,10.86,19.8
+2018,Latin America,Maternal disorders,1.39,19.8
+2018,Oceania,Maternal disorders,0.18,19.8
+2019,North America,Maternal disorders,0.18,19.0
+2019,Western Europe,Maternal disorders,1.18,19.0
+2019,Eastern Europe,Maternal disorders,0.76,19.0
+2019,China,Maternal disorders,3.47,19.0
+2019,India,Maternal disorders,3.82,19.0
+2019,Southeast Asia,Maternal disorders,2.07,19.0
+2019,Middle East,Maternal disorders,1.31,19.0
+2019,Africa,Maternal disorders,11.14,19.0
+2019,Latin America,Maternal disorders,1.34,19.0
+2019,Oceania,Maternal disorders,0.2,19.0
+2020,North America,Maternal disorders,0.18,18.5
+2020,Western Europe,Maternal disorders,1.12,18.5
+2020,Eastern Europe,Maternal disorders,0.73,18.5
+2020,China,Maternal disorders,3.35,18.5
+2020,India,Maternal disorders,3.89,18.5
+2020,Southeast Asia,Maternal disorders,1.88,18.5
+2020,Middle East,Maternal disorders,1.36,18.5
+2020,Africa,Maternal disorders,9.91,18.5
+2020,Latin America,Maternal disorders,1.25,18.5
+2020,Oceania,Maternal disorders,0.19,18.5
+2021,North America,Maternal disorders,0.18,18.0
+2021,Western Europe,Maternal disorders,1.07,18.0
+2021,Eastern Europe,Maternal disorders,0.69,18.0
+2021,China,Maternal disorders,3.4,18.0
+2021,India,Maternal disorders,3.55,18.0
+2021,Southeast Asia,Maternal disorders,1.91,18.0
+2021,Middle East,Maternal disorders,1.26,18.0
+2021,Africa,Maternal disorders,10.16,18.0
+2021,Latin America,Maternal disorders,1.29,18.0
+2021,Oceania,Maternal disorders,0.17,18.0
+2022,North America,Maternal disorders,0.18,17.3
+2022,Western Europe,Maternal disorders,1.12,17.3
+2022,Eastern Europe,Maternal disorders,0.7,17.3
+2022,China,Maternal disorders,3.23,17.3
+2022,India,Maternal disorders,3.56,17.3
+2022,Southeast Asia,Maternal disorders,1.75,17.3
+2022,Middle East,Maternal disorders,1.22,17.3
+2022,Africa,Maternal disorders,9.74,17.3
+2022,Latin America,Maternal disorders,1.25,17.3
+2022,Oceania,Maternal disorders,0.16,17.3
+2023,North America,Maternal disorders,0.17,16.7
+2023,Western Europe,Maternal disorders,0.99,16.7
+2023,Eastern Europe,Maternal disorders,0.66,16.7
+2023,China,Maternal disorders,3.16,16.7
+2023,India,Maternal disorders,3.24,16.7
+2023,Southeast Asia,Maternal disorders,1.58,16.7
+2023,Middle East,Maternal disorders,1.2,16.7
+2023,Africa,Maternal disorders,8.66,16.7
+2023,Latin America,Maternal disorders,1.08,16.7
+2023,Oceania,Maternal disorders,0.17,16.7
+2024,North America,Maternal disorders,0.16,16.0
+2024,Western Europe,Maternal disorders,0.98,16.0
+2024,Eastern Europe,Maternal disorders,0.63,16.0
+2024,China,Maternal disorders,2.72,16.0
+2024,India,Maternal disorders,3.05,16.0
+2024,Southeast Asia,Maternal disorders,1.58,16.0
+2024,Middle East,Maternal disorders,1.06,16.0
+2024,Africa,Maternal disorders,8.91,16.0
+2024,Latin America,Maternal disorders,1.1,16.0
+2024,Oceania,Maternal disorders,0.16,16.0
+2025,North America,Maternal disorders,0.16,15.5
+2025,Western Europe,Maternal disorders,0.94,15.5
+2025,Eastern Europe,Maternal disorders,0.63,15.5
+2025,China,Maternal disorders,2.75,15.5
+2025,India,Maternal disorders,3.12,15.5
+2025,Southeast Asia,Maternal disorders,1.56,15.5
+2025,Middle East,Maternal disorders,0.98,15.5
+2025,Africa,Maternal disorders,8.75,15.5
+2025,Latin America,Maternal disorders,1.09,15.5
+2025,Oceania,Maternal disorders,0.16,15.5
+2026,North America,Maternal disorders,0.14,15.0
+2026,Western Europe,Maternal disorders,0.89,15.0
+2026,Eastern Europe,Maternal disorders,0.57,15.0
+2026,China,Maternal disorders,2.78,15.0
+2026,India,Maternal disorders,2.84,15.0
+2026,Southeast Asia,Maternal disorders,1.45,15.0
+2026,Middle East,Maternal disorders,1.07,15.0
+2026,Africa,Maternal disorders,8.04,15.0
+2026,Latin America,Maternal disorders,1.01,15.0
+2026,Oceania,Maternal disorders,0.16,15.0
+2010,North America,Road injuries,4.15,80.0
+2010,Western Europe,Road injuries,4.94,80.0
+2010,Eastern Europe,Road injuries,3.31,80.0
+2010,China,Road injuries,14.27,80.0
+2010,India,Road injuries,15.87,80.0
+2010,Southeast Asia,Road injuries,7.8,80.0
+2010,Middle East,Road injuries,5.64,80.0
+2010,Africa,Road injuries,17.23,80.0
+2010,Latin America,Road injuries,5.5,80.0
+2010,Oceania,Road injuries,0.82,80.0
+2011,North America,Road injuries,4.14,79.0
+2011,Western Europe,Road injuries,4.82,79.0
+2011,Eastern Europe,Road injuries,3.4,79.0
+2011,China,Road injuries,13.82,79.0
+2011,India,Road injuries,14.68,79.0
+2011,Southeast Asia,Road injuries,8.13,79.0
+2011,Middle East,Road injuries,5.36,79.0
+2011,Africa,Road injuries,17.19,79.0
+2011,Latin America,Road injuries,5.15,79.0
+2011,Oceania,Road injuries,0.76,79.0
+2012,North America,Road injuries,3.67,78.0
+2012,Western Europe,Road injuries,4.6,78.0
+2012,Eastern Europe,Road injuries,3.07,78.0
+2012,China,Road injuries,14.09,78.0
+2012,India,Road injuries,16.39,78.0
+2012,Southeast Asia,Road injuries,8.01,78.0
+2012,Middle East,Road injuries,5.12,78.0
+2012,Africa,Road injuries,17.58,78.0
+2012,Latin America,Road injuries,5.48,78.0
+2012,Oceania,Road injuries,0.78,78.0
+2013,North America,Road injuries,3.85,77.0
+2013,Western Europe,Road injuries,4.66,77.0
+2013,Eastern Europe,Road injuries,3.0,77.0
+2013,China,Road injuries,13.76,77.0
+2013,India,Road injuries,16.15,77.0
+2013,Southeast Asia,Road injuries,7.49,77.0
+2013,Middle East,Road injuries,5.17,77.0
+2013,Africa,Road injuries,16.9,77.0
+2013,Latin America,Road injuries,5.15,77.0
+2013,Oceania,Road injuries,0.72,77.0
+2014,North America,Road injuries,3.75,76.0
+2014,Western Europe,Road injuries,4.83,76.0
+2014,Eastern Europe,Road injuries,3.04,76.0
+2014,China,Road injuries,13.78,76.0
+2014,India,Road injuries,13.96,76.0
+2014,Southeast Asia,Road injuries,7.73,76.0
+2014,Middle East,Road injuries,5.34,76.0
+2014,Africa,Road injuries,16.28,76.0
+2014,Latin America,Road injuries,5.36,76.0
+2014,Oceania,Road injuries,0.77,76.0
+2015,North America,Road injuries,3.59,75.0
+2015,Western Europe,Road injuries,4.56,75.0
+2015,Eastern Europe,Road injuries,3.15,75.0
+2015,China,Road injuries,13.38,75.0
+2015,India,Road injuries,14.49,75.0
+2015,Southeast Asia,Road injuries,7.45,75.0
+2015,Middle East,Road injuries,5.43,75.0
+2015,Africa,Road injuries,15.71,75.0
+2015,Latin America,Road injuries,5.37,75.0
+2015,Oceania,Road injuries,0.73,75.0
+2016,North America,Road injuries,3.76,74.5
+2016,Western Europe,Road injuries,4.37,74.5
+2016,Eastern Europe,Road injuries,2.91,74.5
+2016,China,Road injuries,14.25,74.5
+2016,India,Road injuries,14.08,74.5
+2016,Southeast Asia,Road injuries,7.6,74.5
+2016,Middle East,Road injuries,5.59,74.5
+2016,Africa,Road injuries,16.85,74.5
+2016,Latin America,Road injuries,4.94,74.5
+2016,Oceania,Road injuries,0.71,74.5
+2017,North America,Road injuries,3.59,74.0
+2017,Western Europe,Road injuries,4.47,74.0
+2017,Eastern Europe,Road injuries,2.99,74.0
+2017,China,Road injuries,12.66,74.0
+2017,India,Road injuries,14.29,74.0
+2017,Southeast Asia,Road injuries,7.16,74.0
+2017,Middle East,Road injuries,5.14,74.0
+2017,Africa,Road injuries,17.63,74.0
+2017,Latin America,Road injuries,4.99,74.0
+2017,Oceania,Road injuries,0.71,74.0
+2018,North America,Road injuries,3.51,73.5
+2018,Western Europe,Road injuries,4.52,73.5
+2018,Eastern Europe,Road injuries,2.94,73.5
+2018,China,Road injuries,12.76,73.5
+2018,India,Road injuries,14.49,73.5
+2018,Southeast Asia,Road injuries,7.12,73.5
+2018,Middle East,Road injuries,5.21,73.5
+2018,Africa,Road injuries,18.0,73.5
+2018,Latin America,Road injuries,5.26,73.5
+2018,Oceania,Road injuries,0.73,73.5
+2019,North America,Road injuries,3.55,73.0
+2019,Western Europe,Road injuries,4.15,73.0
+2019,Eastern Europe,Road injuries,3.01,73.0
+2019,China,Road injuries,13.5,73.0
+2019,India,Road injuries,14.33,73.0
+2019,Southeast Asia,Road injuries,7.66,73.0
+2019,Middle East,Road injuries,5.11,73.0
+2019,Africa,Road injuries,16.57,73.0
+2019,Latin America,Road injuries,5.17,73.0
+2019,Oceania,Road injuries,0.72,73.0
+2020,North America,Road injuries,3.44,71.5
+2020,Western Europe,Road injuries,4.27,71.5
+2020,Eastern Europe,Road injuries,2.96,71.5
+2020,China,Road injuries,12.61,71.5
+2020,India,Road injuries,14.55,71.5
+2020,Southeast Asia,Road injuries,6.85,71.5
+2020,Middle East,Road injuries,5.16,71.5
+2020,Africa,Road injuries,15.93,71.5
+2020,Latin America,Road injuries,4.77,71.5
+2020,Oceania,Road injuries,0.71,71.5
+2021,North America,Road injuries,3.63,70.0
+2021,Western Europe,Road injuries,3.99,70.0
+2021,Eastern Europe,Road injuries,2.68,70.0
+2021,China,Road injuries,12.57,70.0
+2021,India,Road injuries,15.25,70.0
+2021,Southeast Asia,Road injuries,6.81,70.0
+2021,Middle East,Road injuries,5.0,70.0
+2021,Africa,Road injuries,15.56,70.0
+2021,Latin America,Road injuries,4.79,70.0
+2021,Oceania,Road injuries,0.7,70.0
+2022,North America,Road injuries,3.44,70.0
+2022,Western Europe,Road injuries,4.14,70.0
+2022,Eastern Europe,Road injuries,2.62,70.0
+2022,China,Road injuries,12.59,70.0
+2022,India,Road injuries,14.51,70.0
+2022,Southeast Asia,Road injuries,7.02,70.0
+2022,Middle East,Road injuries,5.12,70.0
+2022,Africa,Road injuries,15.76,70.0
+2022,Latin America,Road injuries,4.89,70.0
+2022,Oceania,Road injuries,0.68,70.0
+2023,North America,Road injuries,3.43,70.0
+2023,Western Europe,Road injuries,3.96,70.0
+2023,Eastern Europe,Road injuries,2.77,70.0
+2023,China,Road injuries,12.67,70.0
+2023,India,Road injuries,14.99,70.0
+2023,Southeast Asia,Road injuries,7.15,70.0
+2023,Middle East,Road injuries,4.73,70.0
+2023,Africa,Road injuries,14.54,70.0
+2023,Latin America,Road injuries,4.86,70.0
+2023,Oceania,Road injuries,0.72,70.0
+2024,North America,Road injuries,3.47,70.0
+2024,Western Europe,Road injuries,4.29,70.0
+2024,Eastern Europe,Road injuries,2.78,70.0
+2024,China,Road injuries,12.97,70.0
+2024,India,Road injuries,13.13,70.0
+2024,Southeast Asia,Road injuries,7.46,70.0
+2024,Middle East,Road injuries,4.69,70.0
+2024,Africa,Road injuries,15.9,70.0
+2024,Latin America,Road injuries,4.85,70.0
+2024,Oceania,Road injuries,0.7,70.0
+2025,North America,Road injuries,3.49,70.5
+2025,Western Europe,Road injuries,4.27,70.5
+2025,Eastern Europe,Road injuries,2.87,70.5
+2025,China,Road injuries,13.24,70.5
+2025,India,Road injuries,14.92,70.5
+2025,Southeast Asia,Road injuries,7.14,70.5
+2025,Middle East,Road injuries,5.29,70.5
+2025,Africa,Road injuries,15.57,70.5
+2025,Latin America,Road injuries,5.15,70.5
+2025,Oceania,Road injuries,0.72,70.5
+2026,North America,Road injuries,3.47,71.0
+2026,Western Europe,Road injuries,4.29,71.0
+2026,Eastern Europe,Road injuries,2.9,71.0
+2026,China,Road injuries,12.76,71.0
+2026,India,Road injuries,14.44,71.0
+2026,Southeast Asia,Road injuries,7.35,71.0
+2026,Middle East,Road injuries,4.97,71.0
+2026,Africa,Road injuries,13.88,71.0
+2026,Latin America,Road injuries,5.32,71.0
+2026,Oceania,Road injuries,0.7,71.0
+2010,North America,Self-harm,1.84,38.0
+2010,Western Europe,Self-harm,2.18,38.0
+2010,Eastern Europe,Self-harm,1.5,38.0
+2010,China,Self-harm,6.69,38.0
+2010,India,Self-harm,7.38,38.0
+2010,Southeast Asia,Self-harm,3.7,38.0
+2010,Middle East,Self-harm,2.72,38.0
+2010,Africa,Self-harm,9.07,38.0
+2010,Latin America,Self-harm,2.75,38.0
+2010,Oceania,Self-harm,0.4,38.0
+2011,North America,Self-harm,1.88,38.2
+2011,Western Europe,Self-harm,2.3,38.2
+2011,Eastern Europe,Self-harm,1.55,38.2
+2011,China,Self-harm,6.7,38.2
+2011,India,Self-harm,7.51,38.2
+2011,Southeast Asia,Self-harm,3.95,38.2
+2011,Middle East,Self-harm,2.79,38.2
+2011,Africa,Self-harm,8.43,38.2
+2011,Latin America,Self-harm,2.55,38.2
+2011,Oceania,Self-harm,0.38,38.2
+2012,North America,Self-harm,1.81,38.4
+2012,Western Europe,Self-harm,2.31,38.4
+2012,Eastern Europe,Self-harm,1.55,38.4
+2012,China,Self-harm,6.84,38.4
+2012,India,Self-harm,7.75,38.4
+2012,Southeast Asia,Self-harm,3.9,38.4
+2012,Middle East,Self-harm,2.72,38.4
+2012,Africa,Self-harm,8.05,38.4
+2012,Latin America,Self-harm,2.66,38.4
+2012,Oceania,Self-harm,0.39,38.4
+2013,North America,Self-harm,2.06,38.6
+2013,Western Europe,Self-harm,2.29,38.6
+2013,Eastern Europe,Self-harm,1.58,38.6
+2013,China,Self-harm,7.2,38.6
+2013,India,Self-harm,7.66,38.6
+2013,Southeast Asia,Self-harm,4.04,38.6
+2013,Middle East,Self-harm,2.84,38.6
+2013,Africa,Self-harm,8.97,38.6
+2013,Latin America,Self-harm,2.75,38.6
+2013,Oceania,Self-harm,0.42,38.6
+2014,North America,Self-harm,1.89,38.8
+2014,Western Europe,Self-harm,2.53,38.8
+2014,Eastern Europe,Self-harm,1.6,38.8
+2014,China,Self-harm,7.37,38.8
+2014,India,Self-harm,7.66,38.8
+2014,Southeast Asia,Self-harm,4.01,38.8
+2014,Middle East,Self-harm,2.88,38.8
+2014,Africa,Self-harm,8.17,38.8
+2014,Latin America,Self-harm,2.7,38.8
+2014,Oceania,Self-harm,0.36,38.8
+2015,North America,Self-harm,1.94,39.0
+2015,Western Europe,Self-harm,2.26,39.0
+2015,Eastern Europe,Self-harm,1.55,39.0
+2015,China,Self-harm,7.89,39.0
+2015,India,Self-harm,8.35,39.0
+2015,Southeast Asia,Self-harm,3.68,39.0
+2015,Middle East,Self-harm,2.79,39.0
+2015,Africa,Self-harm,8.86,39.0
+2015,Latin America,Self-harm,2.69,39.0
+2015,Oceania,Self-harm,0.39,39.0
+2016,North America,Self-harm,1.93,38.2
+2016,Western Europe,Self-harm,2.17,38.2
+2016,Eastern Europe,Self-harm,1.47,38.2
+2016,China,Self-harm,6.93,38.2
+2016,India,Self-harm,7.68,38.2
+2016,Southeast Asia,Self-harm,3.72,38.2
+2016,Middle East,Self-harm,2.59,38.2
+2016,Africa,Self-harm,8.38,38.2
+2016,Latin America,Self-harm,2.77,38.2
+2016,Oceania,Self-harm,0.38,38.2
+2017,North America,Self-harm,2.0,37.5
+2017,Western Europe,Self-harm,2.19,37.5
+2017,Eastern Europe,Self-harm,1.51,37.5
+2017,China,Self-harm,6.66,37.5
+2017,India,Self-harm,7.68,37.5
+2017,Southeast Asia,Self-harm,3.63,37.5
+2017,Middle East,Self-harm,2.84,37.5
+2017,Africa,Self-harm,7.71,37.5
+2017,Latin America,Self-harm,2.81,37.5
+2017,Oceania,Self-harm,0.38,37.5
+2018,North America,Self-harm,1.88,36.8
+2018,Western Europe,Self-harm,2.33,36.8
+2018,Eastern Europe,Self-harm,1.52,36.8
+2018,China,Self-harm,6.42,36.8
+2018,India,Self-harm,7.53,36.8
+2018,Southeast Asia,Self-harm,3.96,36.8
+2018,Middle East,Self-harm,2.48,36.8
+2018,Africa,Self-harm,8.8,36.8
+2018,Latin America,Self-harm,2.61,36.8
+2018,Oceania,Self-harm,0.36,36.8
+2019,North America,Self-harm,1.74,36.0
+2019,Western Europe,Self-harm,2.14,36.0
+2019,Eastern Europe,Self-harm,1.33,36.0
+2019,China,Self-harm,6.37,36.0
+2019,India,Self-harm,7.12,36.0
+2019,Southeast Asia,Self-harm,3.45,36.0
+2019,Middle East,Self-harm,2.6,36.0
+2019,Africa,Self-harm,7.85,36.0
+2019,Latin America,Self-harm,2.46,36.0
+2019,Oceania,Self-harm,0.36,36.0
+2020,North America,Self-harm,1.8,35.5
+2020,Western Europe,Self-harm,2.14,35.5
+2020,Eastern Europe,Self-harm,1.38,35.5
+2020,China,Self-harm,6.42,35.5
+2020,India,Self-harm,7.09,35.5
+2020,Southeast Asia,Self-harm,3.39,35.5
+2020,Middle East,Self-harm,2.46,35.5
+2020,Africa,Self-harm,7.99,35.5
+2020,Latin America,Self-harm,2.54,35.5
+2020,Oceania,Self-harm,0.35,35.5
+2021,North America,Self-harm,1.8,35.0
+2021,Western Europe,Self-harm,2.02,35.0
+2021,Eastern Europe,Self-harm,1.35,35.0
+2021,China,Self-harm,6.24,35.0
+2021,India,Self-harm,7.43,35.0
+2021,Southeast Asia,Self-harm,3.52,35.0
+2021,Middle East,Self-harm,2.42,35.0
+2021,Africa,Self-harm,8.19,35.0
+2021,Latin America,Self-harm,2.42,35.0
+2021,Oceania,Self-harm,0.38,35.0
+2022,North America,Self-harm,1.71,35.0
+2022,Western Europe,Self-harm,2.02,35.0
+2022,Eastern Europe,Self-harm,1.39,35.0
+2022,China,Self-harm,6.24,35.0
+2022,India,Self-harm,6.78,35.0
+2022,Southeast Asia,Self-harm,3.88,35.0
+2022,Middle East,Self-harm,2.48,35.0
+2022,Africa,Self-harm,7.84,35.0
+2022,Latin America,Self-harm,2.41,35.0
+2022,Oceania,Self-harm,0.34,35.0
+2023,North America,Self-harm,1.82,35.0
+2023,Western Europe,Self-harm,1.96,35.0
+2023,Eastern Europe,Self-harm,1.34,35.0
+2023,China,Self-harm,6.24,35.0
+2023,India,Self-harm,7.39,35.0
+2023,Southeast Asia,Self-harm,3.45,35.0
+2023,Middle East,Self-harm,2.49,35.0
+2023,Africa,Self-harm,7.71,35.0
+2023,Latin America,Self-harm,2.58,35.0
+2023,Oceania,Self-harm,0.33,35.0
+2024,North America,Self-harm,1.8,35.0
+2024,Western Europe,Self-harm,2.08,35.0
+2024,Eastern Europe,Self-harm,1.45,35.0
+2024,China,Self-harm,6.1,35.0
+2024,India,Self-harm,7.01,35.0
+2024,Southeast Asia,Self-harm,3.49,35.0
+2024,Middle East,Self-harm,2.35,35.0
+2024,Africa,Self-harm,7.32,35.0
+2024,Latin America,Self-harm,2.39,35.0
+2024,Oceania,Self-harm,0.35,35.0
+2025,North America,Self-harm,1.7,35.0
+2025,Western Europe,Self-harm,2.07,35.0
+2025,Eastern Europe,Self-harm,1.3,35.0
+2025,China,Self-harm,6.21,35.0
+2025,India,Self-harm,7.29,35.0
+2025,Southeast Asia,Self-harm,3.6,35.0
+2025,Middle East,Self-harm,2.44,35.0
+2025,Africa,Self-harm,7.78,35.0
+2025,Latin America,Self-harm,2.37,35.0
+2025,Oceania,Self-harm,0.37,35.0
+2026,North America,Self-harm,1.9,35.0
+2026,Western Europe,Self-harm,2.11,35.0
+2026,Eastern Europe,Self-harm,1.55,35.0
+2026,China,Self-harm,6.13,35.0
+2026,India,Self-harm,6.66,35.0
+2026,Southeast Asia,Self-harm,3.4,35.0
+2026,Middle East,Self-harm,2.43,35.0
+2026,Africa,Self-harm,8.45,35.0
+2026,Latin America,Self-harm,2.42,35.0
+2026,Oceania,Self-harm,0.34,35.0
+2010,North America,Alzheimer's & dementias,1.56,18.0
+2010,Western Europe,Alzheimer's & dementias,2.03,18.0
+2010,Eastern Europe,Alzheimer's & dementias,0.75,18.0
+2010,China,Alzheimer's & dementias,3.18,18.0
+2010,India,Alzheimer's & dementias,3.34,18.0
+2010,Southeast Asia,Alzheimer's & dementias,1.72,18.0
+2010,Middle East,Alzheimer's & dementias,1.35,18.0
+2010,Africa,Alzheimer's & dementias,2.44,18.0
+2010,Latin America,Alzheimer's & dementias,1.26,18.0
+2010,Oceania,Alzheimer's & dementias,0.19,18.0
+2011,North America,Alzheimer's & dementias,1.87,19.2
+2011,Western Europe,Alzheimer's & dementias,2.07,19.2
+2011,Eastern Europe,Alzheimer's & dementias,0.77,19.2
+2011,China,Alzheimer's & dementias,3.38,19.2
+2011,India,Alzheimer's & dementias,3.8,19.2
+2011,Southeast Asia,Alzheimer's & dementias,1.81,19.2
+2011,Middle East,Alzheimer's & dementias,1.27,19.2
+2011,Africa,Alzheimer's & dementias,2.37,19.2
+2011,Latin America,Alzheimer's & dementias,1.4,19.2
+2011,Oceania,Alzheimer's & dementias,0.18,19.2
+2012,North America,Alzheimer's & dementias,1.98,20.4
+2012,Western Europe,Alzheimer's & dementias,2.14,20.4
+2012,Eastern Europe,Alzheimer's & dementias,0.87,20.4
+2012,China,Alzheimer's & dementias,3.62,20.4
+2012,India,Alzheimer's & dementias,3.83,20.4
+2012,Southeast Asia,Alzheimer's & dementias,2.15,20.4
+2012,Middle East,Alzheimer's & dementias,1.51,20.4
+2012,Africa,Alzheimer's & dementias,2.6,20.4
+2012,Latin America,Alzheimer's & dementias,1.41,20.4
+2012,Oceania,Alzheimer's & dementias,0.2,20.4
+2013,North America,Alzheimer's & dementias,1.93,21.6
+2013,Western Europe,Alzheimer's & dementias,2.34,21.6
+2013,Eastern Europe,Alzheimer's & dementias,0.85,21.6
+2013,China,Alzheimer's & dementias,3.62,21.6
+2013,India,Alzheimer's & dementias,4.22,21.6
+2013,Southeast Asia,Alzheimer's & dementias,2.22,21.6
+2013,Middle East,Alzheimer's & dementias,1.5,21.6
+2013,Africa,Alzheimer's & dementias,2.81,21.6
+2013,Latin America,Alzheimer's & dementias,1.46,21.6
+2013,Oceania,Alzheimer's & dementias,0.21,21.6
+2014,North America,Alzheimer's & dementias,2.17,22.8
+2014,Western Europe,Alzheimer's & dementias,2.35,22.8
+2014,Eastern Europe,Alzheimer's & dementias,0.94,22.8
+2014,China,Alzheimer's & dementias,4.11,22.8
+2014,India,Alzheimer's & dementias,4.6,22.8
+2014,Southeast Asia,Alzheimer's & dementias,2.21,22.8
+2014,Middle East,Alzheimer's & dementias,1.57,22.8
+2014,Africa,Alzheimer's & dementias,3.01,22.8
+2014,Latin America,Alzheimer's & dementias,1.56,22.8
+2014,Oceania,Alzheimer's & dementias,0.23,22.8
+2015,North America,Alzheimer's & dementias,2.2,24.0
+2015,Western Europe,Alzheimer's & dementias,2.83,24.0
+2015,Eastern Europe,Alzheimer's & dementias,0.97,24.0
+2015,China,Alzheimer's & dementias,4.0,24.0
+2015,India,Alzheimer's & dementias,5.03,24.0
+2015,Southeast Asia,Alzheimer's & dementias,2.38,24.0
+2015,Middle East,Alzheimer's & dementias,1.82,24.0
+2015,Africa,Alzheimer's & dementias,3.36,24.0
+2015,Latin America,Alzheimer's & dementias,1.65,24.0
+2015,Oceania,Alzheimer's & dementias,0.25,24.0
+2016,North America,Alzheimer's & dementias,2.2,25.0
+2016,Western Europe,Alzheimer's & dementias,2.7,25.0
+2016,Eastern Europe,Alzheimer's & dementias,1.03,25.0
+2016,China,Alzheimer's & dementias,4.7,25.0
+2016,India,Alzheimer's & dementias,5.18,25.0
+2016,Southeast Asia,Alzheimer's & dementias,2.51,25.0
+2016,Middle East,Alzheimer's & dementias,1.93,25.0
+2016,Africa,Alzheimer's & dementias,3.25,25.0
+2016,Latin America,Alzheimer's & dementias,1.64,25.0
+2016,Oceania,Alzheimer's & dementias,0.24,25.0
+2017,North America,Alzheimer's & dementias,2.48,26.0
+2017,Western Europe,Alzheimer's & dementias,2.8,26.0
+2017,Eastern Europe,Alzheimer's & dementias,1.05,26.0
+2017,China,Alzheimer's & dementias,4.58,26.0
+2017,India,Alzheimer's & dementias,5.11,26.0
+2017,Southeast Asia,Alzheimer's & dementias,2.52,26.0
+2017,Middle East,Alzheimer's & dementias,1.85,26.0
+2017,Africa,Alzheimer's & dementias,3.42,26.0
+2017,Latin America,Alzheimer's & dementias,1.85,26.0
+2017,Oceania,Alzheimer's & dementias,0.26,26.0
+2018,North America,Alzheimer's & dementias,2.39,27.0
+2018,Western Europe,Alzheimer's & dementias,2.75,27.0
+2018,Eastern Europe,Alzheimer's & dementias,1.02,27.0
+2018,China,Alzheimer's & dementias,5.49,27.0
+2018,India,Alzheimer's & dementias,5.73,27.0
+2018,Southeast Asia,Alzheimer's & dementias,2.85,27.0
+2018,Middle East,Alzheimer's & dementias,1.84,27.0
+2018,Africa,Alzheimer's & dementias,3.57,27.0
+2018,Latin America,Alzheimer's & dementias,1.83,27.0
+2018,Oceania,Alzheimer's & dementias,0.26,27.0
+2019,North America,Alzheimer's & dementias,2.46,28.0
+2019,Western Europe,Alzheimer's & dementias,3.19,28.0
+2019,Eastern Europe,Alzheimer's & dementias,1.16,28.0
+2019,China,Alzheimer's & dementias,4.85,28.0
+2019,India,Alzheimer's & dementias,5.53,28.0
+2019,Southeast Asia,Alzheimer's & dementias,2.89,28.0
+2019,Middle East,Alzheimer's & dementias,1.92,28.0
+2019,Africa,Alzheimer's & dementias,3.71,28.0
+2019,Latin America,Alzheimer's & dementias,1.99,28.0
+2019,Oceania,Alzheimer's & dementias,0.28,28.0
+2020,North America,Alzheimer's & dementias,2.68,29.5
+2020,Western Europe,Alzheimer's & dementias,3.1,29.5
+2020,Eastern Europe,Alzheimer's & dementias,1.15,29.5
+2020,China,Alzheimer's & dementias,5.07,29.5
+2020,India,Alzheimer's & dementias,5.54,29.5
+2020,Southeast Asia,Alzheimer's & dementias,2.94,29.5
+2020,Middle East,Alzheimer's & dementias,2.13,29.5
+2020,Africa,Alzheimer's & dementias,3.68,29.5
+2020,Latin America,Alzheimer's & dementias,2.09,29.5
+2020,Oceania,Alzheimer's & dementias,0.3,29.5
+2021,North America,Alzheimer's & dementias,2.59,31.0
+2021,Western Europe,Alzheimer's & dementias,3.31,31.0
+2021,Eastern Europe,Alzheimer's & dementias,1.32,31.0
+2021,China,Alzheimer's & dementias,5.7,31.0
+2021,India,Alzheimer's & dementias,5.75,31.0
+2021,Southeast Asia,Alzheimer's & dementias,3.18,31.0
+2021,Middle East,Alzheimer's & dementias,2.11,31.0
+2021,Africa,Alzheimer's & dementias,4.21,31.0
+2021,Latin America,Alzheimer's & dementias,2.11,31.0
+2021,Oceania,Alzheimer's & dementias,0.31,31.0
+2022,North America,Alzheimer's & dementias,2.85,32.3
+2022,Western Europe,Alzheimer's & dementias,3.49,32.3
+2022,Eastern Europe,Alzheimer's & dementias,1.26,32.3
+2022,China,Alzheimer's & dementias,5.77,32.3
+2022,India,Alzheimer's & dementias,6.17,32.3
+2022,Southeast Asia,Alzheimer's & dementias,3.3,32.3
+2022,Middle East,Alzheimer's & dementias,2.28,32.3
+2022,Africa,Alzheimer's & dementias,4.0,32.3
+2022,Latin America,Alzheimer's & dementias,2.36,32.3
+2022,Oceania,Alzheimer's & dementias,0.32,32.3
+2023,North America,Alzheimer's & dementias,3.05,33.7
+2023,Western Europe,Alzheimer's & dementias,3.75,33.7
+2023,Eastern Europe,Alzheimer's & dementias,1.36,33.7
+2023,China,Alzheimer's & dementias,6.35,33.7
+2023,India,Alzheimer's & dementias,6.65,33.7
+2023,Southeast Asia,Alzheimer's & dementias,3.51,33.7
+2023,Middle East,Alzheimer's & dementias,2.37,33.7
+2023,Africa,Alzheimer's & dementias,4.54,33.7
+2023,Latin America,Alzheimer's & dementias,2.4,33.7
+2023,Oceania,Alzheimer's & dementias,0.35,33.7
+2024,North America,Alzheimer's & dementias,3.24,35.0
+2024,Western Europe,Alzheimer's & dementias,3.71,35.0
+2024,Eastern Europe,Alzheimer's & dementias,1.36,35.0
+2024,China,Alzheimer's & dementias,6.29,35.0
+2024,India,Alzheimer's & dementias,6.79,35.0
+2024,Southeast Asia,Alzheimer's & dementias,3.36,35.0
+2024,Middle East,Alzheimer's & dementias,2.25,35.0
+2024,Africa,Alzheimer's & dementias,4.34,35.0
+2024,Latin America,Alzheimer's & dementias,2.65,35.0
+2024,Oceania,Alzheimer's & dementias,0.34,35.0
+2025,North America,Alzheimer's & dementias,3.54,36.5
+2025,Western Europe,Alzheimer's & dementias,4.01,36.5
+2025,Eastern Europe,Alzheimer's & dementias,1.46,36.5
+2025,China,Alzheimer's & dementias,6.19,36.5
+2025,India,Alzheimer's & dementias,7.3,36.5
+2025,Southeast Asia,Alzheimer's & dementias,3.94,36.5
+2025,Middle East,Alzheimer's & dementias,2.72,36.5
+2025,Africa,Alzheimer's & dementias,4.87,36.5
+2025,Latin America,Alzheimer's & dementias,2.44,36.5
+2025,Oceania,Alzheimer's & dementias,0.35,36.5
+2026,North America,Alzheimer's & dementias,3.31,38.0
+2026,Western Europe,Alzheimer's & dementias,4.32,38.0
+2026,Eastern Europe,Alzheimer's & dementias,1.62,38.0
+2026,China,Alzheimer's & dementias,6.89,38.0
+2026,India,Alzheimer's & dementias,7.51,38.0
+2026,Southeast Asia,Alzheimer's & dementias,4.04,38.0
+2026,Middle East,Alzheimer's & dementias,2.56,38.0
+2026,Africa,Alzheimer's & dementias,5.03,38.0
+2026,Latin America,Alzheimer's & dementias,2.71,38.0
+2026,Oceania,Alzheimer's & dementias,0.37,38.0
+2010,North America,Kidney disease,1.36,28.0
+2010,Western Europe,Kidney disease,1.63,28.0
+2010,Eastern Europe,Kidney disease,1.19,28.0
+2010,China,Kidney disease,5.44,28.0
+2010,India,Kidney disease,5.63,28.0
+2010,Southeast Asia,Kidney disease,2.77,28.0
+2010,Middle East,Kidney disease,1.91,28.0
+2010,Africa,Kidney disease,6.16,28.0
+2010,Latin America,Kidney disease,1.92,28.0
+2010,Oceania,Kidney disease,0.28,28.0
+2011,North America,Kidney disease,1.47,29.0
+2011,Western Europe,Kidney disease,1.71,29.0
+2011,Eastern Europe,Kidney disease,1.15,29.0
+2011,China,Kidney disease,5.18,29.0
+2011,India,Kidney disease,5.73,29.0
+2011,Southeast Asia,Kidney disease,2.85,29.0
+2011,Middle East,Kidney disease,2.09,29.0
+2011,Africa,Kidney disease,5.94,29.0
+2011,Latin America,Kidney disease,2.16,29.0
+2011,Oceania,Kidney disease,0.29,29.0
+2012,North America,Kidney disease,1.54,30.0
+2012,Western Europe,Kidney disease,1.85,30.0
+2012,Eastern Europe,Kidney disease,1.17,30.0
+2012,China,Kidney disease,5.21,30.0
+2012,India,Kidney disease,5.76,30.0
+2012,Southeast Asia,Kidney disease,2.97,30.0
+2012,Middle East,Kidney disease,2.16,30.0
+2012,Africa,Kidney disease,6.45,30.0
+2012,Latin America,Kidney disease,2.15,30.0
+2012,Oceania,Kidney disease,0.27,30.0
+2013,North America,Kidney disease,1.53,31.0
+2013,Western Europe,Kidney disease,1.95,31.0
+2013,Eastern Europe,Kidney disease,1.23,31.0
+2013,China,Kidney disease,5.4,31.0
+2013,India,Kidney disease,6.04,31.0
+2013,Southeast Asia,Kidney disease,2.75,31.0
+2013,Middle East,Kidney disease,2.08,31.0
+2013,Africa,Kidney disease,7.11,31.0
+2013,Latin America,Kidney disease,2.12,31.0
+2013,Oceania,Kidney disease,0.3,31.0
+2014,North America,Kidney disease,1.46,32.0
+2014,Western Europe,Kidney disease,1.8,32.0
+2014,Eastern Europe,Kidney disease,1.34,32.0
+2014,China,Kidney disease,5.9,32.0
+2014,India,Kidney disease,6.08,32.0
+2014,Southeast Asia,Kidney disease,3.12,32.0
+2014,Middle East,Kidney disease,2.24,32.0
+2014,Africa,Kidney disease,6.71,32.0
+2014,Latin America,Kidney disease,2.07,32.0
+2014,Oceania,Kidney disease,0.32,32.0
+2015,North America,Kidney disease,1.69,33.0
+2015,Western Europe,Kidney disease,2.03,33.0
+2015,Eastern Europe,Kidney disease,1.37,33.0
+2015,China,Kidney disease,5.58,33.0
+2015,India,Kidney disease,6.62,33.0
+2015,Southeast Asia,Kidney disease,3.26,33.0
+2015,Middle East,Kidney disease,2.3,33.0
+2015,Africa,Kidney disease,7.2,33.0
+2015,Latin America,Kidney disease,2.25,33.0
+2015,Oceania,Kidney disease,0.29,33.0
+2016,North America,Kidney disease,1.83,35.0
+2016,Western Europe,Kidney disease,2.13,35.0
+2016,Eastern Europe,Kidney disease,1.32,35.0
+2016,China,Kidney disease,6.42,35.0
+2016,India,Kidney disease,6.88,35.0
+2016,Southeast Asia,Kidney disease,3.44,35.0
+2016,Middle East,Kidney disease,2.38,35.0
+2016,Africa,Kidney disease,7.87,35.0
+2016,Latin America,Kidney disease,2.37,35.0
+2016,Oceania,Kidney disease,0.33,35.0
+2017,North America,Kidney disease,1.94,37.0
+2017,Western Europe,Kidney disease,2.2,37.0
+2017,Eastern Europe,Kidney disease,1.47,37.0
+2017,China,Kidney disease,6.85,37.0
+2017,India,Kidney disease,7.21,37.0
+2017,Southeast Asia,Kidney disease,3.63,37.0
+2017,Middle East,Kidney disease,2.62,37.0
+2017,Africa,Kidney disease,7.65,37.0
+2017,Latin America,Kidney disease,2.61,37.0
+2017,Oceania,Kidney disease,0.36,37.0
+2018,North America,Kidney disease,2.02,39.0
+2018,Western Europe,Kidney disease,2.39,39.0
+2018,Eastern Europe,Kidney disease,1.59,39.0
+2018,China,Kidney disease,6.58,39.0
+2018,India,Kidney disease,7.77,39.0
+2018,Southeast Asia,Kidney disease,3.72,39.0
+2018,Middle East,Kidney disease,2.73,39.0
+2018,Africa,Kidney disease,7.82,39.0
+2018,Latin America,Kidney disease,2.57,39.0
+2018,Oceania,Kidney disease,0.41,39.0
+2019,North America,Kidney disease,2.08,41.0
+2019,Western Europe,Kidney disease,2.43,41.0
+2019,Eastern Europe,Kidney disease,1.58,41.0
+2019,China,Kidney disease,7.07,41.0
+2019,India,Kidney disease,8.27,41.0
+2019,Southeast Asia,Kidney disease,4.04,41.0
+2019,Middle East,Kidney disease,3.05,41.0
+2019,Africa,Kidney disease,8.95,41.0
+2019,Latin America,Kidney disease,2.88,41.0
+2019,Oceania,Kidney disease,0.39,41.0
+2020,North America,Kidney disease,2.09,42.5
+2020,Western Europe,Kidney disease,2.57,42.5
+2020,Eastern Europe,Kidney disease,1.67,42.5
+2020,China,Kidney disease,7.5,42.5
+2020,India,Kidney disease,8.61,42.5
+2020,Southeast Asia,Kidney disease,4.52,42.5
+2020,Middle East,Kidney disease,2.99,42.5
+2020,Africa,Kidney disease,9.79,42.5
+2020,Latin America,Kidney disease,3.05,42.5
+2020,Oceania,Kidney disease,0.44,42.5
+2021,North America,Kidney disease,2.15,44.0
+2021,Western Europe,Kidney disease,2.62,44.0
+2021,Eastern Europe,Kidney disease,1.75,44.0
+2021,China,Kidney disease,8.09,44.0
+2021,India,Kidney disease,9.08,44.0
+2021,Southeast Asia,Kidney disease,4.42,44.0
+2021,Middle East,Kidney disease,3.19,44.0
+2021,Africa,Kidney disease,9.46,44.0
+2021,Latin America,Kidney disease,3.19,44.0
+2021,Oceania,Kidney disease,0.46,44.0
+2022,North America,Kidney disease,2.36,46.0
+2022,Western Europe,Kidney disease,2.77,46.0
+2022,Eastern Europe,Kidney disease,1.89,46.0
+2022,China,Kidney disease,7.99,46.0
+2022,India,Kidney disease,9.27,46.0
+2022,Southeast Asia,Kidney disease,4.66,46.0
+2022,Middle East,Kidney disease,3.05,46.0
+2022,Africa,Kidney disease,10.31,46.0
+2022,Latin America,Kidney disease,3.06,46.0
+2022,Oceania,Kidney disease,0.45,46.0
+2023,North America,Kidney disease,2.4,48.0
+2023,Western Europe,Kidney disease,2.8,48.0
+2023,Eastern Europe,Kidney disease,1.93,48.0
+2023,China,Kidney disease,8.66,48.0
+2023,India,Kidney disease,9.29,48.0
+2023,Southeast Asia,Kidney disease,4.91,48.0
+2023,Middle East,Kidney disease,3.26,48.0
+2023,Africa,Kidney disease,11.57,48.0
+2023,Latin America,Kidney disease,3.35,48.0
+2023,Oceania,Kidney disease,0.46,48.0
+2024,North America,Kidney disease,2.4,50.0
+2024,Western Europe,Kidney disease,3.14,50.0
+2024,Eastern Europe,Kidney disease,1.97,50.0
+2024,China,Kidney disease,8.52,50.0
+2024,India,Kidney disease,10.35,50.0
+2024,Southeast Asia,Kidney disease,4.92,50.0
+2024,Middle East,Kidney disease,3.59,50.0
+2024,Africa,Kidney disease,11.42,50.0
+2024,Latin America,Kidney disease,3.54,50.0
+2024,Oceania,Kidney disease,0.55,50.0
+2025,North America,Kidney disease,2.4,51.5
+2025,Western Europe,Kidney disease,2.99,51.5
+2025,Eastern Europe,Kidney disease,2.04,51.5
+2025,China,Kidney disease,10.15,51.5
+2025,India,Kidney disease,11.07,51.5
+2025,Southeast Asia,Kidney disease,5.42,51.5
+2025,Middle East,Kidney disease,3.49,51.5
+2025,Africa,Kidney disease,11.03,51.5
+2025,Latin America,Kidney disease,3.49,51.5
+2025,Oceania,Kidney disease,0.5,51.5
+2026,North America,Kidney disease,2.81,53.0
+2026,Western Europe,Kidney disease,3.15,53.0
+2026,Eastern Europe,Kidney disease,2.11,53.0
+2026,China,Kidney disease,9.84,53.0
+2026,India,Kidney disease,9.92,53.0
+2026,Southeast Asia,Kidney disease,5.31,53.0
+2026,Middle East,Kidney disease,3.55,53.0
+2026,Africa,Kidney disease,11.52,53.0
+2026,Latin America,Kidney disease,3.62,53.0
+2026,Oceania,Kidney disease,0.52,53.0
+2010,North America,Liver disease,2.27,45.0
+2010,Western Europe,Liver disease,2.72,45.0
+2010,Eastern Europe,Liver disease,1.78,45.0
+2010,China,Liver disease,8.22,45.0
+2010,India,Liver disease,8.69,45.0
+2010,Southeast Asia,Liver disease,4.62,45.0
+2010,Middle East,Liver disease,3.12,45.0
+2010,Africa,Liver disease,9.71,45.0
+2010,Latin America,Liver disease,3.05,45.0
+2010,Oceania,Liver disease,0.45,45.0
+2011,North America,Liver disease,2.42,45.0
+2011,Western Europe,Liver disease,2.69,45.0
+2011,Eastern Europe,Liver disease,1.72,45.0
+2011,China,Liver disease,8.4,45.0
+2011,India,Liver disease,8.83,45.0
+2011,Southeast Asia,Liver disease,4.55,45.0
+2011,Middle East,Liver disease,3.07,45.0
+2011,Africa,Liver disease,10.42,45.0
+2011,Latin America,Liver disease,3.08,45.0
+2011,Oceania,Liver disease,0.48,45.0
+2012,North America,Liver disease,2.16,45.0
+2012,Western Europe,Liver disease,2.67,45.0
+2012,Eastern Europe,Liver disease,1.9,45.0
+2012,China,Liver disease,8.15,45.0
+2012,India,Liver disease,9.86,45.0
+2012,Southeast Asia,Liver disease,4.45,45.0
+2012,Middle East,Liver disease,3.18,45.0
+2012,Africa,Liver disease,10.68,45.0
+2012,Latin America,Liver disease,2.96,45.0
+2012,Oceania,Liver disease,0.42,45.0
+2013,North America,Liver disease,2.18,45.0
+2013,Western Europe,Liver disease,2.79,45.0
+2013,Eastern Europe,Liver disease,1.69,45.0
+2013,China,Liver disease,8.3,45.0
+2013,India,Liver disease,9.19,45.0
+2013,Southeast Asia,Liver disease,4.88,45.0
+2013,Middle East,Liver disease,3.28,45.0
+2013,Africa,Liver disease,10.05,45.0
+2013,Latin America,Liver disease,3.33,45.0
+2013,Oceania,Liver disease,0.46,45.0
+2014,North America,Liver disease,2.21,45.0
+2014,Western Europe,Liver disease,2.58,45.0
+2014,Eastern Europe,Liver disease,1.76,45.0
+2014,China,Liver disease,8.09,45.0
+2014,India,Liver disease,9.06,45.0
+2014,Southeast Asia,Liver disease,4.13,45.0
+2014,Middle East,Liver disease,3.12,45.0
+2014,Africa,Liver disease,9.91,45.0
+2014,Latin America,Liver disease,3.22,45.0
+2014,Oceania,Liver disease,0.48,45.0
+2015,North America,Liver disease,2.27,45.0
+2015,Western Europe,Liver disease,2.6,45.0
+2015,Eastern Europe,Liver disease,1.67,45.0
+2015,China,Liver disease,8.33,45.0
+2015,India,Liver disease,8.69,45.0
+2015,Southeast Asia,Liver disease,4.66,45.0
+2015,Middle East,Liver disease,3.33,45.0
+2015,Africa,Liver disease,9.31,45.0
+2015,Latin America,Liver disease,3.22,45.0
+2015,Oceania,Liver disease,0.47,45.0
+2016,North America,Liver disease,2.33,44.8
+2016,Western Europe,Liver disease,2.47,44.8
+2016,Eastern Europe,Liver disease,1.73,44.8
+2016,China,Liver disease,7.65,44.8
+2016,India,Liver disease,9.14,44.8
+2016,Southeast Asia,Liver disease,4.55,44.8
+2016,Middle East,Liver disease,2.81,44.8
+2016,Africa,Liver disease,9.73,44.8
+2016,Latin America,Liver disease,3.23,44.8
+2016,Oceania,Liver disease,0.45,44.8
+2017,North America,Liver disease,2.24,44.5
+2017,Western Europe,Liver disease,2.63,44.5
+2017,Eastern Europe,Liver disease,1.71,44.5
+2017,China,Liver disease,8.0,44.5
+2017,India,Liver disease,8.92,44.5
+2017,Southeast Asia,Liver disease,4.56,44.5
+2017,Middle East,Liver disease,3.2,44.5
+2017,Africa,Liver disease,9.82,44.5
+2017,Latin America,Liver disease,3.25,44.5
+2017,Oceania,Liver disease,0.44,44.5
+2018,North America,Liver disease,2.09,44.2
+2018,Western Europe,Liver disease,2.71,44.2
+2018,Eastern Europe,Liver disease,1.78,44.2
+2018,China,Liver disease,8.12,44.2
+2018,India,Liver disease,8.41,44.2
+2018,Southeast Asia,Liver disease,4.75,44.2
+2018,Middle East,Liver disease,3.19,44.2
+2018,Africa,Liver disease,9.62,44.2
+2018,Latin America,Liver disease,2.98,44.2
+2018,Oceania,Liver disease,0.46,44.2
+2019,North America,Liver disease,2.11,44.0
+2019,Western Europe,Liver disease,2.89,44.0
+2019,Eastern Europe,Liver disease,1.72,44.0
+2019,China,Liver disease,8.48,44.0
+2019,India,Liver disease,8.74,44.0
+2019,Southeast Asia,Liver disease,4.69,44.0
+2019,Middle East,Liver disease,2.99,44.0
+2019,Africa,Liver disease,9.69,44.0
+2019,Latin America,Liver disease,3.18,44.0
+2019,Oceania,Liver disease,0.45,44.0
+2020,North America,Liver disease,2.38,45.5
+2020,Western Europe,Liver disease,2.68,45.5
+2020,Eastern Europe,Liver disease,1.83,45.5
+2020,China,Liver disease,8.61,45.5
+2020,India,Liver disease,8.85,45.5
+2020,Southeast Asia,Liver disease,4.66,45.5
+2020,Middle East,Liver disease,3.16,45.5
+2020,Africa,Liver disease,10.09,45.5
+2020,Latin America,Liver disease,3.2,45.5
+2020,Oceania,Liver disease,0.44,45.5
+2021,North America,Liver disease,2.33,47.0
+2021,Western Europe,Liver disease,2.84,47.0
+2021,Eastern Europe,Liver disease,1.87,47.0
+2021,China,Liver disease,9.01,47.0
+2021,India,Liver disease,9.79,47.0
+2021,Southeast Asia,Liver disease,4.75,47.0
+2021,Middle East,Liver disease,3.19,47.0
+2021,Africa,Liver disease,10.0,47.0
+2021,Latin America,Liver disease,3.56,47.0
+2021,Oceania,Liver disease,0.45,47.0
+2022,North America,Liver disease,2.36,47.0
+2022,Western Europe,Liver disease,2.86,47.0
+2022,Eastern Europe,Liver disease,1.86,47.0
+2022,China,Liver disease,8.13,47.0
+2022,India,Liver disease,9.11,47.0
+2022,Southeast Asia,Liver disease,4.6,47.0
+2022,Middle East,Liver disease,3.2,47.0
+2022,Africa,Liver disease,10.9,47.0
+2022,Latin America,Liver disease,3.29,47.0
+2022,Oceania,Liver disease,0.46,47.0
+2023,North America,Liver disease,2.36,47.0
+2023,Western Europe,Liver disease,2.9,47.0
+2023,Eastern Europe,Liver disease,1.85,47.0
+2023,China,Liver disease,8.77,47.0
+2023,India,Liver disease,8.93,47.0
+2023,Southeast Asia,Liver disease,4.93,47.0
+2023,Middle East,Liver disease,3.29,47.0
+2023,Africa,Liver disease,10.32,47.0
+2023,Latin America,Liver disease,3.2,47.0
+2023,Oceania,Liver disease,0.45,47.0
+2024,North America,Liver disease,2.2,47.0
+2024,Western Europe,Liver disease,2.74,47.0
+2024,Eastern Europe,Liver disease,1.92,47.0
+2024,China,Liver disease,8.14,47.0
+2024,India,Liver disease,8.84,47.0
+2024,Southeast Asia,Liver disease,4.53,47.0
+2024,Middle East,Liver disease,3.24,47.0
+2024,Africa,Liver disease,10.2,47.0
+2024,Latin America,Liver disease,3.27,47.0
+2024,Oceania,Liver disease,0.49,47.0
+2025,North America,Liver disease,2.47,47.0
+2025,Western Europe,Liver disease,3.06,47.0
+2025,Eastern Europe,Liver disease,1.76,47.0
+2025,China,Liver disease,8.18,47.0
+2025,India,Liver disease,9.67,47.0
+2025,Southeast Asia,Liver disease,4.62,47.0
+2025,Middle East,Liver disease,3.41,47.0
+2025,Africa,Liver disease,10.43,47.0
+2025,Latin America,Liver disease,3.5,47.0
+2025,Oceania,Liver disease,0.49,47.0
+2026,North America,Liver disease,2.45,47.0
+2026,Western Europe,Liver disease,2.77,47.0
+2026,Eastern Europe,Liver disease,1.87,47.0
+2026,China,Liver disease,8.36,47.0
+2026,India,Liver disease,8.85,47.0
+2026,Southeast Asia,Liver disease,4.98,47.0
+2026,Middle East,Liver disease,3.39,47.0
+2026,Africa,Liver disease,10.2,47.0
+2026,Latin America,Liver disease,3.47,47.0
+2026,Oceania,Liver disease,0.46,47.0
+2010,North America,Stroke,6.04,130.0
+2010,Western Europe,Stroke,8.12,130.0
+2010,Eastern Europe,Stroke,4.94,130.0
+2010,China,Stroke,23.22,130.0
+2010,India,Stroke,26.22,130.0
+2010,Southeast Asia,Stroke,13.2,130.0
+2010,Middle East,Stroke,9.41,130.0
+2010,Africa,Stroke,29.27,130.0
+2010,Latin America,Stroke,9.3,130.0
+2010,Oceania,Stroke,1.26,130.0
+2011,North America,Stroke,6.63,131.0
+2011,Western Europe,Stroke,7.4,131.0
+2011,Eastern Europe,Stroke,5.58,131.0
+2011,China,Stroke,22.29,131.0
+2011,India,Stroke,25.84,131.0
+2011,Southeast Asia,Stroke,12.43,131.0
+2011,Middle East,Stroke,8.91,131.0
+2011,Africa,Stroke,28.84,131.0
+2011,Latin America,Stroke,8.98,131.0
+2011,Oceania,Stroke,1.37,131.0
+2012,North America,Stroke,6.66,132.0
+2012,Western Europe,Stroke,7.77,132.0
+2012,Eastern Europe,Stroke,5.25,132.0
+2012,China,Stroke,24.95,132.0
+2012,India,Stroke,27.38,132.0
+2012,Southeast Asia,Stroke,12.61,132.0
+2012,Middle East,Stroke,8.99,132.0
+2012,Africa,Stroke,29.6,132.0
+2012,Latin America,Stroke,9.37,132.0
+2012,Oceania,Stroke,1.27,132.0
+2013,North America,Stroke,6.85,133.0
+2013,Western Europe,Stroke,7.7,133.0
+2013,Eastern Europe,Stroke,5.6,133.0
+2013,China,Stroke,24.45,133.0
+2013,India,Stroke,25.42,133.0
+2013,Southeast Asia,Stroke,13.02,133.0
+2013,Middle East,Stroke,9.11,133.0
+2013,Africa,Stroke,29.45,133.0
+2013,Latin America,Stroke,9.23,133.0
+2013,Oceania,Stroke,1.27,133.0
+2014,North America,Stroke,6.34,134.0
+2014,Western Europe,Stroke,8.22,134.0
+2014,Eastern Europe,Stroke,5.42,134.0
+2014,China,Stroke,24.22,134.0
+2014,India,Stroke,27.09,134.0
+2014,Southeast Asia,Stroke,13.07,134.0
+2014,Middle East,Stroke,9.45,134.0
+2014,Africa,Stroke,32.63,134.0
+2014,Latin America,Stroke,9.83,134.0
+2014,Oceania,Stroke,1.32,134.0
+2015,North America,Stroke,6.61,135.0
+2015,Western Europe,Stroke,7.22,135.0
+2015,Eastern Europe,Stroke,5.64,135.0
+2015,China,Stroke,25.08,135.0
+2015,India,Stroke,26.42,135.0
+2015,Southeast Asia,Stroke,12.75,135.0
+2015,Middle East,Stroke,9.02,135.0
+2015,Africa,Stroke,30.23,135.0
+2015,Latin America,Stroke,9.42,135.0
+2015,Oceania,Stroke,1.39,135.0
+2016,North America,Stroke,6.87,137.0
+2016,Western Europe,Stroke,8.54,137.0
+2016,Eastern Europe,Stroke,5.56,137.0
+2016,China,Stroke,25.49,137.0
+2016,India,Stroke,25.2,137.0
+2016,Southeast Asia,Stroke,13.04,137.0
+2016,Middle East,Stroke,9.45,137.0
+2016,Africa,Stroke,31.47,137.0
+2016,Latin America,Stroke,10.34,137.0
+2016,Oceania,Stroke,1.36,137.0
+2017,North America,Stroke,6.78,139.0
+2017,Western Europe,Stroke,7.71,139.0
+2017,Eastern Europe,Stroke,5.76,139.0
+2017,China,Stroke,24.48,139.0
+2017,India,Stroke,31.29,139.0
+2017,Southeast Asia,Stroke,13.49,139.0
+2017,Middle East,Stroke,10.58,139.0
+2017,Africa,Stroke,31.51,139.0
+2017,Latin America,Stroke,9.34,139.0
+2017,Oceania,Stroke,1.4,139.0
+2018,North America,Stroke,7.27,141.0
+2018,Western Europe,Stroke,8.38,141.0
+2018,Eastern Europe,Stroke,5.83,141.0
+2018,China,Stroke,26.22,141.0
+2018,India,Stroke,28.88,141.0
+2018,Southeast Asia,Stroke,14.09,141.0
+2018,Middle East,Stroke,9.42,141.0
+2018,Africa,Stroke,30.92,141.0
+2018,Latin America,Stroke,9.94,141.0
+2018,Oceania,Stroke,1.31,141.0
+2019,North America,Stroke,7.2,143.0
+2019,Western Europe,Stroke,8.55,143.0
+2019,Eastern Europe,Stroke,5.43,143.0
+2019,China,Stroke,25.4,143.0
+2019,India,Stroke,28.25,143.0
+2019,Southeast Asia,Stroke,15.45,143.0
+2019,Middle East,Stroke,10.1,143.0
+2019,Africa,Stroke,32.79,143.0
+2019,Latin America,Stroke,9.96,143.0
+2019,Oceania,Stroke,1.33,143.0
+2020,North America,Stroke,7.6,148.0
+2020,Western Europe,Stroke,8.65,148.0
+2020,Eastern Europe,Stroke,5.84,148.0
+2020,China,Stroke,25.54,148.0
+2020,India,Stroke,29.69,148.0
+2020,Southeast Asia,Stroke,15.44,148.0
+2020,Middle East,Stroke,10.75,148.0
+2020,Africa,Stroke,34.69,148.0
+2020,Latin America,Stroke,11.1,148.0
+2020,Oceania,Stroke,1.36,148.0
+2021,North America,Stroke,7.29,153.0
+2021,Western Europe,Stroke,8.54,153.0
+2021,Eastern Europe,Stroke,6.28,153.0
+2021,China,Stroke,26.79,153.0
+2021,India,Stroke,30.01,153.0
+2021,Southeast Asia,Stroke,15.17,153.0
+2021,Middle East,Stroke,10.88,153.0
+2021,Africa,Stroke,31.72,153.0
+2021,Latin America,Stroke,10.18,153.0
+2021,Oceania,Stroke,1.53,153.0
+2022,North America,Stroke,8.11,154.7
+2022,Western Europe,Stroke,9.27,154.7
+2022,Eastern Europe,Stroke,5.99,154.7
+2022,China,Stroke,25.55,154.7
+2022,India,Stroke,32.13,154.7
+2022,Southeast Asia,Stroke,15.02,154.7
+2022,Middle East,Stroke,10.34,154.7
+2022,Africa,Stroke,31.77,154.7
+2022,Latin America,Stroke,10.22,154.7
+2022,Oceania,Stroke,1.49,154.7
+2023,North America,Stroke,7.74,156.3
+2023,Western Europe,Stroke,8.94,156.3
+2023,Eastern Europe,Stroke,6.3,156.3
+2023,China,Stroke,27.86,156.3
+2023,India,Stroke,34.17,156.3
+2023,Southeast Asia,Stroke,14.6,156.3
+2023,Middle East,Stroke,11.01,156.3
+2023,Africa,Stroke,34.63,156.3
+2023,Latin America,Stroke,10.5,156.3
+2023,Oceania,Stroke,1.57,156.3
+2024,North America,Stroke,8.15,158.0
+2024,Western Europe,Stroke,9.52,158.0
+2024,Eastern Europe,Stroke,6.68,158.0
+2024,China,Stroke,26.07,158.0
+2024,India,Stroke,30.55,158.0
+2024,Southeast Asia,Stroke,16.76,158.0
+2024,Middle East,Stroke,11.47,158.0
+2024,Africa,Stroke,35.52,158.0
+2024,Latin America,Stroke,11.62,158.0
+2024,Oceania,Stroke,1.46,158.0
+2025,North America,Stroke,8.26,160.0
+2025,Western Europe,Stroke,10.02,160.0
+2025,Eastern Europe,Stroke,6.23,160.0
+2025,China,Stroke,31.99,160.0
+2025,India,Stroke,32.25,160.0
+2025,Southeast Asia,Stroke,14.66,160.0
+2025,Middle East,Stroke,11.37,160.0
+2025,Africa,Stroke,34.2,160.0
+2025,Latin America,Stroke,11.73,160.0
+2025,Oceania,Stroke,1.64,160.0
+2026,North America,Stroke,7.91,162.0
+2026,Western Europe,Stroke,10.32,162.0
+2026,Eastern Europe,Stroke,6.73,162.0
+2026,China,Stroke,28.21,162.0
+2026,India,Stroke,32.2,162.0
+2026,Southeast Asia,Stroke,16.54,162.0
+2026,Middle East,Stroke,11.18,162.0
+2026,Africa,Stroke,35.17,162.0
+2026,Latin America,Stroke,11.36,162.0
+2026,Oceania,Stroke,1.55,162.0

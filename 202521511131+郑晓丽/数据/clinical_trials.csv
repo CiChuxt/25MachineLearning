@@ -1,0 +1,600 @@
+trial_id,completion_date,year,sponsor,therapy_area,phase,enrollment_n,duration_months,outcome,is_success,is_failure,estimated_stock_impact_pct
+NCT00000024,2010-01-05,2010,BioNTech,neurology,Phase 2,186,11,Met primary endpoint,1,0,6.0
+NCT00000015,2010-02-15,2010,Pfizer,metabolic,Phase 2,181,29,Mixed results,0,0,-0.7
+NCT00000013,2010-02-27,2010,GSK,oncology,Phase 2,115,13,Failed primary endpoint,0,1,-33.2
+NCT00000022,2010-03-02,2010,Takeda,infectious,Phase 2,359,15,Met primary endpoint,1,0,12.4
+NCT00000019,2010-04-09,2010,Novo Nordisk,oncology,Phase 3,840,42,Failed primary endpoint,0,1,-14.7
+NCT00000021,2010-04-27,2010,Bayer,infectious,Phase 3,615,35,Met primary endpoint,1,0,6.1
+NCT00000011,2010-04-27,2010,Vertex,cardiovascular,Phase 3,2496,36,Failed primary endpoint,0,1,-14.7
+NCT00000014,2010-05-08,2010,BioNTech,oncology,Phase 3,1265,30,Failed primary endpoint,0,1,-23.7
+NCT00000003,2010-05-17,2010,Eli Lilly,infectious,Phase 3,1115,34,Failed primary endpoint,0,1,-11.1
+NCT00000028,2010-06-19,2010,BioNTech,respiratory,Phase 3,2414,43,Met primary endpoint,1,0,13.7
+NCT00000006,2010-06-19,2010,Eli Lilly,oncology,Phase 3,4107,37,Failed primary endpoint,0,1,-8.4
+NCT00000017,2010-06-21,2010,Roche,respiratory,Phase 2,266,25,Met primary endpoint,1,0,8.6
+NCT00000034,2010-06-25,2010,Bayer,oncology,Phase 2,207,17,Met primary endpoint,1,0,8.3
+NCT00000009,2010-06-26,2010,Takeda,gastrointestinal,Phase 3,830,42,Met primary endpoint,1,0,8.0
+NCT00000016,2010-07-01,2010,Bayer,oncology,Phase 3,2258,39,Failed primary endpoint,0,1,-13.5
+NCT00000012,2010-07-08,2010,Merck,oncology,Phase 2,358,24,Met primary endpoint,1,0,13.7
+NCT00000005,2010-07-09,2010,BMS,infectious,Phase 3,2496,39,Mixed results,0,0,3.1
+NCT00000029,2010-07-10,2010,Bayer,neurology,Phase 2,180,8,Failed primary endpoint,0,1,-10.2
+NCT00000032,2010-07-25,2010,Roche,oncology,Phase 3,3586,41,Failed primary endpoint,0,1,-11.3
+NCT00000020,2010-08-07,2010,Merck,oncology,Phase 2,300,15,Mixed results,0,0,-6.1
+NCT00000023,2010-08-15,2010,J&J,immunology,Phase 3,493,36,Met primary endpoint,1,0,6.1
+NCT00000002,2010-08-15,2010,Novo Nordisk,psychiatry,Phase 3,1035,37,Failed primary endpoint,0,1,-5.0
+NCT00000027,2010-08-17,2010,Vertex,cardiovascular,Phase 2,418,21,Met primary endpoint,1,0,13.0
+NCT00000030,2010-08-18,2010,Roche,rare_disease,Phase 3,1219,36,Failed primary endpoint,0,1,9.5
+NCT00000018,2010-08-22,2010,GSK,metabolic,Phase 3,3169,39,Met primary endpoint,1,0,7.7
+NCT00000025,2010-09-17,2010,Takeda,cardiovascular,Phase 2,388,13,Met primary endpoint,1,0,-1.9
+NCT00000026,2010-09-21,2010,Pfizer,cardiovascular,Phase 2,502,22,Met primary endpoint,1,0,10.4
+NCT00000004,2010-10-03,2010,Eli Lilly,infectious,Phase 3,797,47,Mixed results,0,0,0.4
+NCT00000007,2010-10-17,2010,Novo Nordisk,oncology,Phase 3,1570,36,Failed primary endpoint,0,1,-3.6
+NCT00000001,2010-10-27,2010,J&J,metabolic,Phase 3,898,36,Met primary endpoint,1,0,-1.7
+NCT00000033,2010-11-06,2010,Novartis,cardiovascular,Phase 3,2235,36,Met primary endpoint,1,0,6.7
+NCT00000031,2010-11-15,2010,Roche,oncology,Phase 2,436,24,Failed primary endpoint,0,1,-2.2
+NCT00000010,2010-11-16,2010,Moderna,neurology,Phase 3,1232,25,Failed primary endpoint,0,1,-13.5
+NCT00000008,2010-12-09,2010,Novartis,oncology,Phase 3,1845,17,Failed primary endpoint,0,1,-23.0
+NCT00000058,2011-01-04,2011,Bayer,neurology,Phase 2,118,13,Met primary endpoint,1,0,18.3
+NCT00000038,2011-01-08,2011,Merck,oncology,Phase 3,723,34,Met primary endpoint,1,0,10.6
+NCT00000039,2011-01-20,2011,Gilead,cardiovascular,Phase 2,276,21,Mixed results,0,0,0.1
+NCT00000055,2011-01-27,2011,BioNTech,neurology,Phase 3,794,29,Failed primary endpoint,0,1,-8.6
+NCT00000045,2011-02-04,2011,Vertex,cardiovascular,Phase 2,348,6,Met primary endpoint,1,0,7.0
+NCT00000046,2011-02-08,2011,Sanofi,immunology,Phase 3,1907,37,Met primary endpoint,1,0,-2.6
+NCT00000050,2011-02-19,2011,AstraZeneca,immunology,Phase 2,104,17,Failed primary endpoint,0,1,-16.0
+NCT00000060,2011-02-23,2011,Pfizer,immunology,Phase 3,1449,42,Met primary endpoint,1,0,5.4
+NCT00000037,2011-02-24,2011,BMS,oncology,Phase 2,133,10,Met primary endpoint,1,0,21.6
+NCT00000054,2011-03-04,2011,Takeda,oncology,Phase 3,862,28,Mixed results,0,0,-5.9
+NCT00000061,2011-03-07,2011,Moderna,respiratory,Phase 3,716,32,Met primary endpoint,1,0,6.4
+NCT00000065,2011-03-18,2011,AstraZeneca,immunology,Phase 3,1007,37,Met primary endpoint,1,0,6.9
+NCT00000062,2011-04-10,2011,BioNTech,psychiatry,Phase 3,711,34,Met primary endpoint,1,0,14.5
+NCT00000072,2011-04-11,2011,Merck,oncology,Phase 2,142,18,Mixed results,0,0,-13.4
+NCT00000047,2011-04-24,2011,Novartis,neurology,Phase 2,270,9,Met primary endpoint,1,0,16.1
+NCT00000042,2011-05-04,2011,Novo Nordisk,immunology,Phase 2,121,27,Mixed results,0,0,-4.6
+NCT00000056,2011-05-11,2011,Novartis,oncology,Phase 2,556,20,Met primary endpoint,1,0,10.5
+NCT00000074,2011-05-13,2011,BioNTech,oncology,Phase 3,834,35,Failed primary endpoint,0,1,-17.2
+NCT00000041,2011-06-02,2011,Roche,immunology,Phase 3,1416,34,Failed primary endpoint,0,1,-33.1
+NCT00000064,2011-06-02,2011,Merck,oncology,Phase 3,923,27,Failed primary endpoint,0,1,-17.6
+NCT00000069,2011-06-03,2011,Vertex,rare_disease,Phase 2,145,23,Mixed results,0,0,-4.4
+NCT00000066,2011-06-03,2011,Takeda,rare_disease,Phase 3,1010,44,Failed primary endpoint,0,1,-35.8
+NCT00000053,2011-06-19,2011,AstraZeneca,infectious,Phase 3,489,40,Met primary endpoint,1,0,1.3
+NCT00000035,2011-06-23,2011,BMS,oncology,Phase 2,350,26,Mixed results,0,0,-6.5
+NCT00000059,2011-06-26,2011,Eli Lilly,metabolic,Phase 2,360,22,Met primary endpoint,1,0,1.1
+NCT00000051,2011-07-01,2011,Vertex,gastrointestinal,Phase 2,375,6,Met primary endpoint,1,0,4.8
+NCT00000071,2011-07-07,2011,AbbVie,rare_disease,Phase 2,134,28,Met primary endpoint,1,0,6.4
+NCT00000076,2011-07-10,2011,J&J,immunology,Phase 3,689,42,Failed primary endpoint,0,1,-0.9
+NCT00000044,2011-07-12,2011,Vertex,metabolic,Phase 2,200,14,Mixed results,0,0,-3.0
+NCT00000052,2011-07-20,2011,BioNTech,cardiovascular,Phase 2,210,21,Met primary endpoint,1,0,4.8
+NCT00000067,2011-07-25,2011,Moderna,psychiatry,Phase 3,836,32,Met primary endpoint,1,0,12.8
+NCT00000040,2011-08-03,2011,Eli Lilly,oncology,Phase 3,1818,30,Met primary endpoint,1,0,-1.1
+NCT00000063,2011-08-13,2011,Roche,oncology,Phase 3,498,29,Failed primary endpoint,0,1,-0.5
+NCT00000048,2011-09-18,2011,Regeneron,metabolic,Phase 2,148,9,Met primary endpoint,1,0,10.7
+NCT00000036,2011-10-07,2011,Moderna,oncology,Phase 2,251,18,Mixed results,0,0,-1.7
+NCT00000068,2011-10-08,2011,Moderna,respiratory,Phase 2,163,10,Met primary endpoint,1,0,4.8
+NCT00000043,2011-11-01,2011,Roche,cardiovascular,Phase 3,1179,45,Met primary endpoint,1,0,7.6
+NCT00000070,2011-11-05,2011,Merck,infectious,Phase 3,1639,19,Mixed results,0,0,-0.8
+NCT00000057,2011-11-18,2011,Novo Nordisk,infectious,Phase 2,125,22,Met primary endpoint,1,0,2.6
+NCT00000073,2011-12-08,2011,BMS,cardiovascular,Phase 2,274,18,Met primary endpoint,1,0,0.7
+NCT00000075,2011-12-11,2011,J&J,oncology,Phase 3,1190,44,Mixed results,0,0,-6.0
+NCT00000049,2011-12-26,2011,GSK,neurology,Phase 2,250,12,Mixed results,0,0,0.1
+NCT00000114,2012-01-02,2012,Novartis,oncology,Phase 3,1631,32,Failed primary endpoint,0,1,2.2
+NCT00000094,2012-02-01,2012,Novartis,neurology,Phase 3,484,43,Failed primary endpoint,0,1,-11.2
+NCT00000081,2012-02-01,2012,Novo Nordisk,metabolic,Phase 2,192,25,Met primary endpoint,1,0,7.8
+NCT00000088,2012-02-08,2012,J&J,oncology,Phase 3,356,28,Failed primary endpoint,0,1,-26.5
+NCT00000084,2012-02-10,2012,BMS,neurology,Phase 3,551,38,Met primary endpoint,1,0,8.3
+NCT00000077,2012-02-11,2012,Novo Nordisk,infectious,Phase 3,1990,37,Met primary endpoint,1,0,14.1
+NCT00000102,2012-02-11,2012,Amgen,rare_disease,Phase 2,438,10,Met primary endpoint,1,0,6.7
+NCT00000082,2012-02-20,2012,J&J,respiratory,Phase 2,214,22,Met primary endpoint,1,0,9.2
+NCT00000098,2012-02-27,2012,Pfizer,oncology,Phase 2,575,11,Met primary endpoint,1,0,6.3
+NCT00000115,2012-04-08,2012,Eli Lilly,cardiovascular,Phase 3,852,29,Failed primary endpoint,0,1,-4.9
+NCT00000079,2012-04-12,2012,Regeneron,oncology,Phase 3,1874,32,Met primary endpoint,1,0,7.8
+NCT00000110,2012-04-12,2012,Pfizer,rare_disease,Phase 2,242,14,Failed primary endpoint,0,1,-11.7
+NCT00000111,2012-04-17,2012,Pfizer,psychiatry,Phase 3,1962,34,Failed primary endpoint,0,1,-2.1
+NCT00000104,2012-04-19,2012,GSK,neurology,Phase 3,1145,29,Failed primary endpoint,0,1,2.6
+NCT00000089,2012-04-22,2012,Eli Lilly,infectious,Phase 2,217,11,Met primary endpoint,1,0,4.4
+NCT00000117,2012-04-24,2012,Bayer,cardiovascular,Phase 2,185,18,Met primary endpoint,1,0,12.9
+NCT00000100,2012-04-25,2012,Regeneron,oncology,Phase 3,641,40,Met primary endpoint,1,0,6.0
+NCT00000095,2012-05-15,2012,Boehringer Ingelheim,metabolic,Phase 2,149,25,Mixed results,0,0,-6.2
+NCT00000090,2012-05-24,2012,Amgen,oncology,Phase 3,2342,27,Failed primary endpoint,0,1,-18.5
+NCT00000080,2012-06-04,2012,AstraZeneca,immunology,Phase 2,217,16,Met primary endpoint,1,0,7.2
+NCT00000106,2012-07-01,2012,Sanofi,respiratory,Phase 3,1956,29,Met primary endpoint,1,0,15.4
+NCT00000101,2012-07-02,2012,Regeneron,oncology,Phase 3,794,38,Met primary endpoint,1,0,0.5
+NCT00000099,2012-07-21,2012,Merck,neurology,Phase 2,260,14,Met primary endpoint,1,0,5.7
+NCT00000107,2012-07-27,2012,BioNTech,cardiovascular,Phase 2,270,16,Met primary endpoint,1,0,3.5
+NCT00000105,2012-08-01,2012,BioNTech,rare_disease,Phase 3,3409,35,Failed primary endpoint,0,1,-16.4
+NCT00000112,2012-08-02,2012,AstraZeneca,rare_disease,Phase 3,2629,40,Met primary endpoint,1,0,21.0
+NCT00000078,2012-08-06,2012,GSK,oncology,Phase 3,2673,34,Failed primary endpoint,0,1,-21.9
+NCT00000086,2012-08-11,2012,Boehringer Ingelheim,neurology,Phase 2,324,33,Failed primary endpoint,0,1,-36.6
+NCT00000083,2012-08-14,2012,Moderna,neurology,Phase 2,246,11,Mixed results,0,0,-7.6
+NCT00000109,2012-09-09,2012,Pfizer,infectious,Phase 2,550,17,Met primary endpoint,1,0,16.6
+NCT00000093,2012-09-13,2012,Pfizer,gastrointestinal,Phase 2,275,26,Met primary endpoint,1,0,13.1
+NCT00000092,2012-09-21,2012,Takeda,neurology,Phase 3,1166,32,Failed primary endpoint,0,1,-17.5
+NCT00000116,2012-09-24,2012,Moderna,oncology,Phase 3,4179,43,Failed primary endpoint,0,1,-10.5
+NCT00000113,2012-10-02,2012,BMS,oncology,Phase 3,1065,23,Met primary endpoint,1,0,3.6
+NCT00000085,2012-10-04,2012,J&J,oncology,Phase 2,320,36,Met primary endpoint,1,0,-2.1
+NCT00000097,2012-10-21,2012,AstraZeneca,oncology,Phase 3,662,42,Mixed results,0,0,1.6
+NCT00000096,2012-10-22,2012,AstraZeneca,oncology,Phase 2,688,14,Met primary endpoint,1,0,3.9
+NCT00000108,2012-11-04,2012,Bayer,oncology,Phase 2,497,21,Met primary endpoint,1,0,11.9
+NCT00000103,2012-11-15,2012,Moderna,neurology,Phase 3,478,34,Failed primary endpoint,0,1,-14.8
+NCT00000087,2012-11-22,2012,Bayer,oncology,Phase 2,151,18,Failed primary endpoint,0,1,-2.7
+NCT00000091,2012-12-19,2012,Novo Nordisk,oncology,Phase 2,590,29,Failed primary endpoint,0,1,-9.5
+NCT00000132,2013-01-11,2013,Amgen,immunology,Phase 2,182,17,Met primary endpoint,1,0,13.5
+NCT00000124,2013-01-11,2013,Sanofi,cardiovascular,Phase 2,225,17,Met primary endpoint,1,0,5.7
+NCT00000130,2013-01-23,2013,GSK,neurology,Phase 3,1689,27,Failed primary endpoint,0,1,-12.8
+NCT00000126,2013-02-01,2013,BMS,immunology,Phase 3,832,35,Mixed results,0,0,-7.6
+NCT00000135,2013-02-01,2013,Boehringer Ingelheim,metabolic,Phase 3,1527,34,Failed primary endpoint,0,1,-8.0
+NCT00000123,2013-02-02,2013,Gilead,rare_disease,Phase 3,571,34,Failed primary endpoint,0,1,-14.9
+NCT00000150,2013-02-08,2013,Novartis,immunology,Phase 3,679,39,Met primary endpoint,1,0,7.3
+NCT00000143,2013-02-13,2013,Novo Nordisk,cardiovascular,Phase 3,1938,31,Met primary endpoint,1,0,6.4
+NCT00000145,2013-03-27,2013,Roche,oncology,Phase 3,604,29,Mixed results,0,0,-6.1
+NCT00000152,2013-04-19,2013,Pfizer,immunology,Phase 3,1065,46,Mixed results,0,0,4.5
+NCT00000127,2013-04-26,2013,Merck,oncology,Phase 3,838,36,Failed primary endpoint,0,1,-34.5
+NCT00000131,2013-05-02,2013,Eli Lilly,cardiovascular,Phase 2,142,17,Met primary endpoint,1,0,-4.5
+NCT00000118,2013-05-12,2013,Roche,rare_disease,Phase 2,93,9,Mixed results,0,0,-3.6
+NCT00000144,2013-05-16,2013,Roche,neurology,Phase 2,206,22,Mixed results,0,0,-5.0
+NCT00000125,2013-06-02,2013,Amgen,metabolic,Phase 3,2212,29,Failed primary endpoint,0,1,-9.1
+NCT00000122,2013-06-05,2013,J&J,neurology,Phase 3,845,35,Met primary endpoint,1,0,13.3
+NCT00000128,2013-06-08,2013,Eli Lilly,metabolic,Phase 3,1121,38,Met primary endpoint,1,0,4.8
+NCT00000156,2013-06-11,2013,AstraZeneca,oncology,Phase 3,889,38,Met primary endpoint,1,0,17.6
+NCT00000119,2013-06-15,2013,AstraZeneca,cardiovascular,Phase 3,1722,42,Failed primary endpoint,0,1,-4.3
+NCT00000121,2013-06-16,2013,Novo Nordisk,oncology,Phase 3,543,29,Failed primary endpoint,0,1,-0.9
+NCT00000149,2013-06-18,2013,AbbVie,metabolic,Phase 3,1502,37,Mixed results,0,0,2.9
+NCT00000129,2013-06-25,2013,GSK,oncology,Phase 3,952,35,Failed primary endpoint,0,1,-20.2
+NCT00000137,2013-07-01,2013,BioNTech,immunology,Phase 3,2502,33,Met primary endpoint,1,0,10.1
+NCT00000134,2013-07-21,2013,Moderna,oncology,Phase 3,491,36,Mixed results,0,0,-4.8
+NCT00000157,2013-07-25,2013,AbbVie,oncology,Phase 3,1582,40,Failed primary endpoint,0,1,-16.2
+NCT00000140,2013-07-27,2013,GSK,infectious,Phase 2,200,21,Met primary endpoint,1,0,20.2
+NCT00000133,2013-08-07,2013,Bayer,cardiovascular,Phase 2,231,21,Met primary endpoint,1,0,4.5
+NCT00000147,2013-08-07,2013,Novartis,oncology,Phase 3,389,41,Met primary endpoint,1,0,17.2
+NCT00000136,2013-08-08,2013,Regeneron,cardiovascular,Phase 2,150,8,Met primary endpoint,1,0,8.5
+NCT00000141,2013-08-11,2013,BioNTech,gastrointestinal,Phase 2,213,7,Mixed results,0,0,-4.6
+NCT00000138,2013-09-01,2013,Merck,rare_disease,Phase 3,1034,31,Mixed results,0,0,-13.8
+NCT00000139,2013-09-08,2013,BMS,oncology,Phase 2,224,21,Mixed results,0,0,-6.6
+NCT00000120,2013-10-02,2013,AbbVie,rare_disease,Phase 3,268,34,Met primary endpoint,1,0,14.4
+NCT00000142,2013-10-07,2013,AstraZeneca,cardiovascular,Phase 2,132,21,Met primary endpoint,1,0,10.2
+NCT00000151,2013-10-10,2013,GSK,psychiatry,Phase 2,530,23,Failed primary endpoint,0,1,2.4
+NCT00000148,2013-10-15,2013,Merck,infectious,Phase 2,405,14,Met primary endpoint,1,0,16.9
+NCT00000158,2013-10-22,2013,Pfizer,infectious,Phase 3,831,36,Met primary endpoint,1,0,9.7
+NCT00000146,2013-11-12,2013,J&J,oncology,Phase 3,771,27,Failed primary endpoint,0,1,-3.8
+NCT00000153,2013-11-26,2013,Eli Lilly,immunology,Phase 3,544,42,Met primary endpoint,1,0,6.7
+NCT00000159,2013-12-06,2013,Amgen,oncology,Phase 2,261,14,Met primary endpoint,1,0,7.7
+NCT00000155,2013-12-08,2013,Sanofi,immunology,Phase 2,179,22,Failed primary endpoint,0,1,-29.5
+NCT00000154,2013-12-20,2013,Vertex,rare_disease,Phase 3,548,45,Met primary endpoint,1,0,7.8
+NCT00000174,2014-01-07,2014,Takeda,oncology,Phase 2,218,13,Mixed results,0,0,-8.4
+NCT00000176,2014-01-15,2014,Amgen,metabolic,Phase 3,783,38,Mixed results,0,0,-11.1
+NCT00000189,2014-01-26,2014,Gilead,immunology,Phase 3,504,36,Met primary endpoint,1,0,13.5
+NCT00000185,2014-02-23,2014,J&J,infectious,Phase 2,224,9,Met primary endpoint,1,0,6.3
+NCT00000167,2014-03-05,2014,BMS,cardiovascular,Phase 3,1729,30,Met primary endpoint,1,0,1.9
+NCT00000190,2014-03-06,2014,Novartis,oncology,Phase 2,351,19,Met primary endpoint,1,0,10.9
+NCT00000184,2014-03-18,2014,AbbVie,cardiovascular,Phase 2,170,16,Failed primary endpoint,0,1,-23.9
+NCT00000171,2014-03-22,2014,AstraZeneca,gastrointestinal,Phase 2,161,22,Failed primary endpoint,0,1,-10.3
+NCT00000162,2014-04-01,2014,Moderna,neurology,Phase 2,164,22,Met primary endpoint,1,0,16.9
+NCT00000186,2014-04-05,2014,J&J,immunology,Phase 3,1469,31,Mixed results,0,0,2.9
+NCT00000160,2014-04-15,2014,Boehringer Ingelheim,metabolic,Phase 3,334,20,Met primary endpoint,1,0,13.9
+NCT00000187,2014-04-17,2014,Roche,rare_disease,Phase 3,1124,44,Failed primary endpoint,0,1,-7.3
+NCT00000166,2014-04-24,2014,Pfizer,psychiatry,Phase 3,461,42,Met primary endpoint,1,0,11.3
+NCT00000175,2014-04-26,2014,Gilead,immunology,Phase 2,502,15,Met primary endpoint,1,0,8.9
+NCT00000181,2014-05-03,2014,Regeneron,gastrointestinal,Phase 3,424,45,Failed primary endpoint,0,1,4.7
+NCT00000180,2014-05-03,2014,Novartis,rare_disease,Phase 3,543,34,Failed primary endpoint,0,1,-0.7
+NCT00000170,2014-05-12,2014,Takeda,infectious,Phase 3,532,29,Met primary endpoint,1,0,6.1
+NCT00000177,2014-05-18,2014,Pfizer,respiratory,Phase 3,1737,46,Met primary endpoint,1,0,14.9
+NCT00000182,2014-06-06,2014,AbbVie,oncology,Phase 3,1709,32,Failed primary endpoint,0,1,-26.1
+NCT00000183,2014-06-10,2014,Regeneron,oncology,Phase 3,1665,42,Met primary endpoint,1,0,8.2
+NCT00000191,2014-07-07,2014,Sanofi,oncology,Phase 3,1883,25,Mixed results,0,0,4.9
+NCT00000179,2014-08-16,2014,Roche,oncology,Phase 3,2629,37,Met primary endpoint,1,0,10.3
+NCT00000165,2014-08-17,2014,AstraZeneca,oncology,Phase 2,128,27,Met primary endpoint,1,0,7.9
+NCT00000161,2014-09-03,2014,Boehringer Ingelheim,immunology,Phase 3,553,38,Failed primary endpoint,0,1,-5.8
+NCT00000173,2014-09-20,2014,Amgen,rare_disease,Phase 3,501,44,Failed primary endpoint,0,1,-18.3
+NCT00000172,2014-11-06,2014,Novartis,immunology,Phase 3,1654,48,Met primary endpoint,1,0,5.0
+NCT00000188,2014-11-17,2014,Pfizer,cardiovascular,Phase 3,1149,33,Met primary endpoint,1,0,16.4
+NCT00000178,2014-11-23,2014,J&J,oncology,Phase 3,1592,31,Met primary endpoint,1,0,6.3
+NCT00000169,2014-11-24,2014,Pfizer,oncology,Phase 2,144,15,Met primary endpoint,1,0,13.0
+NCT00000168,2014-12-12,2014,Sanofi,oncology,Phase 2,202,16,Met primary endpoint,1,0,12.0
+NCT00000163,2014-12-14,2014,BMS,oncology,Phase 2,52,25,Mixed results,0,0,-13.6
+NCT00000164,2014-12-14,2014,GSK,oncology,Phase 3,852,36,Met primary endpoint,1,0,1.5
+NCT00000201,2015-01-04,2015,Boehringer Ingelheim,neurology,Phase 3,794,36,Failed primary endpoint,0,1,-22.7
+NCT00000219,2015-01-12,2015,Moderna,rare_disease,Phase 3,1530,38,Failed primary endpoint,0,1,-19.2
+NCT00000224,2015-01-13,2015,AbbVie,oncology,Phase 2,265,14,Mixed results,0,0,-2.7
+NCT00000226,2015-01-25,2015,Regeneron,metabolic,Phase 2,242,10,Met primary endpoint,1,0,5.6
+NCT00000213,2015-02-04,2015,AstraZeneca,infectious,Phase 3,648,39,Failed primary endpoint,0,1,-15.9
+NCT00000217,2015-02-05,2015,Regeneron,oncology,Phase 3,811,30,Met primary endpoint,1,0,12.5
+NCT00000208,2015-02-14,2015,GSK,cardiovascular,Phase 3,841,37,Met primary endpoint,1,0,9.7
+NCT00000209,2015-02-20,2015,Boehringer Ingelheim,rare_disease,Phase 2,183,14,Met primary endpoint,1,0,3.5
+NCT00000199,2015-02-26,2015,Roche,immunology,Phase 2,115,17,Met primary endpoint,1,0,8.9
+NCT00000202,2015-03-11,2015,Roche,cardiovascular,Phase 2,185,37,Met primary endpoint,1,0,4.1
+NCT00000222,2015-03-16,2015,Amgen,oncology,Phase 3,1519,33,Met primary endpoint,1,0,0.2
+NCT00000203,2015-05-01,2015,BioNTech,neurology,Phase 2,220,15,Met primary endpoint,1,0,12.5
+NCT00000214,2015-05-07,2015,AstraZeneca,cardiovascular,Phase 3,1515,30,Met primary endpoint,1,0,1.7
+NCT00000216,2015-06-06,2015,AstraZeneca,rare_disease,Phase 3,1411,21,Met primary endpoint,1,0,3.3
+NCT00000205,2015-06-12,2015,AbbVie,immunology,Phase 2,130,17,Failed primary endpoint,0,1,-13.6
+NCT00000221,2015-06-20,2015,BioNTech,neurology,Phase 3,942,31,Failed primary endpoint,0,1,6.6
+NCT00000198,2015-06-20,2015,Regeneron,infectious,Phase 2,290,21,Met primary endpoint,1,0,10.1
+NCT00000212,2015-07-04,2015,Takeda,metabolic,Phase 3,1219,33,Met primary endpoint,1,0,2.4
+NCT00000215,2015-07-15,2015,AstraZeneca,metabolic,Phase 3,1378,43,Met primary endpoint,1,0,4.6
+NCT00000227,2015-07-16,2015,Novartis,neurology,Phase 3,2639,40,Failed primary endpoint,0,1,-26.3
+NCT00000200,2015-07-18,2015,Pfizer,gastrointestinal,Phase 3,408,38,Failed primary endpoint,0,1,-13.3
+NCT00000218,2015-07-18,2015,Boehringer Ingelheim,infectious,Phase 2,170,26,Met primary endpoint,1,0,16.4
+NCT00000211,2015-07-26,2015,BioNTech,neurology,Phase 2,188,13,Met primary endpoint,1,0,8.4
+NCT00000197,2015-08-10,2015,Pfizer,oncology,Phase 3,1377,43,Failed primary endpoint,0,1,-16.7
+NCT00000193,2015-08-13,2015,Vertex,rare_disease,Phase 3,1402,37,Failed primary endpoint,0,1,-15.9
+NCT00000206,2015-09-25,2015,Gilead,immunology,Phase 2,266,9,Met primary endpoint,1,0,11.3
+NCT00000196,2015-10-16,2015,Sanofi,oncology,Phase 2,370,14,Failed primary endpoint,0,1,-31.8
+NCT00000192,2015-10-17,2015,Novo Nordisk,metabolic,Phase 2,334,16,Met primary endpoint,1,0,4.6
+NCT00000220,2015-10-18,2015,AbbVie,cardiovascular,Phase 3,1540,40,Met primary endpoint,1,0,10.4
+NCT00000204,2015-10-20,2015,BMS,cardiovascular,Phase 3,2265,36,Met primary endpoint,1,0,11.1
+NCT00000225,2015-11-02,2015,Takeda,oncology,Phase 2,98,13,Met primary endpoint,1,0,9.6
+NCT00000195,2015-11-11,2015,Moderna,infectious,Phase 2,377,17,Mixed results,0,0,0.5
+NCT00000207,2015-11-20,2015,Eli Lilly,oncology,Phase 2,529,26,Met primary endpoint,1,0,5.6
+NCT00000210,2015-11-25,2015,Boehringer Ingelheim,oncology,Phase 3,979,29,Failed primary endpoint,0,1,-20.7
+NCT00000223,2015-12-08,2015,Amgen,oncology,Phase 3,976,38,Mixed results,0,0,-6.4
+NCT00000194,2015-12-17,2015,Sanofi,neurology,Phase 3,897,30,Failed primary endpoint,0,1,-9.1
+NCT00000252,2016-01-01,2016,BioNTech,neurology,Phase 2,168,13,Met primary endpoint,1,0,4.0
+NCT00000229,2016-01-13,2016,Vertex,cardiovascular,Phase 2,146,15,Met primary endpoint,1,0,16.5
+NCT00000250,2016-01-15,2016,AstraZeneca,oncology,Phase 3,571,45,Failed primary endpoint,0,1,-33.5
+NCT00000228,2016-01-16,2016,Sanofi,immunology,Phase 3,1139,50,Failed primary endpoint,0,1,-3.5
+NCT00000237,2016-01-18,2016,Pfizer,oncology,Phase 2,325,23,Met primary endpoint,1,0,-4.2
+NCT00000253,2016-03-06,2016,Roche,immunology,Phase 2,228,22,Met primary endpoint,1,0,12.8
+NCT00000232,2016-03-08,2016,AstraZeneca,respiratory,Phase 2,184,15,Failed primary endpoint,0,1,-8.3
+NCT00000235,2016-04-04,2016,Roche,neurology,Phase 2,254,15,Failed primary endpoint,0,1,-22.9
+NCT00000230,2016-04-06,2016,Vertex,oncology,Phase 3,359,43,Mixed results,0,0,-0.8
+NCT00000242,2016-04-11,2016,Eli Lilly,metabolic,Phase 2,149,6,Met primary endpoint,1,0,11.8
+NCT00000255,2016-05-08,2016,AstraZeneca,oncology,Phase 2,208,14,Mixed results,0,0,3.9
+NCT00000238,2016-05-15,2016,Amgen,cardiovascular,Phase 2,994,16,Met primary endpoint,1,0,3.4
+NCT00000240,2016-05-17,2016,Pfizer,gastrointestinal,Phase 3,513,37,Mixed results,0,0,-4.2
+NCT00000244,2016-05-23,2016,Moderna,neurology,Phase 3,1101,21,Failed primary endpoint,0,1,-3.7
+NCT00000257,2016-05-25,2016,Amgen,oncology,Phase 3,2851,37,Mixed results,0,0,-8.6
+NCT00000236,2016-05-27,2016,Amgen,immunology,Phase 3,522,35,Met primary endpoint,1,0,7.5
+NCT00000247,2016-05-27,2016,Pfizer,oncology,Phase 3,1374,32,Failed primary endpoint,0,1,-13.1
+NCT00000256,2016-06-06,2016,Novo Nordisk,rare_disease,Phase 2,127,16,Failed primary endpoint,0,1,-11.7
+NCT00000241,2016-07-04,2016,Merck,cardiovascular,Phase 3,1473,34,Failed primary endpoint,0,1,-29.5
+NCT00000258,2016-07-11,2016,GSK,infectious,Phase 2,342,22,Met primary endpoint,1,0,8.7
+NCT00000233,2016-08-08,2016,Merck,oncology,Phase 2,308,26,Failed primary endpoint,0,1,-19.4
+NCT00000234,2016-08-19,2016,Novo Nordisk,psychiatry,Phase 2,170,11,Failed primary endpoint,0,1,-17.0
+NCT00000243,2016-09-13,2016,Roche,oncology,Phase 2,197,21,Met primary endpoint,1,0,3.7
+NCT00000246,2016-09-19,2016,AbbVie,oncology,Phase 2,259,20,Met primary endpoint,1,0,4.0
+NCT00000231,2016-10-06,2016,BMS,oncology,Phase 2,84,18,Failed primary endpoint,0,1,-16.0
+NCT00000248,2016-10-12,2016,Vertex,gastrointestinal,Phase 3,777,41,Met primary endpoint,1,0,-3.9
+NCT00000254,2016-10-14,2016,Amgen,oncology,Phase 3,1458,32,Failed primary endpoint,0,1,-10.7
+NCT00000251,2016-11-15,2016,Bayer,oncology,Phase 3,297,32,Failed primary endpoint,0,1,-5.6
+NCT00000245,2016-11-22,2016,Moderna,immunology,Phase 2,510,14,Met primary endpoint,1,0,9.7
+NCT00000249,2016-12-12,2016,Gilead,neurology,Phase 3,1449,41,Met primary endpoint,1,0,9.7
+NCT00000239,2016-12-25,2016,Bayer,metabolic,Phase 3,634,33,Failed primary endpoint,0,1,-6.9
+NCT00000298,2017-01-14,2017,Novo Nordisk,oncology,Phase 3,1563,39,Mixed results,0,0,-9.0
+NCT00000264,2017-01-21,2017,Moderna,oncology,Phase 3,865,41,Mixed results,0,0,-7.3
+NCT00000277,2017-02-02,2017,BioNTech,respiratory,Phase 2,354,22,Met primary endpoint,1,0,2.3
+NCT00000286,2017-02-07,2017,Boehringer Ingelheim,psychiatry,Phase 2,92,18,Failed primary endpoint,0,1,-20.4
+NCT00000259,2017-02-18,2017,Moderna,metabolic,Phase 3,1405,32,Met primary endpoint,1,0,10.0
+NCT00000266,2017-02-20,2017,Pfizer,oncology,Phase 3,800,26,Met primary endpoint,1,0,13.9
+NCT00000285,2017-03-02,2017,AstraZeneca,immunology,Phase 2,268,6,Met primary endpoint,1,0,14.5
+NCT00000265,2017-03-19,2017,Novo Nordisk,oncology,Phase 3,1716,34,Failed primary endpoint,0,1,-20.4
+NCT00000299,2017-03-21,2017,AstraZeneca,infectious,Phase 3,1216,36,Met primary endpoint,1,0,4.3
+NCT00000294,2017-03-23,2017,Sanofi,rare_disease,Phase 3,2529,36,Failed primary endpoint,0,1,-10.3
+NCT00000262,2017-04-01,2017,GSK,infectious,Phase 2,100,24,Met primary endpoint,1,0,11.3
+NCT00000287,2017-04-01,2017,Merck,rare_disease,Phase 3,1529,27,Met primary endpoint,1,0,7.8
+NCT00000292,2017-04-03,2017,Roche,rare_disease,Phase 2,123,23,Met primary endpoint,1,0,1.1
+NCT00000269,2017-04-10,2017,BioNTech,neurology,Phase 3,1068,46,Failed primary endpoint,0,1,-5.4
+NCT00000296,2017-04-26,2017,Takeda,cardiovascular,Phase 2,444,10,Met primary endpoint,1,0,10.8
+NCT00000280,2017-05-10,2017,BMS,immunology,Phase 3,2401,42,Failed primary endpoint,0,1,-26.6
+NCT00000267,2017-05-19,2017,Eli Lilly,oncology,Phase 3,1717,34,Failed primary endpoint,0,1,-1.3
+NCT00000293,2017-05-27,2017,Novo Nordisk,rare_disease,Phase 2,153,12,Met primary endpoint,1,0,10.4
+NCT00000297,2017-06-01,2017,Amgen,cardiovascular,Phase 3,262,34,Met primary endpoint,1,0,8.1
+NCT00000260,2017-06-24,2017,Amgen,oncology,Phase 3,2343,39,Mixed results,0,0,-1.9
+NCT00000281,2017-08-01,2017,Eli Lilly,cardiovascular,Phase 3,317,34,Met primary endpoint,1,0,10.7
+NCT00000270,2017-08-06,2017,BMS,metabolic,Phase 2,162,20,Met primary endpoint,1,0,1.3
+NCT00000278,2017-08-10,2017,GSK,oncology,Phase 2,218,6,Failed primary endpoint,0,1,-20.1
+NCT00000273,2017-08-13,2017,AstraZeneca,infectious,Phase 3,2089,35,Failed primary endpoint,0,1,-20.4
+NCT00000288,2017-09-04,2017,Boehringer Ingelheim,oncology,Phase 3,1037,29,Met primary endpoint,1,0,13.3
+NCT00000279,2017-09-19,2017,Novartis,cardiovascular,Phase 3,781,30,Mixed results,0,0,-7.6
+NCT00000289,2017-09-22,2017,Merck,oncology,Phase 3,978,34,Met primary endpoint,1,0,9.3
+NCT00000290,2017-09-25,2017,BMS,rare_disease,Phase 3,886,33,Met primary endpoint,1,0,6.3
+NCT00000268,2017-10-04,2017,Amgen,immunology,Phase 3,978,34,Mixed results,0,0,-9.7
+NCT00000284,2017-10-08,2017,Takeda,immunology,Phase 2,375,21,Met primary endpoint,1,0,6.9
+NCT00000271,2017-10-12,2017,Vertex,immunology,Phase 2,54,8,Met primary endpoint,1,0,-1.4
+NCT00000274,2017-10-22,2017,Regeneron,oncology,Phase 2,180,18,Failed primary endpoint,0,1,-4.6
+NCT00000282,2017-10-27,2017,Bayer,rare_disease,Phase 2,229,12,Met primary endpoint,1,0,6.5
+NCT00000276,2017-11-01,2017,Bayer,oncology,Phase 2,276,21,Mixed results,0,0,-9.1
+NCT00000261,2017-11-08,2017,AbbVie,immunology,Phase 2,222,17,Failed primary endpoint,0,1,-15.1
+NCT00000291,2017-11-11,2017,BioNTech,metabolic,Phase 2,183,12,Mixed results,0,0,-7.8
+NCT00000275,2017-11-25,2017,Eli Lilly,metabolic,Phase 3,861,31,Met primary endpoint,1,0,4.9
+NCT00000295,2017-12-16,2017,GSK,metabolic,Phase 3,1642,34,Met primary endpoint,1,0,8.0
+NCT00000263,2017-12-19,2017,BioNTech,infectious,Phase 2,151,24,Met primary endpoint,1,0,17.9
+NCT00000272,2017-12-24,2017,J&J,oncology,Phase 2,248,19,Met primary endpoint,1,0,5.9
+NCT00000283,2017-12-26,2017,Amgen,rare_disease,Phase 2,241,21,Met primary endpoint,1,0,5.8
+NCT00000322,2018-02-12,2018,Moderna,metabolic,Phase 2,272,18,Met primary endpoint,1,0,12.6
+NCT00000327,2018-02-15,2018,Takeda,oncology,Phase 3,1519,37,Failed primary endpoint,0,1,-2.2
+NCT00000307,2018-03-14,2018,Pfizer,oncology,Phase 3,732,36,Failed primary endpoint,0,1,-19.8
+NCT00000316,2018-03-16,2018,BioNTech,neurology,Phase 2,292,18,Failed primary endpoint,0,1,-23.5
+NCT00000304,2018-04-03,2018,Novo Nordisk,immunology,Phase 2,558,13,Failed primary endpoint,0,1,-21.0
+NCT00000335,2018-04-10,2018,Moderna,rare_disease,Phase 2,388,14,Met primary endpoint,1,0,9.3
+NCT00000324,2018-04-17,2018,BioNTech,rare_disease,Phase 2,87,14,Met primary endpoint,1,0,11.8
+NCT00000321,2018-05-04,2018,BioNTech,infectious,Phase 3,2695,27,Met primary endpoint,1,0,4.1
+NCT00000312,2018-05-08,2018,Gilead,cardiovascular,Phase 3,865,25,Met primary endpoint,1,0,9.6
+NCT00000315,2018-05-11,2018,Vertex,infectious,Phase 3,3095,32,Met primary endpoint,1,0,7.3
+NCT00000303,2018-06-03,2018,Eli Lilly,oncology,Phase 2,179,9,Failed primary endpoint,0,1,-29.8
+NCT00000326,2018-06-11,2018,Roche,oncology,Phase 2,523,26,Failed primary endpoint,0,1,-2.4
+NCT00000302,2018-06-12,2018,Pfizer,oncology,Phase 3,1729,32,Failed primary endpoint,0,1,-23.1
+NCT00000318,2018-06-17,2018,BioNTech,metabolic,Phase 3,1272,38,Met primary endpoint,1,0,10.1
+NCT00000328,2018-06-26,2018,Amgen,infectious,Phase 3,1677,27,Met primary endpoint,1,0,16.2
+NCT00000311,2018-08-02,2018,BMS,immunology,Phase 2,330,18,Mixed results,0,0,-8.8
+NCT00000301,2018-08-03,2018,Gilead,oncology,Phase 3,975,35,Failed primary endpoint,0,1,-4.4
+NCT00000331,2018-08-04,2018,BMS,psychiatry,Phase 2,343,22,Met primary endpoint,1,0,13.2
+NCT00000314,2018-08-06,2018,Vertex,oncology,Phase 2,542,18,Mixed results,0,0,-6.3
+NCT00000334,2018-08-11,2018,Sanofi,gastrointestinal,Phase 3,1696,33,Met primary endpoint,1,0,3.8
+NCT00000313,2018-08-17,2018,Eli Lilly,neurology,Phase 3,434,48,Failed primary endpoint,0,1,-36.9
+NCT00000332,2018-09-01,2018,Boehringer Ingelheim,infectious,Phase 2,595,25,Met primary endpoint,1,0,7.9
+NCT00000333,2018-09-04,2018,BMS,oncology,Phase 3,1681,42,Failed primary endpoint,0,1,-32.3
+NCT00000320,2018-09-17,2018,Regeneron,oncology,Phase 2,132,12,Met primary endpoint,1,0,8.7
+NCT00000305,2018-10-04,2018,AbbVie,oncology,Phase 2,373,24,Failed primary endpoint,0,1,-20.3
+NCT00000310,2018-10-19,2018,Moderna,immunology,Phase 2,359,17,Failed primary endpoint,0,1,-9.1
+NCT00000323,2018-10-22,2018,Vertex,oncology,Phase 3,413,35,Failed primary endpoint,0,1,-6.6
+NCT00000330,2018-10-25,2018,Merck,cardiovascular,Phase 3,2041,39,Met primary endpoint,1,0,7.7
+NCT00000306,2018-11-15,2018,Takeda,neurology,Phase 3,239,39,Met primary endpoint,1,0,2.4
+NCT00000319,2018-11-20,2018,Gilead,oncology,Phase 2,96,18,Met primary endpoint,1,0,9.0
+NCT00000317,2018-11-23,2018,GSK,metabolic,Phase 3,745,51,Met primary endpoint,1,0,8.7
+NCT00000308,2018-11-26,2018,Regeneron,infectious,Phase 2,205,8,Met primary endpoint,1,0,-0.4
+NCT00000325,2018-12-01,2018,BioNTech,gastrointestinal,Phase 2,295,23,Failed primary endpoint,0,1,-5.0
+NCT00000309,2018-12-11,2018,AbbVie,immunology,Phase 3,410,41,Met primary endpoint,1,0,5.3
+NCT00000329,2018-12-11,2018,Novartis,gastrointestinal,Phase 3,1588,50,Met primary endpoint,1,0,15.1
+NCT00000300,2018-12-25,2018,Pfizer,infectious,Phase 3,524,35,Met primary endpoint,1,0,6.2
+NCT00000362,2019-01-03,2019,Regeneron,immunology,Phase 2,96,22,Met primary endpoint,1,0,7.3
+NCT00000364,2019-01-20,2019,GSK,oncology,Phase 2,438,17,Met primary endpoint,1,0,7.6
+NCT00000356,2019-02-08,2019,J&J,oncology,Phase 3,908,40,Met primary endpoint,1,0,3.0
+NCT00000338,2019-02-11,2019,AstraZeneca,infectious,Phase 2,128,17,Met primary endpoint,1,0,12.9
+NCT00000358,2019-02-20,2019,Boehringer Ingelheim,oncology,Phase 3,853,37,Failed primary endpoint,0,1,0.7
+NCT00000343,2019-03-06,2019,Bayer,cardiovascular,Phase 2,109,20,Met primary endpoint,1,0,9.2
+NCT00000361,2019-03-22,2019,Eli Lilly,respiratory,Phase 2,180,20,Met primary endpoint,1,0,4.0
+NCT00000348,2019-04-03,2019,Moderna,rare_disease,Phase 3,1502,28,Met primary endpoint,1,0,12.2
+NCT00000342,2019-04-04,2019,GSK,neurology,Phase 3,1467,28,Failed primary endpoint,0,1,-16.0
+NCT00000359,2019-05-04,2019,Moderna,immunology,Phase 2,196,24,Met primary endpoint,1,0,5.4
+NCT00000360,2019-05-19,2019,Amgen,oncology,Phase 3,1598,32,Failed primary endpoint,0,1,-29.1
+NCT00000357,2019-06-16,2019,Bayer,immunology,Phase 3,1693,41,Failed primary endpoint,0,1,-16.8
+NCT00000339,2019-07-09,2019,Gilead,oncology,Phase 2,223,13,Met primary endpoint,1,0,10.0
+NCT00000345,2019-07-10,2019,J&J,infectious,Phase 2,265,10,Met primary endpoint,1,0,4.8
+NCT00000368,2019-07-12,2019,Moderna,cardiovascular,Phase 3,1088,32,Mixed results,0,0,-2.0
+NCT00000350,2019-07-16,2019,J&J,oncology,Phase 2,225,16,Mixed results,0,0,-2.7
+NCT00000355,2019-08-02,2019,Eli Lilly,neurology,Phase 2,341,20,Mixed results,0,0,-4.4
+NCT00000344,2019-08-05,2019,Sanofi,cardiovascular,Phase 3,1236,39,Met primary endpoint,1,0,11.3
+NCT00000347,2019-08-09,2019,Vertex,rare_disease,Phase 3,1001,39,Failed primary endpoint,0,1,-15.0
+NCT00000337,2019-09-03,2019,Gilead,oncology,Phase 3,584,40,Met primary endpoint,1,0,11.2
+NCT00000340,2019-09-06,2019,Roche,neurology,Phase 3,973,32,Met primary endpoint,1,0,8.2
+NCT00000341,2019-09-14,2019,Eli Lilly,cardiovascular,Phase 3,1076,29,Failed primary endpoint,0,1,-4.2
+NCT00000354,2019-09-15,2019,Novo Nordisk,psychiatry,Phase 3,1066,36,Failed primary endpoint,0,1,-12.5
+NCT00000366,2019-09-18,2019,GSK,immunology,Phase 3,897,41,Failed primary endpoint,0,1,-12.6
+NCT00000353,2019-09-27,2019,Novartis,gastrointestinal,Phase 2,221,18,Met primary endpoint,1,0,14.6
+NCT00000367,2019-10-24,2019,Regeneron,oncology,Phase 3,3225,48,Mixed results,0,0,-11.7
+NCT00000336,2019-10-26,2019,Bayer,rare_disease,Phase 2,173,13,Met primary endpoint,1,0,12.3
+NCT00000351,2019-11-11,2019,Takeda,psychiatry,Phase 2,148,20,Failed primary endpoint,0,1,-26.8
+NCT00000349,2019-11-15,2019,Gilead,respiratory,Phase 2,326,9,Met primary endpoint,1,0,5.9
+NCT00000346,2019-11-22,2019,Vertex,neurology,Phase 2,463,15,Failed primary endpoint,0,1,-23.2
+NCT00000363,2019-12-07,2019,Vertex,metabolic,Phase 2,166,23,Met primary endpoint,1,0,9.2
+NCT00000365,2019-12-08,2019,Sanofi,gastrointestinal,Phase 2,182,7,Met primary endpoint,1,0,1.9
+NCT00000352,2019-12-24,2019,Gilead,oncology,Phase 2,138,25,Met primary endpoint,1,0,3.3
+NCT00000370,2020-01-05,2020,Sanofi,immunology,Phase 2,91,17,Met primary endpoint,1,0,17.6
+NCT00000385,2020-01-19,2020,Pfizer,metabolic,Phase 3,1443,40,Met primary endpoint,1,0,18.3
+NCT00000375,2020-01-23,2020,Novartis,infectious,Phase 3,985,42,Met primary endpoint,1,0,12.7
+NCT00000382,2020-02-02,2020,J&J,cardiovascular,Phase 3,1398,32,Met primary endpoint,1,0,10.8
+NCT00000390,2020-02-07,2020,Regeneron,neurology,Phase 2,338,22,Failed primary endpoint,0,1,-9.4
+NCT00000378,2020-02-08,2020,AstraZeneca,gastrointestinal,Phase 2,149,26,Met primary endpoint,1,0,7.6
+NCT00000372,2020-03-03,2020,Bayer,metabolic,Phase 3,869,31,Met primary endpoint,1,0,10.4
+NCT00000383,2020-03-23,2020,Takeda,infectious,Phase 2,679,10,Met primary endpoint,1,0,9.0
+NCT00000374,2020-04-05,2020,Boehringer Ingelheim,infectious,Phase 3,1761,40,Met primary endpoint,1,0,7.6
+NCT00000380,2020-04-06,2020,Pfizer,oncology,Phase 3,1336,40,Mixed results,0,0,-4.1
+NCT00000379,2020-04-12,2020,J&J,immunology,Phase 2,352,10,Failed primary endpoint,0,1,-1.0
+NCT00000387,2020-05-17,2020,Pfizer,cardiovascular,Phase 3,454,35,Met primary endpoint,1,0,6.5
+NCT00000377,2020-05-25,2020,Gilead,oncology,Phase 3,719,34,Met primary endpoint,1,0,9.1
+NCT00000391,2020-06-02,2020,Takeda,immunology,Phase 2,674,25,Met primary endpoint,1,0,9.6
+NCT00000386,2020-06-08,2020,Vertex,immunology,Phase 2,249,19,Met primary endpoint,1,0,12.0
+NCT00000369,2020-06-26,2020,Takeda,cardiovascular,Phase 3,1183,44,Met primary endpoint,1,0,5.6
+NCT00000371,2020-07-07,2020,J&J,neurology,Phase 3,2805,38,Failed primary endpoint,0,1,-13.2
+NCT00000389,2020-07-08,2020,Regeneron,neurology,Phase 3,1091,33,Failed primary endpoint,0,1,-24.2
+NCT00000381,2020-07-10,2020,Moderna,oncology,Phase 3,489,34,Failed primary endpoint,0,1,-13.5
+NCT00000373,2020-08-06,2020,Sanofi,gastrointestinal,Phase 3,866,39,Met primary endpoint,1,0,13.8
+NCT00000388,2020-09-01,2020,Merck,oncology,Phase 2,94,6,Met primary endpoint,1,0,12.6
+NCT00000384,2020-09-04,2020,Novartis,metabolic,Phase 2,463,17,Mixed results,0,0,-2.7
+NCT00000392,2020-09-11,2020,Pfizer,infectious,Phase 3,690,33,Met primary endpoint,1,0,15.4
+NCT00000376,2020-10-02,2020,GSK,oncology,Phase 3,1508,36,Failed primary endpoint,0,1,-15.5
+NCT00000393,2020-10-06,2020,Bayer,oncology,Phase 2,210,23,Met primary endpoint,1,0,9.2
+NCT00000424,2021-01-01,2021,Moderna,cardiovascular,Phase 3,903,38,Met primary endpoint,1,0,-5.5
+NCT00000419,2021-01-01,2021,Eli Lilly,cardiovascular,Phase 3,2552,38,Met primary endpoint,1,0,-2.7
+NCT00000396,2021-01-05,2021,Sanofi,neurology,Phase 3,1410,25,Mixed results,0,0,-10.5
+NCT00000402,2021-01-11,2021,Regeneron,cardiovascular,Phase 3,2044,43,Failed primary endpoint,0,1,-14.8
+NCT00000423,2021-01-24,2021,Novo Nordisk,immunology,Phase 3,1588,29,Mixed results,0,0,-9.9
+NCT00000411,2021-02-08,2021,Takeda,infectious,Phase 3,499,32,Met primary endpoint,1,0,9.2
+NCT00000427,2021-02-23,2021,Vertex,rare_disease,Phase 2,168,16,Failed primary endpoint,0,1,1.6
+NCT00000430,2021-02-24,2021,Novo Nordisk,neurology,Phase 2,344,7,Failed primary endpoint,0,1,-32.8
+NCT00000425,2021-03-04,2021,Bayer,neurology,Phase 3,2729,42,Failed primary endpoint,0,1,-30.7
+NCT00000400,2021-03-15,2021,GSK,oncology,Phase 3,565,46,Failed primary endpoint,0,1,-3.4
+NCT00000413,2021-03-20,2021,GSK,cardiovascular,Phase 3,529,36,Met primary endpoint,1,0,1.1
+NCT00000405,2021-03-25,2021,Amgen,metabolic,Phase 3,772,24,Failed primary endpoint,0,1,2.3
+NCT00000406,2021-04-11,2021,Regeneron,oncology,Phase 2,232,26,Mixed results,0,0,-4.1
+NCT00000415,2021-04-13,2021,BMS,metabolic,Phase 2,182,26,Met primary endpoint,1,0,14.2
+NCT00000414,2021-04-17,2021,BioNTech,cardiovascular,Phase 2,187,9,Met primary endpoint,1,0,5.6
+NCT00000418,2021-04-21,2021,Moderna,metabolic,Phase 3,1528,38,Mixed results,0,0,-5.2
+NCT00000404,2021-05-03,2021,Moderna,immunology,Phase 3,1255,37,Failed primary endpoint,0,1,-21.5
+NCT00000409,2021-05-11,2021,Pfizer,oncology,Phase 3,2710,42,Failed primary endpoint,0,1,-14.2
+NCT00000421,2021-05-26,2021,Eli Lilly,oncology,Phase 3,1127,42,Failed primary endpoint,0,1,-0.8
+NCT00000426,2021-06-01,2021,Bayer,oncology,Phase 3,889,40,Failed primary endpoint,0,1,-10.4
+NCT00000432,2021-06-27,2021,BMS,cardiovascular,Phase 2,467,24,Failed primary endpoint,0,1,-7.0
+NCT00000420,2021-07-01,2021,BioNTech,immunology,Phase 2,376,15,Mixed results,0,0,-5.8
+NCT00000412,2021-07-09,2021,Merck,oncology,Phase 2,367,21,Failed primary endpoint,0,1,-19.5
+NCT00000408,2021-07-13,2021,J&J,oncology,Phase 2,66,16,Mixed results,0,0,-0.6
+NCT00000395,2021-08-03,2021,Novo Nordisk,oncology,Phase 2,248,12,Failed primary endpoint,0,1,-13.8
+NCT00000417,2021-08-13,2021,BioNTech,oncology,Phase 2,241,19,Met primary endpoint,1,0,11.3
+NCT00000428,2021-08-20,2021,GSK,metabolic,Phase 2,589,15,Mixed results,0,0,-0.9
+NCT00000407,2021-08-27,2021,GSK,oncology,Phase 2,112,21,Met primary endpoint,1,0,2.4
+NCT00000399,2021-09-09,2021,Roche,cardiovascular,Phase 2,320,18,Met primary endpoint,1,0,8.1
+NCT00000403,2021-09-14,2021,Novartis,respiratory,Phase 2,135,16,Met primary endpoint,1,0,5.1
+NCT00000416,2021-09-26,2021,Boehringer Ingelheim,cardiovascular,Phase 2,394,22,Met primary endpoint,1,0,6.4
+NCT00000410,2021-10-18,2021,Takeda,oncology,Phase 3,1252,36,Met primary endpoint,1,0,1.2
+NCT00000398,2021-10-24,2021,Novo Nordisk,rare_disease,Phase 2,167,13,Met primary endpoint,1,0,-3.2
+NCT00000401,2021-11-01,2021,BioNTech,respiratory,Phase 2,190,15,Failed primary endpoint,0,1,-20.0
+NCT00000422,2021-11-02,2021,Merck,oncology,Phase 2,244,15,Failed primary endpoint,0,1,-20.1
+NCT00000397,2021-11-04,2021,GSK,infectious,Phase 2,149,10,Met primary endpoint,1,0,9.5
+NCT00000431,2021-11-06,2021,Roche,cardiovascular,Phase 3,1187,33,Met primary endpoint,1,0,-0.3
+NCT00000394,2021-11-17,2021,Novartis,oncology,Phase 2,405,24,Met primary endpoint,1,0,5.5
+NCT00000429,2021-12-06,2021,Regeneron,rare_disease,Phase 2,301,16,Met primary endpoint,1,0,11.7
+NCT00000447,2022-02-01,2022,Vertex,immunology,Phase 3,317,42,Met primary endpoint,1,0,-0.4
+NCT00000438,2022-02-07,2022,Roche,immunology,Phase 3,775,34,Mixed results,0,0,4.0
+NCT00000468,2022-02-08,2022,BioNTech,oncology,Phase 3,1919,30,Failed primary endpoint,0,1,-18.0
+NCT00000461,2022-02-09,2022,Boehringer Ingelheim,oncology,Phase 3,2360,38,Failed primary endpoint,0,1,-6.1
+NCT00000465,2022-02-14,2022,Merck,metabolic,Phase 2,268,24,Met primary endpoint,1,0,2.0
+NCT00000449,2022-02-16,2022,Takeda,oncology,Phase 2,125,17,Met primary endpoint,1,0,9.6
+NCT00000464,2022-02-24,2022,AstraZeneca,infectious,Phase 2,200,20,Met primary endpoint,1,0,17.4
+NCT00000442,2022-02-24,2022,AbbVie,respiratory,Phase 2,141,21,Met primary endpoint,1,0,6.9
+NCT00000450,2022-02-27,2022,BMS,metabolic,Phase 3,766,38,Mixed results,0,0,-11.0
+NCT00000445,2022-03-08,2022,J&J,cardiovascular,Phase 2,236,24,Met primary endpoint,1,0,-4.6
+NCT00000434,2022-03-22,2022,GSK,oncology,Phase 3,539,45,Failed primary endpoint,0,1,-19.3
+NCT00000448,2022-04-05,2022,GSK,infectious,Phase 2,628,24,Mixed results,0,0,-9.2
+NCT00000471,2022-04-20,2022,Gilead,immunology,Phase 2,223,15,Mixed results,0,0,-7.1
+NCT00000435,2022-05-02,2022,Sanofi,infectious,Phase 3,2536,41,Mixed results,0,0,-3.1
+NCT00000439,2022-05-05,2022,Eli Lilly,infectious,Phase 3,1870,43,Mixed results,0,0,2.1
+NCT00000453,2022-05-07,2022,GSK,metabolic,Phase 3,560,36,Met primary endpoint,1,0,8.5
+NCT00000437,2022-05-15,2022,GSK,metabolic,Phase 3,1050,29,Met primary endpoint,1,0,5.5
+NCT00000460,2022-06-04,2022,BMS,infectious,Phase 3,1438,33,Mixed results,0,0,-1.1
+NCT00000441,2022-06-04,2022,Novo Nordisk,immunology,Phase 3,433,28,Mixed results,0,0,0.1
+NCT00000452,2022-06-05,2022,Sanofi,respiratory,Phase 2,245,23,Met primary endpoint,1,0,15.1
+NCT00000470,2022-06-12,2022,Gilead,immunology,Phase 3,1567,41,Met primary endpoint,1,0,7.8
+NCT00000458,2022-06-13,2022,Novartis,cardiovascular,Phase 3,781,39,Met primary endpoint,1,0,3.0
+NCT00000472,2022-06-14,2022,GSK,cardiovascular,Phase 3,1368,42,Met primary endpoint,1,0,-1.0
+NCT00000469,2022-06-24,2022,Amgen,immunology,Phase 2,298,6,Met primary endpoint,1,0,3.9
+NCT00000433,2022-07-15,2022,Gilead,gastrointestinal,Phase 2,308,10,Mixed results,0,0,1.9
+NCT00000466,2022-07-23,2022,Moderna,psychiatry,Phase 2,238,26,Met primary endpoint,1,0,5.8
+NCT00000443,2022-08-01,2022,BMS,immunology,Phase 2,244,15,Met primary endpoint,1,0,11.5
+NCT00000467,2022-08-21,2022,Novartis,respiratory,Phase 3,1493,27,Met primary endpoint,1,0,10.1
+NCT00000436,2022-09-01,2022,Amgen,cardiovascular,Phase 3,1019,29,Met primary endpoint,1,0,10.7
+NCT00000446,2022-09-13,2022,Novartis,psychiatry,Phase 3,2189,43,Met primary endpoint,1,0,5.9
+NCT00000462,2022-09-24,2022,BioNTech,oncology,Phase 2,155,22,Failed primary endpoint,0,1,-31.7
+NCT00000455,2022-10-01,2022,Vertex,oncology,Phase 3,860,36,Failed primary endpoint,0,1,-17.0
+NCT00000459,2022-10-09,2022,Bayer,oncology,Phase 3,1830,56,Failed primary endpoint,0,1,-16.9
+NCT00000451,2022-10-18,2022,GSK,neurology,Phase 2,176,6,Failed primary endpoint,0,1,-2.2
+NCT00000454,2022-10-21,2022,Pfizer,gastrointestinal,Phase 3,399,45,Met primary endpoint,1,0,-4.7
+NCT00000457,2022-11-03,2022,Takeda,respiratory,Phase 2,815,26,Met primary endpoint,1,0,8.2
+NCT00000440,2022-11-11,2022,Regeneron,gastrointestinal,Phase 2,551,19,Met primary endpoint,1,0,10.8
+NCT00000456,2022-12-02,2022,Takeda,metabolic,Phase 3,2187,29,Met primary endpoint,1,0,10.2
+NCT00000444,2022-12-04,2022,Vertex,neurology,Phase 3,2887,42,Failed primary endpoint,0,1,-18.3
+NCT00000463,2022-12-06,2022,Eli Lilly,oncology,Phase 3,575,32,Failed primary endpoint,0,1,-19.3
+NCT00000496,2023-01-18,2023,Merck,respiratory,Phase 3,356,27,Met primary endpoint,1,0,12.0
+NCT00000503,2023-01-27,2023,Bayer,rare_disease,Phase 2,267,23,Met primary endpoint,1,0,6.7
+NCT00000499,2023-02-18,2023,Novartis,oncology,Phase 2,175,15,Mixed results,0,0,-3.8
+NCT00000495,2023-02-26,2023,Merck,immunology,Phase 3,949,40,Met primary endpoint,1,0,2.9
+NCT00000500,2023-03-04,2023,Bayer,oncology,Phase 3,1406,33,Failed primary endpoint,0,1,0.9
+NCT00000484,2023-03-26,2023,Eli Lilly,infectious,Phase 2,259,29,Met primary endpoint,1,0,10.2
+NCT00000498,2023-04-19,2023,Eli Lilly,infectious,Phase 3,1147,30,Failed primary endpoint,0,1,-34.4
+NCT00000511,2023-04-25,2023,Boehringer Ingelheim,neurology,Phase 2,127,12,Mixed results,0,0,-7.6
+NCT00000507,2023-05-08,2023,Merck,neurology,Phase 2,380,14,Met primary endpoint,1,0,3.8
+NCT00000476,2023-05-12,2023,Pfizer,neurology,Phase 3,808,50,Failed primary endpoint,0,1,-13.0
+NCT00000478,2023-05-16,2023,BioNTech,rare_disease,Phase 3,933,41,Failed primary endpoint,0,1,-21.2
+NCT00000474,2023-05-19,2023,Pfizer,metabolic,Phase 3,753,43,Failed primary endpoint,0,1,1.8
+NCT00000489,2023-05-27,2023,Regeneron,respiratory,Phase 2,138,17,Failed primary endpoint,0,1,-15.6
+NCT00000504,2023-06-03,2023,Moderna,psychiatry,Phase 3,1847,39,Failed primary endpoint,0,1,-27.0
+NCT00000506,2023-06-14,2023,AstraZeneca,neurology,Phase 3,1186,51,Failed primary endpoint,0,1,-23.6
+NCT00000505,2023-06-15,2023,Novo Nordisk,neurology,Phase 2,172,20,Failed primary endpoint,0,1,-12.4
+NCT00000477,2023-06-27,2023,Pfizer,immunology,Phase 3,403,33,Mixed results,0,0,1.0
+NCT00000493,2023-07-03,2023,Merck,immunology,Phase 2,154,21,Met primary endpoint,1,0,13.2
+NCT00000482,2023-07-04,2023,AbbVie,neurology,Phase 3,466,43,Failed primary endpoint,0,1,5.9
+NCT00000501,2023-08-01,2023,Gilead,oncology,Phase 3,1383,32,Mixed results,0,0,-8.0
+NCT00000502,2023-08-04,2023,Amgen,infectious,Phase 2,357,26,Met primary endpoint,1,0,0.0
+NCT00000486,2023-08-06,2023,BMS,oncology,Phase 3,953,35,Failed primary endpoint,0,1,-19.9
+NCT00000480,2023-09-10,2023,Eli Lilly,oncology,Phase 3,616,34,Failed primary endpoint,0,1,-12.4
+NCT00000485,2023-09-11,2023,AbbVie,respiratory,Phase 2,225,19,Mixed results,0,0,-0.1
+NCT00000492,2023-09-18,2023,Moderna,immunology,Phase 2,270,7,Met primary endpoint,1,0,4.6
+NCT00000508,2023-09-20,2023,Regeneron,respiratory,Phase 3,437,29,Failed primary endpoint,0,1,0.2
+NCT00000479,2023-09-21,2023,Vertex,immunology,Phase 3,917,27,Met primary endpoint,1,0,-1.3
+NCT00000473,2023-09-22,2023,Merck,oncology,Phase 2,256,16,Mixed results,0,0,-2.0
+NCT00000509,2023-10-13,2023,Gilead,metabolic,Phase 3,974,34,Met primary endpoint,1,0,3.0
+NCT00000475,2023-10-15,2023,Amgen,oncology,Phase 3,1453,30,Met primary endpoint,1,0,16.3
+NCT00000494,2023-10-24,2023,Moderna,cardiovascular,Phase 2,229,17,Failed primary endpoint,0,1,-14.6
+NCT00000481,2023-11-12,2023,BioNTech,oncology,Phase 2,47,15,Mixed results,0,0,1.6
+NCT00000513,2023-11-15,2023,BMS,cardiovascular,Phase 3,552,28,Met primary endpoint,1,0,0.8
+NCT00000491,2023-11-19,2023,Merck,oncology,Phase 2,100,26,Met primary endpoint,1,0,10.6
+NCT00000512,2023-11-22,2023,Pfizer,oncology,Phase 3,685,30,Failed primary endpoint,0,1,-8.0
+NCT00000483,2023-11-26,2023,Takeda,immunology,Phase 2,154,16,Mixed results,0,0,-2.2
+NCT00000488,2023-12-03,2023,Moderna,oncology,Phase 2,249,26,Failed primary endpoint,0,1,-9.3
+NCT00000497,2023-12-06,2023,Merck,gastrointestinal,Phase 3,358,36,Met primary endpoint,1,0,9.8
+NCT00000487,2023-12-11,2023,BioNTech,oncology,Phase 2,342,12,Mixed results,0,0,-0.5
+NCT00000510,2023-12-16,2023,Takeda,metabolic,Phase 3,957,40,Mixed results,0,0,-4.3
+NCT00000490,2023-12-18,2023,Takeda,neurology,Phase 3,984,30,Failed primary endpoint,0,1,-4.0
+NCT00000521,2024-01-03,2024,Pfizer,infectious,Phase 3,697,28,Met primary endpoint,1,0,-2.1
+NCT00000522,2024-01-07,2024,Regeneron,oncology,Phase 3,2130,37,Met primary endpoint,1,0,7.8
+NCT00000539,2024-01-13,2024,Roche,oncology,Phase 3,1098,39,Failed primary endpoint,0,1,-13.3
+NCT00000541,2024-01-25,2024,Bayer,immunology,Phase 2,394,9,Met primary endpoint,1,0,1.6
+NCT00000517,2024-02-01,2024,Novartis,neurology,Phase 2,145,19,Failed primary endpoint,0,1,-8.5
+NCT00000543,2024-02-07,2024,Regeneron,metabolic,Phase 2,239,18,Mixed results,0,0,2.0
+NCT00000555,2024-02-14,2024,Vertex,rare_disease,Phase 2,214,27,Met primary endpoint,1,0,10.2
+NCT00000534,2024-03-01,2024,Merck,oncology,Phase 2,193,7,Failed primary endpoint,0,1,-19.4
+NCT00000536,2024-03-07,2024,Pfizer,infectious,Phase 3,1633,40,Met primary endpoint,1,0,1.4
+NCT00000533,2024-03-09,2024,Takeda,oncology,Phase 2,175,13,Mixed results,0,0,-1.0
+NCT00000519,2024-03-14,2024,Sanofi,oncology,Phase 3,618,30,Failed primary endpoint,0,1,-9.7
+NCT00000551,2024-03-21,2024,Bayer,oncology,Phase 3,2456,31,Failed primary endpoint,0,1,-14.5
+NCT00000527,2024-03-26,2024,J&J,neurology,Phase 2,400,24,Failed primary endpoint,0,1,-20.6
+NCT00000516,2024-04-01,2024,Amgen,respiratory,Phase 2,119,29,Met primary endpoint,1,0,16.7
+NCT00000514,2024-04-27,2024,Takeda,gastrointestinal,Phase 3,644,38,Met primary endpoint,1,0,3.9
+NCT00000530,2024-06-06,2024,Vertex,cardiovascular,Phase 2,336,16,Met primary endpoint,1,0,1.9
+NCT00000524,2024-06-11,2024,Regeneron,immunology,Phase 3,954,41,Failed primary endpoint,0,1,-8.6
+NCT00000542,2024-07-05,2024,Vertex,cardiovascular,Phase 2,348,31,Met primary endpoint,1,0,11.7
+NCT00000546,2024-07-09,2024,Amgen,rare_disease,Phase 2,433,13,Failed primary endpoint,0,1,-14.8
+NCT00000520,2024-07-11,2024,Vertex,rare_disease,Phase 3,398,40,Mixed results,0,0,-2.6
+NCT00000532,2024-07-17,2024,GSK,infectious,Phase 3,444,39,Failed primary endpoint,0,1,-7.5
+NCT00000528,2024-07-21,2024,J&J,infectious,Phase 3,829,33,Met primary endpoint,1,0,21.5
+NCT00000545,2024-08-10,2024,AstraZeneca,infectious,Phase 3,786,38,Met primary endpoint,1,0,14.3
+NCT00000547,2024-08-11,2024,Novo Nordisk,cardiovascular,Phase 2,326,24,Mixed results,0,0,1.7
+NCT00000540,2024-08-14,2024,Vertex,oncology,Phase 3,883,32,Mixed results,0,0,-3.0
+NCT00000549,2024-08-22,2024,Vertex,neurology,Phase 2,278,20,Failed primary endpoint,0,1,-9.6
+NCT00000548,2024-09-02,2024,Regeneron,oncology,Phase 3,1056,46,Met primary endpoint,1,0,12.8
+NCT00000550,2024-09-21,2024,Takeda,infectious,Phase 3,962,39,Mixed results,0,0,-7.9
+NCT00000553,2024-09-21,2024,J&J,oncology,Phase 3,448,52,Met primary endpoint,1,0,7.3
+NCT00000544,2024-09-25,2024,Novo Nordisk,immunology,Phase 3,1622,42,Failed primary endpoint,0,1,-5.5
+NCT00000554,2024-10-05,2024,Vertex,neurology,Phase 3,1246,24,Failed primary endpoint,0,1,-27.0
+NCT00000529,2024-10-09,2024,Bayer,oncology,Phase 3,1180,34,Failed primary endpoint,0,1,-41.2
+NCT00000552,2024-10-14,2024,AstraZeneca,infectious,Phase 3,513,50,Met primary endpoint,1,0,14.2
+NCT00000525,2024-10-17,2024,Roche,respiratory,Phase 3,434,29,Met primary endpoint,1,0,9.2
+NCT00000515,2024-11-02,2024,BMS,oncology,Phase 3,850,39,Failed primary endpoint,0,1,-8.3
+NCT00000535,2024-11-05,2024,BMS,oncology,Phase 3,1170,41,Failed primary endpoint,0,1,0.4
+NCT00000518,2024-11-13,2024,Sanofi,neurology,Phase 2,361,16,Met primary endpoint,1,0,20.9
+NCT00000537,2024-11-14,2024,BioNTech,immunology,Phase 2,122,19,Met primary endpoint,1,0,9.1
+NCT00000531,2024-11-15,2024,AstraZeneca,immunology,Phase 2,342,21,Met primary endpoint,1,0,12.8
+NCT00000523,2024-12-01,2024,Merck,immunology,Phase 2,336,18,Met primary endpoint,1,0,-6.1
+NCT00000526,2024-12-21,2024,Regeneron,neurology,Phase 2,793,20,Failed primary endpoint,0,1,-8.6
+NCT00000538,2024-12-23,2024,Pfizer,cardiovascular,Phase 2,62,19,Met primary endpoint,1,0,12.7
+NCT00000574,2025-01-02,2025,Merck,oncology,Phase 2,254,21,Met primary endpoint,1,0,4.9
+NCT00000567,2025-01-05,2025,AstraZeneca,oncology,Phase 3,952,34,Failed primary endpoint,0,1,-9.4
+NCT00000583,2025-01-10,2025,GSK,oncology,Phase 3,380,36,Met primary endpoint,1,0,4.1
+NCT00000578,2025-01-13,2025,Novartis,rare_disease,Phase 2,152,21,Met primary endpoint,1,0,18.0
+NCT00000589,2025-01-20,2025,GSK,metabolic,Phase 2,117,16,Mixed results,0,0,0.6
+NCT00000560,2025-02-05,2025,BioNTech,psychiatry,Phase 2,404,21,Failed primary endpoint,0,1,-13.0
+NCT00000572,2025-02-08,2025,Eli Lilly,cardiovascular,Phase 3,640,45,Met primary endpoint,1,0,-2.3
+NCT00000558,2025-02-11,2025,AstraZeneca,neurology,Phase 3,1499,34,Mixed results,0,0,-4.9
+NCT00000575,2025-02-19,2025,Roche,cardiovascular,Phase 3,495,37,Met primary endpoint,1,0,5.3
+NCT00000592,2025-03-09,2025,J&J,rare_disease,Phase 2,186,16,Failed primary endpoint,0,1,-2.5
+NCT00000576,2025-04-06,2025,Vertex,infectious,Phase 3,2298,28,Met primary endpoint,1,0,7.7
+NCT00000593,2025-05-01,2025,GSK,oncology,Phase 2,322,30,Met primary endpoint,1,0,11.0
+NCT00000579,2025-05-12,2025,Sanofi,metabolic,Phase 2,260,8,Met primary endpoint,1,0,8.0
+NCT00000595,2025-05-12,2025,Pfizer,gastrointestinal,Phase 3,363,31,Failed primary endpoint,0,1,-4.5
+NCT00000556,2025-05-17,2025,Amgen,immunology,Phase 3,3689,39,Failed primary endpoint,0,1,2.4
+NCT00000591,2025-05-22,2025,Pfizer,psychiatry,Phase 3,1886,29,Failed primary endpoint,0,1,-13.1
+NCT00000577,2025-05-24,2025,Roche,neurology,Phase 3,1421,30,Met primary endpoint,1,0,10.2
+NCT00000584,2025-05-25,2025,BioNTech,oncology,Phase 3,940,33,Failed primary endpoint,0,1,-9.8
+NCT00000588,2025-06-20,2025,J&J,infectious,Phase 2,255,24,Met primary endpoint,1,0,7.7
+NCT00000587,2025-07-08,2025,Merck,infectious,Phase 3,2499,38,Mixed results,0,0,-0.1
+NCT00000585,2025-08-14,2025,Eli Lilly,infectious,Phase 3,1003,31,Met primary endpoint,1,0,-2.7
+NCT00000570,2025-08-19,2025,Novo Nordisk,oncology,Phase 2,316,21,Failed primary endpoint,0,1,-14.2
+NCT00000582,2025-08-24,2025,GSK,immunology,Phase 2,364,24,Met primary endpoint,1,0,13.2
+NCT00000571,2025-08-26,2025,Roche,oncology,Phase 3,683,37,Failed primary endpoint,0,1,-27.0
+NCT00000561,2025-08-26,2025,GSK,oncology,Phase 3,973,39,Met primary endpoint,1,0,7.6
+NCT00000569,2025-09-02,2025,BioNTech,immunology,Phase 3,890,26,Failed primary endpoint,0,1,-10.0
+NCT00000559,2025-09-10,2025,BMS,gastrointestinal,Phase 2,230,16,Met primary endpoint,1,0,-1.1
+NCT00000564,2025-09-13,2025,BioNTech,immunology,Phase 2,213,11,Mixed results,0,0,-3.0
+NCT00000594,2025-09-19,2025,Sanofi,rare_disease,Phase 3,2325,45,Met primary endpoint,1,0,8.5
+NCT00000568,2025-09-21,2025,Pfizer,immunology,Phase 2,146,17,Mixed results,0,0,-3.8
+NCT00000586,2025-10-01,2025,Pfizer,cardiovascular,Phase 2,150,18,Met primary endpoint,1,0,14.1
+NCT00000557,2025-10-14,2025,AbbVie,cardiovascular,Phase 2,132,16,Met primary endpoint,1,0,12.6
+NCT00000566,2025-10-24,2025,J&J,neurology,Phase 3,977,33,Failed primary endpoint,0,1,-19.5
+NCT00000580,2025-10-26,2025,Boehringer Ingelheim,psychiatry,Phase 3,1758,34,Met primary endpoint,1,0,7.8
+NCT00000563,2025-10-26,2025,Gilead,neurology,Phase 3,732,26,Met primary endpoint,1,0,-0.2
+NCT00000573,2025-11-12,2025,Boehringer Ingelheim,oncology,Phase 2,112,14,Failed primary endpoint,0,1,-10.3
+NCT00000562,2025-11-24,2025,Sanofi,immunology,Phase 3,355,38,Failed primary endpoint,0,1,-11.1
+NCT00000581,2025-11-27,2025,Novartis,oncology,Phase 3,1299,35,Met primary endpoint,1,0,2.9
+NCT00000590,2025-12-09,2025,Takeda,oncology,Phase 2,377,16,Met primary endpoint,1,0,11.8
+NCT00000565,2025-12-22,2025,BMS,rare_disease,Phase 2,1132,9,Met primary endpoint,1,0,7.4
+NCT00000597,2026-01-12,2026,Gilead,infectious,Phase 2,301,12,Met primary endpoint,1,0,-3.1
+NCT00000599,2026-02-07,2026,Vertex,rare_disease,Phase 2,219,28,Met primary endpoint,1,0,0.2
+NCT00000598,2026-02-14,2026,Novartis,oncology,Phase 3,559,20,Met primary endpoint,1,0,-0.8
+NCT00000596,2026-04-05,2026,GSK,rare_disease,Phase 3,1109,31,Met primary endpoint,1,0,13.0

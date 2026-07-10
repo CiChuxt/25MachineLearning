@@ -1,0 +1,83 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import umap
+from sklearn.datasets import fetch_openml
+import time
+
+# ---------------------- 1. 加载高维Fashion-MNIST数据集（784维） ----------------------
+print("正在加载Fashion-MNIST数据集...")
+# 784维特征，10类服饰标签
+X, y = fetch_openml("Fashion-MNIST", version=1, return_X_y=True, as_frame=False)
+X = X / 255.0  # 像素归一化 [0,1]
+# 采样10000个样本加速运算（完整60000样本可去掉切片）
+sample_num = 10000
+np.random.seed(42)
+sample_idx = np.random.choice(len(X), sample_num, replace=False)
+X_sample = X[sample_idx]
+y_sample = y[sample_idx].astype(int)
+print(f"输入数据维度：{X_sample.shape}")  # (10000,784) 高维数据
+
+# ---------------------- 2. UMAP降维 ----------------------
+print("开始UMAP降维...")
+start_time = time.time()
+# 论文最优参数：n_neighbors=15，min_dist=0.1
+umap_model = umap.UMAP(
+    n_components=2,
+    n_neighbors=15,
+    min_dist=0.1,
+    metric="euclidean",
+    random_state=42,
+    n_jobs=-1
+)
+embedding_2d = umap_model.fit_transform(X_sample)
+run_time = time.time() - start_time
+print(f"UMAP降维完成，耗时：{run_time:.2f}s，输出维度：{embedding_2d.shape}")
+
+# ---------------------- 3. 绘制降维可视化图（论文可用） ----------------------
+plt.figure(figsize=(10, 8), dpi=120)
+sns.set_style("white")
+# 绘制散点，10类标签区分颜色
+scatter = plt.scatter(
+    embedding_2d[:, 0], embedding_2d[:, 1],
+    c=y_sample,
+    cmap="Spectral",
+    s=3,
+    alpha=0.8
+)
+plt.colorbar(scatter, label="Fashion-MNIST类别标签(0-9)")
+plt.xlabel("UMAP Dimension 1", fontsize=11)
+plt.ylabel("UMAP Dimension 2", fontsize=11)
+plt.title("UMAP降维可视化 - Fashion-MNIST 784维高维图像", fontsize=13, pad=12)
+plt.grid(alpha=0.3)
+plt.tight_layout()
+# 保存高清图片（直接插入报告）
+plt.savefig("umap_fmnist_visual.png", dpi=300, bbox_inches="tight")
+plt.show()
+
+# ---------------------- 4. 参数敏感性对比图（补充实验图） ----------------------
+fig, axes = plt.subplots(2, 2, figsize=(14, 10), dpi=100)
+params_list = [
+    {"n_neighbors": 5, "min_dist": 0.1, "title": "n_neighbors=5（局部过碎）"},
+    {"n_neighbors": 50, "min_dist": 0.1, "title": "n_neighbors=50（全局粘连）"},
+    {"n_neighbors": 15, "min_dist": 0.001, "title": "min_dist=0.001（簇挤压）"},
+    {"n_neighbors": 15, "min_dist": 1.0, "title": "min_dist=1.0（簇分散）"},
+]
+for idx, ax in enumerate(axes.flatten()):
+    p = params_list[idx]
+    tmp_umap = umap.UMAP(
+        n_components=2,
+        n_neighbors=p["n_neighbors"],
+        min_dist=p["min_dist"],
+        random_state=42,
+        n_jobs=-1
+    )
+    tmp_emb = tmp_umap.fit_transform(X_sample[:3000])
+    ax.scatter(tmp_emb[:,0], tmp_emb[:,1], c=y_sample[:3000], cmap="Spectral", s=5)
+    ax.set_title(p["title"], fontsize=10)
+    ax.set_xlabel("UMAP1")
+    ax.set_ylabel("UMAP2")
+plt.suptitle("UMAP超参数敏感性对比实验", fontsize=14)
+plt.tight_layout()
+plt.savefig("umap_param_compare.png", dpi=300)
+plt.show()

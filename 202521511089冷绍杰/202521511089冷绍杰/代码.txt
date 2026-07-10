@@ -1,0 +1,141 @@
+!pip install umap-learn matplotlib seaborn scikit-learn
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.datasets import fetch_openml
+from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE
+import umap
+
+plt.rcParams['figure.figsize'] = (8, 6)
+
+mnist = fetch_openml('mnist_784', version=1)
+X = mnist.data / 255.0   # 归一化
+y = mnist.target.astype(int)
+
+print(X.shape, y.shape)
+
+
+from sklearn.model_selection import train_test_split
+
+X_small, _, y_small, _ = train_test_split(
+    X, y, train_size=10000, stratify=y, random_state=42
+)
+
+print(X_small.shape)
+
+
+pca = PCA(n_components=2)
+X_pca = pca.fit_transform(X_small)
+plt.scatter(X_pca[:,0], X_pca[:,1], c=y_small, cmap='tab10', s=5)
+plt.title("PCA on MNIST")
+plt.colorbar()
+plt.show()
+
+
+tsne = TSNE(
+    n_components=2,
+    perplexity=30,
+    learning_rate='auto',
+    init='pca',
+    random_state=42
+)
+
+X_tsne = tsne.fit_transform(X_small)
+plt.scatter(X_tsne[:,0], X_tsne[:,1], c=y_small, cmap='tab10', s=5)
+plt.title("t-SNE on MNIST")
+plt.colorbar()
+plt.show()
+
+
+
+umap_model = umap.UMAP(
+    n_neighbors=15,
+    min_dist=0.1,
+    n_components=2,
+    random_state=42
+)
+
+X_umap = umap_model.fit_transform(X_small)
+plt.scatter(X_umap[:,0], X_umap[:,1], c=y_small, cmap='tab10', s=5)
+plt.title("UMAP on MNIST")
+plt.colorbar()
+plt.show()
+
+
+fig, axs = plt.subplots(1, 3, figsize=(18, 5))
+
+axs[0].scatter(X_pca[:,0], X_pca[:,1], c=y_small, cmap='tab10', s=5)
+axs[0].set_title("PCA")
+
+axs[1].scatter(X_tsne[:,0], X_tsne[:,1], c=y_small, cmap='tab10', s=5)
+axs[1].set_title("t-SNE")
+
+axs[2].scatter(X_umap[:,0], X_umap[:,1], c=y_small, cmap='tab10', s=5)
+axs[2].set_title("UMAP")
+
+plt.show()
+
+
+
+import umap
+import matplotlib.pyplot as plt
+
+neighbors_list = [5, 15, 50, 100]
+
+fig, axs = plt.subplots(1, 4, figsize=(20, 4))
+
+for i, n in enumerate(neighbors_list):
+    model = umap.UMAP(n_neighbors=n, min_dist=0.1, random_state=42)
+    X_emb = model.fit_transform(X_small)
+    
+    axs[i].scatter(X_emb[:,0], X_emb[:,1], c=y_small, cmap='tab10', s=3)
+    axs[i].set_title(f"n_neighbors={n}")
+
+plt.show()
+
+
+
+min_dist_list = [0.0, 0.1, 0.5, 0.9]
+
+fig, axs = plt.subplots(1, 4, figsize=(20, 4))
+
+for i, md in enumerate(min_dist_list):
+    model = umap.UMAP(n_neighbors=15, min_dist=md, random_state=42)
+    X_emb = model.fit_transform(X_small)
+    
+    axs[i].scatter(X_emb[:,0], X_emb[:,1], c=y_small, cmap='tab10', s=3)
+    axs[i].set_title(f"min_dist={md}")
+
+plt.show()
+
+
+fig, axs = plt.subplots(1, 3, figsize=(15, 4))
+
+for i, seed in enumerate([0, 42, 99]):
+    model = umap.UMAP(random_state=seed)
+    X_emb = model.fit_transform(X_small)
+    
+    axs[i].scatter(X_emb[:,0], X_emb[:,1], c=y_small, cmap='tab10', s=3)
+    axs[i].set_title(f"seed={seed}")
+
+plt.show()
+
+
+
+import umap
+import matplotlib.pyplot as plt
+
+best_model = umap.UMAP(
+    n_neighbors=15,
+    min_dist=0.1,
+    random_state=42
+)
+
+X_best = best_model.fit_transform(X_small)
+
+plt.figure(figsize=(6,5))
+plt.scatter(X_best[:,0], X_best[:,1], c=y_small, cmap='tab10', s=5)
+plt.title("UMAP (Best Parameters)")
+plt.colorbar()
+plt.show()
+
